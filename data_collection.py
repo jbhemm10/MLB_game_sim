@@ -1,11 +1,26 @@
+""""
+This script downloads hitting and pitching data from MLB Savant for the current year. 
+INPUTS: 
+- Hitting statistics including various "basic" and "advanced" metrics from Baseball Savant.
+- Pitching statistics including various "basic" and "advanced" metrics from Baseball Savant.
+OUTPUTS:
+- CSV files containing the data for hitters and pitchers.
+
+# The data is saved in a folder named "player_data" with the current year as part of the filename.
+"""
+
+# Import necessary libraries
 import requests
 import datetime
-
+import os
 # Download hitting data from MLB Savant from the current year
 def download_hitters_data(save_path=None):
 
     # Get the current year
     current_year = datetime.datetime.now().year 
+
+    # Create player_data folder if it doesn't exist
+    os.makedirs("player_data", exist_ok=True)
 
     if save_path is None:
         save_path = f'player_data/{current_year}_hitters_data.csv'
