@@ -1,4 +1,14 @@
-# Master python file to run all of the functions created in the other files
+"""
+This script is the master file for the simulation. It calls all of the neccessary functions
+to properly run the simulation.
+INPUTS:
+- Hitting and pitching data from MLB Savant for the current year
+- Game information for the current date
+OUTPUTS:
+- CSV files containing the data for hitters and pitchers
+- JSON file containing game information including teams, pitchers, venue, and game time
+
+"""
 
 #Import the necessary libraries
 import pandas as pd
@@ -32,4 +42,5 @@ games = get_games_for_date(date, save_to_file=True)
 
 # Print the games to verify
 for game in games:
-    print(f"{game['away_team']} ({game['away_pitcher']}) at {game['home_team']} ({game['home_pitcher']}) - {game['venue']} - {game['game_time_et']}")
+        print(f"{game['away_team']} ({game['away_pitcher']})  at {game['home_team']} ({game['home_pitcher']}) - {game['venue']} - {game['game_time_et']}")
+

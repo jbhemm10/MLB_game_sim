@@ -4,6 +4,8 @@
         "away_team": "Chicago Cubs",
         "home_pitcher": "Griffin Canning",
         "away_pitcher": "Matthew Boyd",
+        "home_pitcher_id": 656288,
+        "away_pitcher_id": 571510,
         "venue": "Citi Field",
         "game_time_et": "2025-05-11 12:05 PM EDT",
         "gamePk": 777968
@@ -13,6 +15,8 @@
         "away_team": "St. Louis Cardinals",
         "home_pitcher": "MacKenzie Gore",
         "away_pitcher": "Miles Mikolas",
+        "home_pitcher_id": 669022,
+        "away_pitcher_id": 571945,
         "venue": "Nationals Park",
         "game_time_et": "2025-05-11 01:35 PM EDT",
         "gamePk": 777962
@@ -22,6 +26,8 @@
         "away_team": "Atlanta Braves",
         "home_pitcher": "Carmen Mlodzinski",
         "away_pitcher": "Chris Sale",
+        "home_pitcher_id": 669387,
+        "away_pitcher_id": 519242,
         "venue": "PNC Park",
         "game_time_et": "2025-05-11 01:35 PM EDT",
         "gamePk": 777967
@@ -31,6 +37,8 @@
         "away_team": "Texas Rangers",
         "home_pitcher": "Reese Olson",
         "away_pitcher": "Nathan Eovaldi",
+        "home_pitcher_id": 681857,
+        "away_pitcher_id": 543135,
         "venue": "Comerica Park",
         "game_time_et": "2025-05-11 01:40 PM EDT",
         "gamePk": 777969
@@ -40,6 +48,8 @@
         "away_team": "Milwaukee Brewers",
         "home_pitcher": "Drew Rasmussen",
         "away_pitcher": "Chad Patrick",
+        "home_pitcher_id": 656876,
+        "away_pitcher_id": 694477,
         "venue": "George M. Steinbrenner Field",
         "game_time_et": "2025-05-11 01:40 PM EDT",
         "gamePk": 777964
@@ -49,6 +59,8 @@
         "away_team": "Cincinnati Reds",
         "home_pitcher": "Ronel Blanco",
         "away_pitcher": "Chase Petty",
+        "home_pitcher_id": 669854,
+        "away_pitcher_id": 695534,
         "venue": "Daikin Park",
         "game_time_et": "2025-05-11 02:10 PM EDT",
         "gamePk": 777963
@@ -58,6 +70,8 @@
         "away_team": "Boston Red Sox",
         "home_pitcher": "Seth Lugo",
         "away_pitcher": "Lucas Giolito",
+        "home_pitcher_id": 607625,
+        "away_pitcher_id": 608337,
         "venue": "Kauffman Stadium",
         "game_time_et": "2025-05-11 02:10 PM EDT",
         "gamePk": 777965
@@ -67,6 +81,8 @@
         "away_team": "San Francisco Giants",
         "home_pitcher": "Pablo L\u00f3pez",
         "away_pitcher": "Landen Roupp",
+        "home_pitcher_id": 641154,
+        "away_pitcher_id": 694738,
         "venue": "Target Field",
         "game_time_et": "2025-05-11 02:10 PM EDT",
         "gamePk": 777956
@@ -76,6 +92,8 @@
         "away_team": "Miami Marlins",
         "home_pitcher": "Sean Burke",
         "away_pitcher": "Sandy Alcantara",
+        "home_pitcher_id": 680732,
+        "away_pitcher_id": 645261,
         "venue": "Rate Field",
         "game_time_et": "2025-05-11 02:10 PM EDT",
         "gamePk": 777966
@@ -85,6 +103,8 @@
         "away_team": "San Diego Padres",
         "home_pitcher": "Germ\u00e1n M\u00e1rquez",
         "away_pitcher": "Nick Pivetta",
+        "home_pitcher_id": 608566,
+        "away_pitcher_id": 601713,
         "venue": "Coors Field",
         "game_time_et": "2025-05-11 03:10 PM EDT",
         "gamePk": 777955
@@ -94,6 +114,8 @@
         "away_team": "New York Yankees",
         "home_pitcher": "Luis Severino",
         "away_pitcher": "Ryan Yarbrough",
+        "home_pitcher_id": 622663,
+        "away_pitcher_id": 642232,
         "venue": "Sutter Health Park",
         "game_time_et": "2025-05-11 04:05 PM EDT",
         "gamePk": 777957
@@ -103,6 +125,8 @@
         "away_team": "Baltimore Orioles",
         "home_pitcher": "Tyler Anderson",
         "away_pitcher": "Zach Eflin",
+        "home_pitcher_id": 542881,
+        "away_pitcher_id": 621107,
         "venue": "Angel Stadium",
         "game_time_et": "2025-05-11 04:07 PM EDT",
         "gamePk": 777961
@@ -112,6 +136,8 @@
         "away_team": "Los Angeles Dodgers",
         "home_pitcher": "Zac Gallen",
         "away_pitcher": "Tony Gonsolin",
+        "home_pitcher_id": 668678,
+        "away_pitcher_id": 664062,
         "venue": "Chase Field",
         "game_time_et": "2025-05-11 04:10 PM EDT",
         "gamePk": 777954
@@ -121,6 +147,8 @@
         "away_team": "Toronto Blue Jays",
         "home_pitcher": "Bryce Miller",
         "away_pitcher": "Jos\u00e9 Ure\u00f1a",
+        "home_pitcher_id": 682243,
+        "away_pitcher_id": 570632,
         "venue": "T-Mobile Park",
         "game_time_et": "2025-05-11 04:10 PM EDT",
         "gamePk": 777958
@@ -130,6 +158,8 @@
         "away_team": "Philadelphia Phillies",
         "home_pitcher": "Luis L. Ortiz",
         "away_pitcher": "Zack Wheeler",
+        "home_pitcher_id": 682847,
+        "away_pitcher_id": 554430,
         "venue": "Progressive Field",
         "game_time_et": "2025-05-11 07:10 PM EDT",
         "gamePk": 777971

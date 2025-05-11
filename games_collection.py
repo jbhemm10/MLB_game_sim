@@ -1,7 +1,12 @@
-# This file collects what games are being played today
-# The collected information is saved to a CSV file
-# The CSV file contains information about the teams playing, the date, the location, 
-# and the time of the game
+""" 
+This script collects MLB game information for a given date
+INPUTS:
+- Date in the format YYYY-MM-DD
+OUTPUTS:
+- JSON file containing game information including teams, pitchers, venue, and game time
+
+The JSON file is saved in a folder named "gameday_data" with the date as part of the filename
+"""
 
 # Import necessary libraries
 import asyncio
@@ -27,19 +32,30 @@ async def get_mlb_games(date: str):
     games = data['dates'][0]['games']
     return games
 
-# === STEP 2: For each gamePk, get the probable pitchers ===
+# === STEP 2: For each gamePk, get the probable pitchers and their IDs ===
 async def fetch_gamefeed(session, gamePk):
     url = f"https://statsapi.mlb.com/api/v1.1/game/{gamePk}/feed/live"
 
     async with session.get(url) as response:
         if response.status != 200:
             print(f"Warning: Error fetching game feed for {gamePk}: {response.status}")
-            return (gamePk, "TBD", "TBD")
+            return (gamePk, "TBD", "TBD", None, None)  # Return None for IDs if there is an error
 
         data = await response.json()
-        home_pitcher = data['gameData']['probablePitchers'].get('home', {}).get('fullName', 'TBD')
-        away_pitcher = data['gameData']['probablePitchers'].get('away', {}).get('fullName', 'TBD')
-        return (gamePk, home_pitcher, away_pitcher)
+
+        # Get the probable pitchers and their IDs
+        home_pitcher_data = data['gameData']['probablePitchers'].get('home', {})
+        away_pitcher_data = data['gameData']['probablePitchers'].get('away', {})
+
+        # Home pitcher
+        home_pitcher_name = home_pitcher_data.get('fullName', 'TBD')
+        home_pitcher_id = home_pitcher_data.get('id', None)  # ID for Baseball Savant
+
+        # Away pitcher
+        away_pitcher_name = away_pitcher_data.get('fullName', 'TBD')
+        away_pitcher_id = away_pitcher_data.get('id', None)  # ID for Baseball Savant
+
+        return (gamePk, home_pitcher_name, away_pitcher_name, home_pitcher_id, away_pitcher_id)
 
 # === STEP 3: Master function to collect full game info ===
 async def collect_full_game_info(date: str):
@@ -54,7 +70,7 @@ async def collect_full_game_info(date: str):
         tasks = [fetch_gamefeed(session, gamePk) for gamePk in gamePks]
         pitchers_data = await asyncio.gather(*tasks)
 
-    pitchers_lookup = {pk: (home_p, away_p) for pk, home_p, away_p in pitchers_data}
+    pitchers_lookup = {pk: (home_p, away_p, home_id, away_id) for pk, home_p, away_p, home_id, away_id in pitchers_data}
 
     # Set Eastern Timezone (US/Eastern)
     eastern = pytz.timezone('US/Eastern')
@@ -76,13 +92,15 @@ async def collect_full_game_info(date: str):
         else:
             game_time_et_str = "Unknown"
 
-        home_pitcher, away_pitcher = pitchers_lookup.get(gamePk, ("TBD", "TBD"))
+        home_pitcher, away_pitcher, home_pitcher_id, away_pitcher_id = pitchers_lookup.get(gamePk, ("TBD", "TBD", None, None))
 
         game_info = {
             "home_team": home_team,
             "away_team": away_team,
             "home_pitcher": home_pitcher,
             "away_pitcher": away_pitcher,
+            "home_pitcher_id": home_pitcher_id,  # Pitcher ID for Baseball Savant
+            "away_pitcher_id": away_pitcher_id,  # Pitcher ID for Baseball Savant
             "venue": venue,
             "game_time_et": game_time_et_str,  # Eastern Time
             "gamePk": gamePk
@@ -112,4 +130,3 @@ def get_games_for_date(date: str, save_to_file: bool = True):
         save_games_to_json(games, date)
 
     return games
-
