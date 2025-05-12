@@ -19,7 +19,7 @@ import pytz
 import data_collection
 from games_collection import get_games_for_date
 from lineups_collection import get_lineups_for_date
-
+import merge_hitters
 # Set the current year
 current_year = datetime.datetime.now().year
 
@@ -58,3 +58,9 @@ for lineup in lineups:
         print("Away Lineup:")
         for player in lineup['away_lineup']:
             print(f"  {player['player_name']} (ID: {player['player_id']})")
+
+# Merge the lineups data with the hitting data
+merged_data = merge_hitters.merge_offensive_data(date)
+# Print the merged data to verify
+print(merged_data.head())
+
