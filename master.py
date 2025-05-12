@@ -21,6 +21,7 @@ import data_collection
 from games_collection import get_games_for_date
 from lineups_collection import get_lineups_for_date
 import merge_hitters
+
 # Set the current year
 current_year = datetime.datetime.now().year
 
@@ -72,5 +73,4 @@ print(merged_data.head())
 # Save the merged data to a CSV file
 os.makedirs("merged_data", exist_ok=True)
 merged_data.to_csv(f"merged_data/{date}_merged_data.csv", index=False)
-
 

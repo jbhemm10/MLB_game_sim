@@ -72,6 +72,7 @@ async def fetch_lineup(session, gamePk):
             away_lineup.sort(key=lambda x: int(x['batting_order']))
 
             return (gamePk, {
+                "game_id": gamePk,
                 "home_team": home_team,
                 "away_team": away_team,
                 "home_lineup": home_lineup,
