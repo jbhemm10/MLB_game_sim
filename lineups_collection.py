@@ -1,5 +1,12 @@
 """
-This file contains the function to collect the starting lineups for a given date
+This file contains the function to collect the starting lineups for a given date.
+INPUTS:
+- date: The date for which to collect the lineups in YYYY-MM-DD format.
+OUTPUTS:
+- A list of dictionaries containing the lineups for each game on the given date.
+- Each dictionary contains the home team, away team, and the starting lineups for both teams.
+- The lineups are sorted by batting order.
+- The function also saves the lineups to a JSON file in the lineups_data directory.
 """
 
 import asyncio
