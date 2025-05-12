@@ -1,5 +1,5 @@
 **/__pycache__/
 player_data/
-gameday_data/
 MLB_Simulation_Checklist.xlsx
-lineups/
+lineups_data/
+gameday_data/

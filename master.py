@@ -13,10 +13,12 @@ OUTPUTS:
 #Import the necessary libraries
 import pandas as pd
 import datetime
+import pytz
 
 #Import the necessary modules
 import data_collection
 from games_collection import get_games_for_date
+from lineups_collection import get_lineups_for_date
 
 # Set the current year
 current_year = datetime.datetime.now().year
@@ -44,3 +46,15 @@ games = get_games_for_date(date, save_to_file=True)
 for game in games:
         print(f"{game['away_team']} ({game['away_pitcher']})  at {game['home_team']} ({game['home_pitcher']}) - {game['venue']} - {game['game_time_et']}")
 
+# Collect lineups for the current date
+lineups = get_lineups_for_date(date, save_to_file=True)
+
+# Print the lineups to verify
+for lineup in lineups:
+        print(f"{lineup['home_team']} vs {lineup['away_team']}")
+        print("Home Lineup:")
+        for player in lineup['home_lineup']:
+            print(f"  {player['player_name']} (ID: {player['player_id']})")
+        print("Away Lineup:")
+        for player in lineup['away_lineup']:
+            print(f"  {player['player_name']} (ID: {player['player_id']})")
