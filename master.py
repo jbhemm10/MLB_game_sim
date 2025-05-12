@@ -14,6 +14,7 @@ OUTPUTS:
 import pandas as pd
 import datetime
 import pytz
+import os
 
 #Import the necessary modules
 import data_collection
@@ -61,6 +62,15 @@ for lineup in lineups:
 
 # Merge the lineups data with the hitting data
 merged_data = merge_hitters.merge_offensive_data(date)
+
+# Replace missing values with 0
+merged_data.fillna(0, inplace=True)
+
 # Print the merged data to verify
 print(merged_data.head())
+
+# Save the merged data to a CSV file
+os.makedirs("merged_data", exist_ok=True)
+merged_data.to_csv(f"merged_data/{date}_merged_data.csv", index=False)
+
 
