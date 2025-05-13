@@ -347,7 +347,53 @@
                 "batting_order": "900"
             }
         ],
-        "away_lineup": []
+        "away_lineup": [
+            {
+                "player_name": "Ke'Bryan Hayes",
+                "player_id": 663647,
+                "batting_order": "100"
+            },
+            {
+                "player_name": "Bryan Reynolds",
+                "player_id": 668804,
+                "batting_order": "200"
+            },
+            {
+                "player_name": "Andrew McCutchen",
+                "player_id": 457705,
+                "batting_order": "300"
+            },
+            {
+                "player_name": "Joey Bart",
+                "player_id": 663698,
+                "batting_order": "400"
+            },
+            {
+                "player_name": "Matt Gorski",
+                "player_id": 685301,
+                "batting_order": "500"
+            },
+            {
+                "player_name": "Isiah Kiner-Falefa",
+                "player_id": 643396,
+                "batting_order": "600"
+            },
+            {
+                "player_name": "Alexander Canario",
+                "player_id": 672744,
+                "batting_order": "700"
+            },
+            {
+                "player_name": "Jared Triolo",
+                "player_id": 669707,
+                "batting_order": "800"
+            },
+            {
+                "player_name": "Henry Davis",
+                "player_id": 680779,
+                "batting_order": "900"
+            }
+        ]
     },
     {
         "game_id": 777959,
@@ -749,8 +795,100 @@
         "game_id": 777947,
         "home_team": "San Diego Padres",
         "away_team": "Los Angeles Angels",
-        "home_lineup": [],
-        "away_lineup": []
+        "home_lineup": [
+            {
+                "player_name": "Fernando Tatis Jr.",
+                "player_id": 665487,
+                "batting_order": "100"
+            },
+            {
+                "player_name": "Luis Arraez",
+                "player_id": 650333,
+                "batting_order": "200"
+            },
+            {
+                "player_name": "Manny Machado",
+                "player_id": 592518,
+                "batting_order": "300"
+            },
+            {
+                "player_name": "Jackson Merrill",
+                "player_id": 701538,
+                "batting_order": "400"
+            },
+            {
+                "player_name": "Xander Bogaerts",
+                "player_id": 593428,
+                "batting_order": "500"
+            },
+            {
+                "player_name": "Gavin Sheets",
+                "player_id": 657757,
+                "batting_order": "600"
+            },
+            {
+                "player_name": "Elias D\u00edaz",
+                "player_id": 553869,
+                "batting_order": "700"
+            },
+            {
+                "player_name": "Jake Cronenworth",
+                "player_id": 630105,
+                "batting_order": "800"
+            },
+            {
+                "player_name": "Brandon Lockridge",
+                "player_id": 663604,
+                "batting_order": "900"
+            }
+        ],
+        "away_lineup": [
+            {
+                "player_name": "Zach Neto",
+                "player_id": 687263,
+                "batting_order": "100"
+            },
+            {
+                "player_name": "Nolan Schanuel",
+                "player_id": 694384,
+                "batting_order": "200"
+            },
+            {
+                "player_name": "Yo\u00e1n Moncada",
+                "player_id": 660162,
+                "batting_order": "300"
+            },
+            {
+                "player_name": "Jorge Soler",
+                "player_id": 624585,
+                "batting_order": "400"
+            },
+            {
+                "player_name": "Taylor Ward",
+                "player_id": 621493,
+                "batting_order": "500"
+            },
+            {
+                "player_name": "Travis d'Arnaud",
+                "player_id": 518595,
+                "batting_order": "600"
+            },
+            {
+                "player_name": "Matthew Lugo",
+                "player_id": 683090,
+                "batting_order": "700"
+            },
+            {
+                "player_name": "Kyren Paris",
+                "player_id": 677347,
+                "batting_order": "800"
+            },
+            {
+                "player_name": "Tim Anderson",
+                "player_id": 641313,
+                "batting_order": "900"
+            }
+        ]
     },
     {
         "game_id": 777941,
@@ -809,7 +947,53 @@
         "game_id": 777939,
         "home_team": "San Francisco Giants",
         "away_team": "Arizona Diamondbacks",
-        "home_lineup": [],
+        "home_lineup": [
+            {
+                "player_name": "Mike Yastrzemski",
+                "player_id": 573262,
+                "batting_order": "100"
+            },
+            {
+                "player_name": "Matt Chapman",
+                "player_id": 656305,
+                "batting_order": "200"
+            },
+            {
+                "player_name": "Heliot Ramos",
+                "player_id": 671218,
+                "batting_order": "300"
+            },
+            {
+                "player_name": "Jung Hoo Lee",
+                "player_id": 808982,
+                "batting_order": "400"
+            },
+            {
+                "player_name": "Wilmer Flores",
+                "player_id": 527038,
+                "batting_order": "500"
+            },
+            {
+                "player_name": "Willy Adames",
+                "player_id": 642715,
+                "batting_order": "600"
+            },
+            {
+                "player_name": "Patrick Bailey",
+                "player_id": 672275,
+                "batting_order": "700"
+            },
+            {
+                "player_name": "Luis Matos",
+                "player_id": 682641,
+                "batting_order": "800"
+            },
+            {
+                "player_name": "Christian Koss",
+                "player_id": 683766,
+                "batting_order": "900"
+            }
+        ],
         "away_lineup": []
     }
 ]
