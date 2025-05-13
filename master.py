@@ -21,6 +21,7 @@ import data_collection
 from games_collection import get_games_for_date
 from lineups_collection import get_lineups_for_date
 import merge_hitters
+from simulation import simulate_matchups
 
 # Set the current year
 current_year = datetime.datetime.now().year
@@ -74,3 +75,7 @@ print(merged_data.head())
 os.makedirs("merged_data", exist_ok=True)
 merged_data.to_csv(f"merged_data/{date}_merged_data.csv", index=False)
 
+# Run the simulation
+simulated_games = simulate_matchups(num_simulations=100000)
+os.makedirs("simulated_games", exist_ok=True)
+simulated_games.to_csv(f"simulated_games/simulated_games_{date}.csv", index=False)
