@@ -53,10 +53,17 @@ def merge_offensive_data(date):
     # Now we have a nice players DataFrame
     players_df = pd.DataFrame(players_list)
 
-    # Step 2: Merge with hitters data
-    merged_data = pd.merge(players_df, hitters_data, on='player_id', how='left')
+    # Check to see if players_df has player_ids
+    if players_df.empty:
+        print("No player IDs can be found in the lineups data. " \
+        "Today's lineups most likely have not been released yet.")
+    else:
+        # Merge the data if available
+        merged_data = pd.merge(players_df, hitters_data, on='player_id', how='left')
 
-    return merged_data
+        # Return the merged data
+        return merged_data
+        
 
 
 
