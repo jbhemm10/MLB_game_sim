@@ -28,7 +28,7 @@ def download_hitters_data(save_path=None):
     # This is the URL for the MLB Savant leaderboard for hitters
     # The number of minimum plate appearances is set to 10
     # The selections include various hitting statistics like avg, slg, wOBA, etc.
-    url = (f'https://baseballsavant.mlb.com/leaderboard/custom?year={current_year}&type=batter&filter=&min=q&'
+    url = (f'https://baseballsavant.mlb.com/leaderboard/custom?year={current_year}&type=batter&filter=&min=10&'
         'selections=player_age,ab,pa,hit,single,double,triple,home_run,strikeout,walk,k_percent,bb_percent,'
         'batting_avg,slg_percent,on_base_percent,on_base_plus_slg,xba,xslg,woba,xwoba,sprint_speed&'
         'chart=false&x=player_age&y=player_age&r=no&chartType=beeswarm&sort=sprint_speed&sortDir=asc&csv=true')
