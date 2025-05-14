@@ -268,6 +268,11 @@
                 "batting_order": "700"
             },
             {
+                "player_name": "Jose Trevino",
+                "player_id": 624431,
+                "batting_order": "701"
+            },
+            {
                 "player_name": "Matt McLain",
                 "player_id": 680574,
                 "batting_order": "800"
@@ -328,6 +333,16 @@
                 "player_name": "Michael A. Taylor",
                 "player_id": 572191,
                 "batting_order": "900"
+            },
+            {
+                "player_name": "Matt Thaiss",
+                "player_id": 642136,
+                "batting_order": "901"
+            },
+            {
+                "player_name": "Joshua Palacios",
+                "player_id": 641943,
+                "batting_order": "902"
             }
         ]
     },
