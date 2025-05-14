@@ -17,7 +17,7 @@ import pytz
 import os
 
 #Import the necessary modules
-import data_collection
+import player_data_collection
 from games_collection import get_games_for_date
 from lineups_collection import get_lineups_for_date
 import merge_hitters
@@ -32,8 +32,8 @@ current_year = datetime.datetime.now().year
 current_date = datetime.datetime.now().date()
 
 # Run data collection for hitters and pitchers
-data_collection.download_hitters_data()
-data_collection.download_pitchers_data()
+player_data_collection.download_hitters_data()
+player_data_collection.download_pitchers_data()
 
 # Show the headers and first 5 rows of the hitters data 
 hitters_data = pd.read_csv(f'player_data/{current_year}_hitters_data.csv')
@@ -86,7 +86,7 @@ simulated_games.to_csv(f"simulated_games/simulated_games_{date}.csv", index=Fals
 yesterday_scores = get_yesterdays_scores()
 
 # Run the simulation analysis
-#simulation_analysis()
+simulation_analysis()
 
 
 
