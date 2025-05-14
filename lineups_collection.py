@@ -52,21 +52,21 @@ async def fetch_lineup(session, gamePk):
             home_lineup = []
             for player_id, player_info in boxscore['home']['players'].items():
                 if 'battingOrder' in player_info:
-                    home_lineup.append({
-                        "player_name": player_info['person']['fullName'],
-                        "player_id": player_info['person']['id'],
-                        # Only include starting players in the lineup
-                        "batting_order": player_info['battingOrder'] if int(player_info['battingOrder']) % 100 == 0 else None 
+                        if int(player_info['battingOrder']) % 100 == 0:
+                            home_lineup.append({
+                            "player_name": player_info['person']['fullName'],
+                            "player_id": player_info['person']['id'],
+                            "batting_order": player_info['battingOrder']
                     })
 
             away_lineup = []
             for player_id, player_info in boxscore['away']['players'].items():
                 if 'battingOrder' in player_info:
-                    away_lineup.append({
-                        "player_name": player_info['person']['fullName'],
-                        "player_id": player_info['person']['id'],
-                        # Only include starting players in the lineup
-                        "batting_order": player_info['battingOrder'] if int(player_info['battingOrder']) % 100 == 0 else None
+                    if int(player_info['battingOrder']) % 100 == 0:
+                        away_lineup.append({
+                            "player_name": player_info['person']['fullName'],
+                            "player_id": player_info['person']['id'],
+                            "batting_order": player_info['battingOrder']
                     })
 
             # Sort by batting order (1, 2, 3...9)
