@@ -55,7 +55,8 @@ async def fetch_lineup(session, gamePk):
                     home_lineup.append({
                         "player_name": player_info['person']['fullName'],
                         "player_id": player_info['person']['id'],
-                        "batting_order": player_info['battingOrder'] if player_info['battingOrder'] % 100 == 0 else None # Only gets starting players
+                        # Only include starting players in the lineup
+                        "batting_order": player_info['battingOrder'] if int(player_info['battingOrder']) % 100 == 0 else None 
                     })
 
             away_lineup = []
@@ -64,7 +65,8 @@ async def fetch_lineup(session, gamePk):
                     away_lineup.append({
                         "player_name": player_info['person']['fullName'],
                         "player_id": player_info['person']['id'],
-                        "batting_order": player_info['battingOrder'] if player_info['battingOrder'] % 100 == 0 else None # Only gets starting players
+                        # Only include starting players in the lineup
+                        "batting_order": player_info['battingOrder'] if int(player_info['battingOrder']) % 100 == 0 else None
                     })
 
             # Sort by batting order (1, 2, 3...9)

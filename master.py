@@ -62,7 +62,7 @@ for lineup in lineups:
         for player in lineup['away_lineup']:
             print(f"  {player['player_name']} (ID: {player['player_id']})")
 
-# Merge the lineups data with the hitting data
+# Merge the hitters data with the lineups data 
 merged_data = merge_hitters.merge_offensive_data(date)
 
 # Replace missing values with 0
@@ -76,6 +76,6 @@ os.makedirs("merged_data", exist_ok=True)
 merged_data.to_csv(f"merged_data/{date}_merged_data.csv", index=False)
 
 # Run the simulation
-simulated_games = simulate_matchups(num_simulations=100000)
+simulated_games = simulate_matchups(num_simulations=10000)
 os.makedirs("simulated_games", exist_ok=True)
 simulated_games.to_csv(f"simulated_games/simulated_games_{date}.csv", index=False)
