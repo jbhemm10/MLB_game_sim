@@ -279,17 +279,19 @@ def simulate_matchups(num_simulations = 10000):
                 ties += 1
     
         results.append({
-            "game_id": game_id,
-            "away_team": away_name,
-            "home_team": home_name,
-            "away_win_pct": away_wins / num_simulations,
-            "home_win_pct": home_wins / num_simulations,
-            "avg_away_score": away_total_score / num_simulations,
-            "avg_home_score": home_total_score / num_simulations,
+            "Game ID": game_id,
+            "Projected Winning Team": home_name if home_wins > away_wins else away_name,
+            "Projected Losing Team": away_name if home_wins > away_wins else home_name,
+            "Away Team": away_name,
+            "Home Team": home_name,
+            "Away Team Win Percentage": away_wins / num_simulations,
+            "Home Team Win Percentage": home_wins / num_simulations,
+            "Average Away Score": away_total_score / num_simulations,
+            "Average Home Score": home_total_score / num_simulations,
         })
 
     results_df = pd.DataFrame(results)
-    results_df.sort_values(by="game_id", inplace=True)
+    results_df.sort_values(by="Game ID", inplace=True)
 
     return results_df
         
