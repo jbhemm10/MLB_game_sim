@@ -72,15 +72,29 @@ def simulate_matchups(num_simulations = 10000):
 
         while outs < 3:
             batter = lineup[idx % len(lineup)]
+            
+            # Get a random number for runner's likelihood of running additional bases
+            base_run = random.randint(0,100)
+
+            # Simulate the at-bat using the prior function
             result = simulate_at_bat(batter)
-            if result == "out":
+            
+            # Sacrifice fly
+            if result == "out" and bases[2] is not None and outs < 2:
+                runs += 1
+                bases[2] = None
                 outs += 1
+            # Batter gets out
+            elif result == "out":
+                outs += 1
+            # Batter hits a single
             elif result == "single":
                 if bases[2] is not None:
                     runs += 1
                 bases[2] = bases[1]
                 bases[1] = bases[0]
                 bases[0] = batter
+            # Batter hits a double
             elif result == "double":
                 if bases[2] is not None:
                     runs += 1
@@ -88,7 +102,8 @@ def simulate_matchups(num_simulations = 10000):
                     runs += 1
                 bases[2] = bases[0]
                 bases[1] = batter
-                bases[0] = None
+                bases[0] = None     
+            # Batter hits a triple
             elif result == "triple":
                 if bases[2] is not None:
                     runs += 1
@@ -99,6 +114,7 @@ def simulate_matchups(num_simulations = 10000):
                 bases[2] = batter
                 bases[1] = None
                 bases[0] = None
+            # Batter hits a home run
             elif result == "home_run":
                 if bases[2] is not None:
                     runs += 1
@@ -110,6 +126,7 @@ def simulate_matchups(num_simulations = 10000):
                 bases[2] = None
                 bases[1] = None
                 bases[0] = None
+            # Batter draws a walk
             elif result == "walk":
                 if bases[0]:
                     if bases[1]:
@@ -121,8 +138,11 @@ def simulate_matchups(num_simulations = 10000):
 
             # Move to the next batter
             idx += 1
+        # Return the number of runs scored and the index of the next batter
         return runs, idx % len(lineup)
     
+    # Function to simulate an extra inning
+    # This function is called when the game is tied after 9 innings
     def simulate_extra_inning(lineup, idx):
         previous_batter = simulate_at_bat(lineup[idx % len(lineup) -1])
         outs = 0
@@ -132,14 +152,22 @@ def simulate_matchups(num_simulations = 10000):
         while outs < 3:
             batter = lineup[idx % len(lineup)]
             result = simulate_at_bat(batter)
-            if result == "out":
+
+            # Batter hits a sacrifice fly
+            if result == "out" and bases[2] is not None and outs < 2:
+                runs += 1
                 outs += 1
+            # Batter gets out
+            elif result == "out":
+                outs += 1
+            # Batter hits a single
             elif result == "single":
                 if bases[2] is not None:
                     runs += 1
                 bases[2] = bases[1]
                 bases[1] = bases[0]
-                bases[0] = batter
+                bases[0] = batter 
+            # Batter hits a double
             elif result == "double":
                 if bases[2] is not None:
                     runs += 1
@@ -148,6 +176,7 @@ def simulate_matchups(num_simulations = 10000):
                 bases[2] = bases[0]
                 bases[1] = batter
                 bases[0] = None
+            # Batter hits a triple
             elif result == "triple":
                 if bases[2] is not None:
                     runs += 1
@@ -158,6 +187,7 @@ def simulate_matchups(num_simulations = 10000):
                 bases[2] = batter
                 bases[1] = None
                 bases[0] = None
+            # Batter hits a home run
             elif result == "home_run":
                 if bases[2] is not None:
                     runs += 1
@@ -166,9 +196,8 @@ def simulate_matchups(num_simulations = 10000):
                 if bases[0] is not None:
                     runs += 1
                 runs += 1
-                bases[2] = None
-                bases[1] = None
-                bases[0] = None
+                bases[2] = bases[1] = bases[0] = None
+            # Batter draws a walk
             elif result == "walk":
                 if bases[0]:
                     if bases[1]:
@@ -180,13 +209,16 @@ def simulate_matchups(num_simulations = 10000):
 
             # Move to the next batter
             idx += 1
+        # Return the number of runs scored and the index of the next batter
         return runs, idx % len(lineup)
 
-
+    # Function to simulate a game
     def simulate_game(team_home, team_away):
+        # Initialize the scores and indices for both teams
         home_score = away_score = 0
         home_idx = away_idx = 0
 
+        # Simulate 9 innings of play
         for inning in range(9):
             # Simulate the away half of the inning
             away_score, away_idx = simulate_half_inning(team_away, away_idx)

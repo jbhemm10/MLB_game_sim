@@ -1,0 +1,14 @@
+game_id,away_team,home_team,away_win_pct,home_win_pct,avg_away_score,avg_home_score
+777926,New York Yankees,Seattle Mariners,0.53451,0.46549,3.35014,2.95148
+777930,Arizona Diamondbacks,San Francisco Giants,0.51779,0.48221,3.23386,3.0434
+777931,Kansas City Royals,Houston Astros,0.49378,0.50622,2.96634,3.1007
+777932,Los Angeles Angels,San Diego Padres,0.43905,0.56095,2.64114,3.4401
+777934,Colorado Rockies,Texas Rangers,0.51914,0.48086,3.1794,2.93214
+777935,Tampa Bay Rays,Toronto Blue Jays,0.47359,0.52641,3.03278,3.38442
+777936,Miami Marlins,Chicago Cubs,0.42511,0.57489,2.7172,3.67028
+777937,Athletics,Los Angeles Dodgers,0.51386,0.48614,3.3341,3.17166
+777940,Boston Red Sox,Detroit Tigers,0.50308,0.49692,3.1954,3.15038
+777942,Washington Nationals,Atlanta Braves,0.45193,0.54807,2.8365,3.456
+777943,Pittsburgh Pirates,New York Mets,0.46186,0.53814,2.8192,3.2475
+777944,Milwaukee Brewers,Cleveland Guardians,0.50293,0.49707,3.22062,3.17858
+777945,Chicago White Sox,Cincinnati Reds,0.48642,0.51358,3.27386,3.50518
