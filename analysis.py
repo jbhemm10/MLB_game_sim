@@ -81,6 +81,7 @@ def simulation_analysis():
             results.append({
                 "Game ID": game_id,
                 "Date": yesterday,
+                "Matchup": f"{simulated_data[simulated_data['Game ID'] == game_id]['Away Team'].values[0]} vs {simulated_data[simulated_data['Game ID'] == game_id]['Home Team'].values[0]}",
                 "Simulated Winner": simulated_winner,
                 "Actual Winner": actual_winner,
                 "Correctly Predicted": 1 if simulated_winner == actual_winner else 0
