@@ -16,3 +16,7 @@ Game ID,Date,Matchup,Simulated Winner,Actual Winner,Correctly Predicted
 777929,2025-05-14,Washington Nationals vs Atlanta Braves,Atlanta Braves,Washington Nationals,0
 777933,2025-05-14,St. Louis Cardinals vs Philadelphia Phillies,St. Louis Cardinals,St. Louis Cardinals,1
 777938,2025-05-14,Minnesota Twins vs Baltimore Orioles,Minnesota Twins,Minnesota Twins,1
+777909,2025-05-15,Washington Nationals vs Atlanta Braves,Atlanta Braves,Atlanta Braves,1
+777911,2025-05-15,Minnesota Twins vs Baltimore Orioles,Minnesota Twins,Minnesota Twins,1
+777912,2025-05-15,Chicago White Sox vs Cincinnati Reds,Cincinnati Reds,Cincinnati Reds,1
+777913,2025-05-15,Tampa Bay Rays vs Toronto Blue Jays,Tampa Bay Rays,Tampa Bay Rays,1
