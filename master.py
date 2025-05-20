@@ -57,10 +57,10 @@ lineups = get_lineups_for_date(date, save_to_file=True)
 # Print the lineups to verify
 for lineup in lineups:
         print(f"{lineup['home_team']} vs {lineup['away_team']}")
-        print("Home Lineup:")
+        print(f"{lineup['home_team']} Lineup:")
         for player in lineup['home_lineup']:
             print(f"  {player['player_name']} (ID: {player['player_id']})")
-        print("Away Lineup:")
+        print(f"{lineup['away_team']} Lineup:")
         for player in lineup['away_lineup']:
             print(f"  {player['player_name']} (ID: {player['player_id']})")
 
