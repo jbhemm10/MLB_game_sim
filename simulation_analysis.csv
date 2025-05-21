@@ -1,10 +1,15 @@
-Game ID,Date,Matchup,Simulated Winner,Actual Winner,Correctly Predicted
-777852,2025-05-19,Philadelphia Phillies vs Colorado Rockies,Philadelphia Phillies,Philadelphia Phillies,1
-777855,2025-05-19,Kansas City Royals vs San Francisco Giants,San Francisco Giants,Kansas City Royals,0
-777856,2025-05-19,New York Mets vs Boston Red Sox,Boston Red Sox,Boston Red Sox,1
-777857,2025-05-19,Seattle Mariners vs Chicago White Sox,Chicago White Sox,Seattle Mariners,0
-777858,2025-05-19,Houston Astros vs Tampa Bay Rays,Houston Astros,Houston Astros,1
-777859,2025-05-19,Cincinnati Reds vs Pittsburgh Pirates,Cincinnati Reds,Cincinnati Reds,1
-777860,2025-05-19,Baltimore Orioles vs Milwaukee Brewers,Baltimore Orioles,Milwaukee Brewers,0
-777862,2025-05-19,Detroit Tigers vs St. Louis Cardinals,St. Louis Cardinals,St. Louis Cardinals,1
-777863,2025-05-19,Chicago Cubs vs Miami Marlins,Chicago Cubs,Miami Marlins,0
+Game ID,Date,Matchup,Simulated Winner,Actual Winner,Correctly Predicted,Confidence
+777836,2025-05-20,Kansas City Royals vs San Francisco Giants,San Francisco Giants,San Francisco Giants,1,0.6212
+777838,2025-05-20,Arizona Diamondbacks vs Los Angeles Dodgers,Los Angeles Dodgers,Los Angeles Dodgers,1,0.5416
+777840,2025-05-20,Detroit Tigers vs St. Louis Cardinals,Detroit Tigers,Detroit Tigers,1,0.581
+777841,2025-05-20,Atlanta Braves vs Washington Nationals,Atlanta Braves,Washington Nationals,0,0.5497
+777842,2025-05-20,Philadelphia Phillies vs Colorado Rockies,Philadelphia Phillies,Philadelphia Phillies,1,0.5007
+777843,2025-05-20,Los Angeles Angels vs Athletics,Athletics,Los Angeles Angels,0,0.5903
+777844,2025-05-20,Baltimore Orioles vs Milwaukee Brewers,Baltimore Orioles,Milwaukee Brewers,0,0.5569
+777845,2025-05-20,San Diego Padres vs Toronto Blue Jays,San Diego Padres,Toronto Blue Jays,0,0.5629
+777846,2025-05-20,Seattle Mariners vs Chicago White Sox,Seattle Mariners,Chicago White Sox,0,0.5159
+777847,2025-05-20,Cincinnati Reds vs Pittsburgh Pirates,Cincinnati Reds,Pittsburgh Pirates,0,0.6645
+777848,2025-05-20,Houston Astros vs Tampa Bay Rays,Houston Astros,Tampa Bay Rays,0,0.5561
+777849,2025-05-20,Texas Rangers vs New York Yankees,New York Yankees,New York Yankees,1,0.6589
+777850,2025-05-20,Chicago Cubs vs Miami Marlins,Chicago Cubs,Chicago Cubs,1,0.5621
+777851,2025-05-20,New York Mets vs Boston Red Sox,Boston Red Sox,Boston Red Sox,1,0.5581

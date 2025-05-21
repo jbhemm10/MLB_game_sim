@@ -87,6 +87,14 @@ def simulation_analysis():
             # Get the simulated and actual winners
             simulated_winner = simulated_data[simulated_data["Game ID"] == game_id]["Projected Winning Team"].values[0]
             actual_winner = actual_data[actual_data["game_id"] == game_id]["winner"].values[0]
+            # Get home and away teams
+            home_team = simulated_data[simulated_data["Game ID"] == game_id]["Home Team"].values[0]
+            away_team = simulated_data[simulated_data["Game ID"] == game_id]["Away Team"].values[0]
+            # Get confidence level
+            if simulated_winner == home_team:
+                confidence = simulated_data[simulated_data["Game ID"] == game_id]["Home Team Win Percentage"].values[0]
+            else:
+                confidence = simulated_data[simulated_data["Game ID"] == game_id]["Away Team Win Percentage"].values[0]
             # Store the results
             results.append({
                 "Game ID": game_id,
@@ -94,7 +102,8 @@ def simulation_analysis():
                 "Matchup": f"{simulated_data[simulated_data['Game ID'] == game_id]['Away Team'].values[0]} vs {simulated_data[simulated_data['Game ID'] == game_id]['Home Team'].values[0]}",
                 "Simulated Winner": simulated_winner,
                 "Actual Winner": actual_winner,
-                "Correctly Predicted": 1 if simulated_winner == actual_winner else 0
+                "Correctly Predicted": 1 if simulated_winner == actual_winner else 0,
+                "Confidence": confidence
             })
     
     # Save the results to a CSV file
@@ -116,3 +125,12 @@ def simulation_analysis():
     else:
         yesterday_accuracy = full_df[full_df["Date"] == yesterday]["Correctly Predicted"].mean()
         print(f"Yesterday's accuracy: {yesterday_accuracy:.2%}")
+
+    # Calculate the overall confidence for each correctly predicted game
+    overall_confidence = full_df[full_df["Correctly Predicted"] == 1]["Confidence"].mean() if not full_df[full_df["Correctly Predicted"] == 1].empty else 0
+    print(f"Overall confidence for correctly predicted games: {overall_confidence:.3%}")
+    # Calculate the min and max confidence for each correctly predicted game
+    min_confidence = full_df[full_df["Correctly Predicted"] == 1]["Confidence"].min() if not full_df[full_df["Correctly Predicted"] == 1].empty else 0
+    max_confidence = full_df[full_df["Correctly Predicted"] == 1]["Confidence"].max() if not full_df[full_df["Correctly Predicted"] == 1].empty else 0
+    print(f"Min confidence for correctly predicted games: {min_confidence:.3%}")
+    print(f"Max confidence for correctly predicted games: {max_confidence:.3%}")
