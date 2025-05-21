@@ -72,12 +72,22 @@ def simulation_analysis():
     # Pull game IDs from the actual data
     actual_game_ids = actual_data["game_id"].unique()
 
+    # Load existing analysis to check for duplicates
+    existing_analysis = pd.read_csv("simulation_analysis.csv") if os.path.exists("simulation_analysis.csv") else pd.DataFrame()
+
     # Run through each simulated and actual game to see if the winners match
     results = []
     for game_id in simulated_game_ids:
         if game_id in actual_game_ids:
+            # Skip if the game has already been processed
+            if not existing_analysis.empty and (
+                (existing_analysis["Game ID"] == game_id) & (existing_analysis["Date"] == yesterday)
+            ).any():
+                continue
+            # Get the simulated and actual winners
             simulated_winner = simulated_data[simulated_data["Game ID"] == game_id]["Projected Winning Team"].values[0]
             actual_winner = actual_data[actual_data["game_id"] == game_id]["winner"].values[0]
+            # Store the results
             results.append({
                 "Game ID": game_id,
                 "Date": yesterday,
@@ -91,14 +101,18 @@ def simulation_analysis():
     results_df = pd.DataFrame(results)
     results_df.to_csv("simulation_analysis.csv", mode='a', header=not os.path.exists("simulation_analysis.csv"), index=False)
 
-    # Calculate and print yesterday's accuracy
-    yesterday_accuracy = results_df["Correctly Predicted"].mean()
-    print(f"Yesterday's accuracy: {yesterday_accuracy:.2%}")
-
-# Calculate and print overall accuracy
+    # Calculate and print overall accuracy
     if os.path.exists("simulation_analysis.csv"):
         full_df = pd.read_csv("simulation_analysis.csv")
         overall_accuracy = full_df["Correctly Predicted"].mean()
         print(f"Overall accuracy: {overall_accuracy:.2%}")
     else:
         print("No historical accuracy data available yet.")
+    
+    # Calculate and print yesterday's accuracy
+    if "Correctly Predicted" in results_df.columns:
+        yesterday_accuracy = results_df["Correctly Predicted"].mean()
+        print(f"Yesterday's accuracy: {yesterday_accuracy:.2%}")
+    else:
+        yesterday_accuracy = full_df[full_df["Date"] == yesterday]["Correctly Predicted"].mean()
+        print(f"Yesterday's accuracy: {yesterday_accuracy:.2%}")
