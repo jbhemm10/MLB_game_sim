@@ -18,6 +18,7 @@ import datetime
 import random
 from collections import defaultdict
 from tqdm import tqdm
+from collections import Counter
 
 # Set current date
 date = datetime.datetime.now().date()
@@ -37,10 +38,11 @@ def simulate_matchups(num_simulations = 10000):
             pa = p['pa'] if p['pa'] > 0 else 1
             ab = p['ab'] if p['ab'] > 0 else 1
             p['walk_rate'] = p['walk'] / pa  if p['walk']/ pa > 0 else 0.07
-            p['single_rate'] = p['single'] / ab if p['single']/ ab > 0 else 0.2
-            p['double_rate'] = p['double'] / ab if p['double']/ ab > 0 else 0.1
-            p['triple_rate'] = p['triple'] / ab if p['triple']/ ab > 0 else 0.05
+            p['single_rate'] = p['single'] / ab if p['single']/ ab > 0 else 0.12
+            p['double_rate'] = p['double'] / ab if p['double']/ ab > 0 else 0.045
+            p['triple_rate'] = p['triple'] / ab if p['triple']/ ab > 0 else 0.005
             p['home_run_rate'] = p['home_run'] / ab if p['home_run']/ ab > 0 else 0.1
+            p['speed_rating'] = p['sprint_speed'] if p['sprint_speed'] > 0 else 25
         if game_id not in games:
             games[game_id] = {}
         games[game_id][side] = players
@@ -61,7 +63,9 @@ def simulate_matchups(num_simulations = 10000):
                 return "out"
         else:
             return "walk"
-    
+    # Quick test: simulate 1000 at-bats and count outcomes
+
+
     def simulate_half_inning(lineup, start_idx = 0):
 
         # Initialize the outs, bases, runs, and index (batter lineup position)
@@ -76,44 +80,87 @@ def simulate_matchups(num_simulations = 10000):
             # Get a random number for runner's likelihood of running additional bases
             base_run = random.randint(0,100)
 
+            # Get base runners speed rating for each base
+            first_base_speed_rating = bases[0]['speed_rating'] if bases[0] is not None else None
+            second_base_speed_rating = bases[1]['speed_rating'] if bases[1] is not None else None
+            third_base_speed_rating = bases[2]['speed_rating'] if bases[2] is not None else None
+
             # Simulate the at-bat using the prior function
             result = simulate_at_bat(batter)
             
             # Sacrifice fly
-            if result == "out" and bases[2] is not None and outs < 2:
+            if result == "out" and bases[2] is not None and outs < 2 and base_run < third_base_speed_rating:
                 runs += 1
                 bases[2] = None
                 outs += 1
-            # Batter gets out
+            # Batter gets out (non sac fly opportunity)
             elif result == "out":
                 outs += 1
             # Batter hits a single
             elif result == "single":
-                if bases[2] is not None:
+                # Simulates runners
+                # Runner on third base scenario
+                if bases[2] is not None and third_base_speed_rating is not None:
+                    # Runner on third base scores
                     runs += 1
-                bases[2] = bases[1]
-                bases[1] = bases[0]
+                # Runner on second base scenarios
+                if bases[1] is not None and second_base_speed_rating is not None:
+                    # Runner on second base scores
+                    if base_run < 1 * second_base_speed_rating:
+                        runs += 1
+                    else:
+                    # Runner on second base moves to third base
+                        bases[2] = bases[1]
+
+                # Runner on first base scenarios
+                if bases[0] is not None and first_base_speed_rating is not None:
+                    # Runner on first base scores
+                    if (first_base_speed_rating is not None and second_base_speed_rating is None or base_run < 1 * second_base_speed_rating and
+                        base_run < 0.1 * first_base_speed_rating):
+                        runs += 1
+                    # Runner on first base moves to third base
+                    elif base_run < .5 * first_base_speed_rating and bases[2] is None:
+                        # Runner on first base moves to second base
+                        bases[2] = bases[0]
+                    # Runner on first base moves to second base
+                    else:
+                    # Runner on first base moves to second base
+                        bases[1] = bases[0]
+                # Batter moves to first base
                 bases[0] = batter
             # Batter hits a double
             elif result == "double":
+                # Simulates runners
+                # Runner on third base scenario
                 if bases[2] is not None:
                     runs += 1
+                # Runner on second base scenario 
                 if bases[1] is not None:
                     runs += 1
-                bases[2] = bases[0]
+                # Runner on first base scenario
+                if bases[0] is not None and first_base_speed_rating is not None:
+                    # Runner on first base scores
+                    if base_run < .9 * first_base_speed_rating:
+                        runs += 1
+                    # Runner on first base moves to third base
+                    else:
+                        bases[2] = bases[0]
                 bases[1] = batter
                 bases[0] = None     
             # Batter hits a triple
             elif result == "triple":
+                # Simulates runners
+                # Runner on third base scenario
                 if bases[2] is not None:
                     runs += 1
+                # Runner on second base scenario
                 if bases[1] is not None:
                     runs += 1
+                # Runner on first base scenario
                 if bases[0] is not None:
                     runs += 1
+                # Batter moves to third base
                 bases[2] = batter
-                bases[1] = None
-                bases[0] = None
             # Batter hits a home run
             elif result == "home_run":
                 if bases[2] is not None:
@@ -139,54 +186,102 @@ def simulate_matchups(num_simulations = 10000):
             # Move to the next batter
             idx += 1
         # Return the number of runs scored and the index of the next batter
-        return runs, idx % len(lineup)
+        return runs, idx
     
     # Function to simulate an extra inning
     # This function is called when the game is tied after 9 innings
     def simulate_extra_inning(lineup, idx):
-        previous_batter = simulate_at_bat(lineup[idx % len(lineup) -1])
+        previous_batter = lineup[(idx - 1) % len(lineup)]
         outs = 0
         bases = [None, previous_batter, None]
         runs = 0
 
         while outs < 3:
             batter = lineup[idx % len(lineup)]
+            # Get a random number for runner's likelihood of running additional bases
+            base_run = random.randint(0,100)
+
+            # Get base runners speed rating for each base
+            first_base_speed_rating = bases[0]['speed_rating'] if bases[0] is not None else None
+            second_base_speed_rating = bases[1]['speed_rating'] if bases[1] is not None else None
+            third_base_speed_rating = bases[2]['speed_rating'] if bases[2] is not None else None
+
+            # Simulate the at-bat using the prior function
             result = simulate_at_bat(batter)
 
-            # Batter hits a sacrifice fly
-            if result == "out" and bases[2] is not None and outs < 2:
+            # Sacrifice fly
+            if result == "out" and bases[2] is not None and outs < 2 and base_run < third_base_speed_rating:
                 runs += 1
+                bases[2] = None
                 outs += 1
-            # Batter gets out
+            # Batter gets out (non sac fly opportunity)
             elif result == "out":
                 outs += 1
             # Batter hits a single
             elif result == "single":
-                if bases[2] is not None:
+                # Simulates runners
+                # Runner on third base scenario
+                if bases[2] is not None and third_base_speed_rating is not None:
+                    # Runner on third base scores
                     runs += 1
-                bases[2] = bases[1]
-                bases[1] = bases[0]
-                bases[0] = batter 
+                # Runner on second base scenarios
+                if bases[1] is not None and second_base_speed_rating is not None:
+                    # Runner on second base scores
+                    if base_run < 1 * second_base_speed_rating:
+                        runs += 1
+                    else:
+                    # Runner on second base moves to third base
+                        bases[2] = bases[1]
+
+                # Runner on first base scenarios
+                if bases[0] is not None and first_base_speed_rating is not None:
+                    # Runner on first base scores
+                    if (first_base_speed_rating is not None and second_base_speed_rating is None or base_run < 1 * second_base_speed_rating and
+                        base_run < 0.1 * first_base_speed_rating):
+                        runs += 1
+                    # Runner on first base moves to third base
+                    elif base_run < .5 * first_base_speed_rating and bases[2] is None:
+                        # Runner on first base moves to second base
+                        bases[2] = bases[0]
+                    # Runner on first base moves to second base
+                    else:
+                    # Runner on first base moves to second base
+                        bases[1] = bases[0]
+                # Batter moves to first base
+                bases[0] = batter
             # Batter hits a double
             elif result == "double":
+                # Simulates runners
+                # Runner on third base scenario
                 if bases[2] is not None:
                     runs += 1
+                # Runner on second base scenario 
                 if bases[1] is not None:
                     runs += 1
-                bases[2] = bases[0]
+                # Runner on first base scenario
+                if bases[0] is not None and first_base_speed_rating is not None:
+                    # Runner on first base scores
+                    if base_run < .9 * first_base_speed_rating:
+                        runs += 1
+                    # Runner on first base moves to third base
+                    else:
+                        bases[2] = bases[0]
                 bases[1] = batter
-                bases[0] = None
+                bases[0] = None     
             # Batter hits a triple
             elif result == "triple":
+                # Simulates runners
+                # Runner on third base scenario
                 if bases[2] is not None:
                     runs += 1
+                # Runner on second base scenario
                 if bases[1] is not None:
                     runs += 1
+                # Runner on first base scenario
                 if bases[0] is not None:
                     runs += 1
+                # Batter moves to third base
                 bases[2] = batter
-                bases[1] = None
-                bases[0] = None
             # Batter hits a home run
             elif result == "home_run":
                 if bases[2] is not None:
@@ -196,7 +291,9 @@ def simulate_matchups(num_simulations = 10000):
                 if bases[0] is not None:
                     runs += 1
                 runs += 1
-                bases[2] = bases[1] = bases[0] = None
+                bases[2] = None
+                bases[1] = None
+                bases[0] = None
             # Batter draws a walk
             elif result == "walk":
                 if bases[0]:
@@ -210,36 +307,41 @@ def simulate_matchups(num_simulations = 10000):
             # Move to the next batter
             idx += 1
         # Return the number of runs scored and the index of the next batter
-        return runs, idx % len(lineup)
+        return runs, idx 
 
     # Function to simulate a game
     def simulate_game(team_home, team_away):
         # Initialize the scores and indices for both teams
         home_score = away_score = 0
         home_idx = away_idx = 0
+        total_innings = 0
 
         # Simulate 9 innings of play
         for inning in range(9):
             # Simulate the away half of the inning
-            away_score, away_idx = simulate_half_inning(team_away, away_idx)
-            away_score += away_score
+            away_runs, away_idx = simulate_half_inning(team_away, away_idx)
+            away_score += away_runs
             # Simulate the home half of the inning
-            home_score, home_idx = simulate_half_inning(team_home, home_idx)
-            home_score += home_score
+            home_runs, home_idx = simulate_half_inning(team_home, home_idx)
+            home_score += home_runs
+            # Add to the total innings played
+            total_innings += 1
         
         # If the game is tied after 9 innings, go to extra innings
         if home_score == away_score:
             inning = 9
             while home_score == away_score:
                 # Simulate the away half of the inning
-                away_score, away_idx = simulate_extra_inning(team_away, away_idx)
-                away_score += away_score
+                away_runs, away_idx = simulate_extra_inning(team_away, away_idx)
+                away_score += away_runs
                 # Simulate the home half of the inning
-                home_score, home_idx = simulate_extra_inning(team_home, home_idx)
-                home_score += home_score
+                home_runs, home_idx = simulate_extra_inning(team_home, home_idx)
+                home_score += home_runs
                 inning += 1
+                # Add to the total innings played
+                total_innings += 1
         
-        return home_score, away_score
+        return home_score, away_score, total_innings
     
     # Initialize a dictionary to store the results
     results = []
@@ -265,18 +367,17 @@ def simulate_matchups(num_simulations = 10000):
 
         # Have total scores for each team
         home_total_score = away_total_score = 0
+        total_innings_sum = 0
 
         for _ in range(num_simulations):
-            home_score, away_score = simulate_game(team_home, team_away)
+            home_score, away_score, total_innings = simulate_game(team_home, team_away)
             home_total_score += home_score
             away_total_score += away_score
-
+            total_innings_sum += total_innings
             if home_score > away_score:
                 home_wins += 1
-            elif away_score > home_score:
-                away_wins += 1
             else:
-                ties += 1
+                away_wins += 1
     
         results.append({
             "Game ID": game_id,
@@ -288,10 +389,16 @@ def simulate_matchups(num_simulations = 10000):
             "Home Team Win Percentage": home_wins / num_simulations,
             "Average Away Score": away_total_score / num_simulations,
             "Average Home Score": home_total_score / num_simulations,
+            "Average Total Innings": total_innings_sum / num_simulations,
         })
+    test_outcomes = Counter(simulate_at_bat(random.choice(team_home)) for _ in range(1000))
+    print("Outcome distribution over 1000 at-bats:")
+    for outcome, count in test_outcomes.items():
+        print(f"{outcome}: {count} ({count / 1000:.1%})")
 
     results_df = pd.DataFrame(results)
     results_df.sort_values(by="Game ID", inplace=True)
 
     return results_df
-        
+
+    
