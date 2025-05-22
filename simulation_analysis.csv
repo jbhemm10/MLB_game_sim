@@ -13,3 +13,17 @@ Game ID,Date,Matchup,Simulated Winner,Actual Winner,Correctly Predicted,Confiden
 777849,2025-05-20,Texas Rangers vs New York Yankees,New York Yankees,New York Yankees,1,0.6589
 777850,2025-05-20,Chicago Cubs vs Miami Marlins,Chicago Cubs,Chicago Cubs,1,0.5621
 777851,2025-05-20,New York Mets vs Boston Red Sox,Boston Red Sox,Boston Red Sox,1,0.5581
+777819,2025-05-21,Kansas City Royals vs San Francisco Giants,San Francisco Giants,Kansas City Royals,0,0.5204
+777823,2025-05-21,Philadelphia Phillies vs Colorado Rockies,Philadelphia Phillies,Philadelphia Phillies,1,0.6317
+777824,2025-05-21,Arizona Diamondbacks vs Los Angeles Dodgers,Los Angeles Dodgers,Los Angeles Dodgers,1,0.5772
+777826,2025-05-21,Baltimore Orioles vs Milwaukee Brewers,Baltimore Orioles,Baltimore Orioles,1,0.5597
+777827,2025-05-21,Detroit Tigers vs St. Louis Cardinals,St. Louis Cardinals,Detroit Tigers,0,0.5214
+777829,2025-05-21,Cleveland Guardians vs Minnesota Twins,Cleveland Guardians,Cleveland Guardians,1,0.5592
+777830,2025-05-21,Seattle Mariners vs Chicago White Sox,Seattle Mariners,Seattle Mariners,1,0.5856
+777831,2025-05-21,New York Mets vs Boston Red Sox,Boston Red Sox,New York Mets,0,0.5552
+777832,2025-05-21,Houston Astros vs Tampa Bay Rays,Tampa Bay Rays,Tampa Bay Rays,1,0.5629
+777833,2025-05-21,Chicago Cubs vs Miami Marlins,Chicago Cubs,Chicago Cubs,1,0.6226
+777834,2025-05-21,Cincinnati Reds vs Pittsburgh Pirates,Cincinnati Reds,Pittsburgh Pirates,0,0.5833
+777835,2025-05-21,Texas Rangers vs New York Yankees,New York Yankees,New York Yankees,1,0.6243
+777837,2025-05-21,San Diego Padres vs Toronto Blue Jays,San Diego Padres,Toronto Blue Jays,0,0.5589
+777861,2025-05-21,Cleveland Guardians vs Minnesota Twins,Cleveland Guardians,Minnesota Twins,0,0.5053
