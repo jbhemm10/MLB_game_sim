@@ -390,14 +390,12 @@ def simulate_matchups(num_simulations = 10000):
             "Average Away Score": away_total_score / num_simulations,
             "Average Home Score": home_total_score / num_simulations,
             "Average Total Innings": total_innings_sum / num_simulations,
+            "Confidence Level": home_wins / num_simulations if home_wins > away_wins else away_wins / num_simulations
         })
-    test_outcomes = Counter(simulate_at_bat(random.choice(team_home)) for _ in range(1000))
-    print("Outcome distribution over 1000 at-bats:")
-    for outcome, count in test_outcomes.items():
-        print(f"{outcome}: {count} ({count / 1000:.1%})")
+    
 
     results_df = pd.DataFrame(results)
-    results_df.sort_values(by="Game ID", inplace=True)
+    results_df.sort_values(by="Confidence Level", ascending= False, inplace=True)
 
     return results_df
 

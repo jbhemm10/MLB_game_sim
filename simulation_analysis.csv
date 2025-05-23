@@ -27,3 +27,7 @@ Game ID,Date,Matchup,Simulated Winner,Actual Winner,Correctly Predicted,Confiden
 777835,2025-05-21,Texas Rangers vs New York Yankees,New York Yankees,New York Yankees,1,0.6243
 777837,2025-05-21,San Diego Padres vs Toronto Blue Jays,San Diego Padres,Toronto Blue Jays,0,0.5589
 777861,2025-05-21,Cleveland Guardians vs Minnesota Twins,Cleveland Guardians,Minnesota Twins,0,0.5053
+777812,2025-05-22,Los Angeles Angels vs Athletics,Athletics,Los Angeles Angels,0,0.59
+777816,2025-05-22,San Diego Padres vs Toronto Blue Jays,San Diego Padres,Toronto Blue Jays,0,0.5897
+777817,2025-05-22,Philadelphia Phillies vs Colorado Rockies,Philadelphia Phillies,Philadelphia Phillies,1,0.5076
+777818,2025-05-22,Texas Rangers vs New York Yankees,New York Yankees,New York Yankees,1,0.6333

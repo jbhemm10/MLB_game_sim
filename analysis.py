@@ -128,7 +128,7 @@ def simulation_analysis():
 
     # Calculate the overall confidence for each correctly predicted game
     overall_confidence = full_df[full_df["Correctly Predicted"] == 1]["Confidence"].mean() if not full_df[full_df["Correctly Predicted"] == 1].empty else 0
-    print(f"Overall confidence for correctly predicted games: {overall_confidence:.3%}")
+    print(f"Overall average confidence for correctly predicted games: {overall_confidence:.3%}")
     # Calculate the min and max confidence for each correctly predicted game
     min_confidence = full_df[full_df["Correctly Predicted"] == 1]["Confidence"].min() if not full_df[full_df["Correctly Predicted"] == 1].empty else 0
     max_confidence = full_df[full_df["Correctly Predicted"] == 1]["Confidence"].max() if not full_df[full_df["Correctly Predicted"] == 1].empty else 0
