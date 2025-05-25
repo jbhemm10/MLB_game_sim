@@ -31,3 +31,30 @@ Game ID,Date,Matchup,Simulated Winner,Actual Winner,Correctly Predicted,Confiden
 777816,2025-05-22,San Diego Padres vs Toronto Blue Jays,San Diego Padres,Toronto Blue Jays,0,0.5897
 777817,2025-05-22,Philadelphia Phillies vs Colorado Rockies,Philadelphia Phillies,Philadelphia Phillies,1,0.5076
 777818,2025-05-22,Texas Rangers vs New York Yankees,New York Yankees,New York Yankees,1,0.6333
+777805,2025-05-23,Texas Rangers vs Chicago White Sox,Chicago White Sox,Chicago White Sox,1,0.7265
+777802,2025-05-23,New York Yankees vs Colorado Rockies,New York Yankees,Colorado Rockies,0,0.6543
+777815,2025-05-23,Baltimore Orioles vs Boston Red Sox,Boston Red Sox,Boston Red Sox,1,0.593
+777808,2025-05-23,Los Angeles Dodgers vs New York Mets,Los Angeles Dodgers,Los Angeles Dodgers,1,0.5909
+777810,2025-05-23,Toronto Blue Jays vs Tampa Bay Rays,Toronto Blue Jays,Tampa Bay Rays,0,0.5731
+777806,2025-05-23,Milwaukee Brewers vs Pittsburgh Pirates,Milwaukee Brewers,Pittsburgh Pirates,0,0.5612
+777811,2025-05-23,Chicago Cubs vs Cincinnati Reds,Chicago Cubs,Chicago Cubs,1,0.5554
+777800,2025-05-23,Seattle Mariners vs Houston Astros,Seattle Mariners,Seattle Mariners,1,0.5457
+777799,2025-05-23,Kansas City Royals vs Minnesota Twins,Minnesota Twins,Minnesota Twins,1,0.5366
+777801,2025-05-23,San Francisco Giants vs Washington Nationals,Washington Nationals,San Francisco Giants,0,0.5341
+777813,2025-05-23,San Diego Padres vs Atlanta Braves,San Diego Padres,San Diego Padres,1,0.5283
+777797,2025-05-23,Arizona Diamondbacks vs St. Louis Cardinals,St. Louis Cardinals,St. Louis Cardinals,1,0.5221
+777807,2025-05-23,Cleveland Guardians vs Detroit Tigers,Detroit Tigers,Cleveland Guardians,0,0.5116
+777792,2025-05-24,Texas Rangers vs Chicago White Sox,Chicago White Sox,Chicago White Sox,1,0.692
+777793,2025-05-24,San Francisco Giants vs Washington Nationals,Washington Nationals,Washington Nationals,1,0.6336
+777788,2025-05-24,Kansas City Royals vs Minnesota Twins,Kansas City Royals,Minnesota Twins,0,0.6171
+777796,2025-05-24,Cleveland Guardians vs Detroit Tigers,Detroit Tigers,Cleveland Guardians,0,0.6131
+777789,2025-05-24,Los Angeles Dodgers vs New York Mets,Los Angeles Dodgers,New York Mets,0,0.6096
+777787,2025-05-24,Seattle Mariners vs Houston Astros,Seattle Mariners,Houston Astros,0,0.5959
+777782,2025-05-24,New York Yankees vs Colorado Rockies,New York Yankees,New York Yankees,1,0.5577
+777790,2025-05-24,Baltimore Orioles vs Boston Red Sox,Boston Red Sox,Baltimore Orioles,0,0.5554
+777786,2025-05-24,Arizona Diamondbacks vs St. Louis Cardinals,St. Louis Cardinals,St. Louis Cardinals,1,0.5433
+777809,2025-05-24,Baltimore Orioles vs Boston Red Sox,Boston Red Sox,Boston Red Sox,1,0.5412
+777795,2025-05-24,Toronto Blue Jays vs Tampa Bay Rays,Tampa Bay Rays,Tampa Bay Rays,1,0.5406
+777791,2025-05-24,Chicago Cubs vs Cincinnati Reds,Chicago Cubs,Cincinnati Reds,0,0.54
+777803,2025-05-24,San Diego Padres vs Atlanta Braves,Atlanta Braves,Atlanta Braves,1,0.5398
+777794,2025-05-24,Milwaukee Brewers vs Pittsburgh Pirates,Pittsburgh Pirates,Pittsburgh Pirates,1,0.5006

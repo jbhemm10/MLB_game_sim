@@ -395,7 +395,11 @@ def simulate_matchups(num_simulations = 10000):
     
 
     results_df = pd.DataFrame(results)
-    results_df.sort_values(by="Confidence Level", ascending= False, inplace=True)
+    if results_df.empty:
+        print("No games were simulated. Either no games are scheduled today or you might be too early." \
+        "Try again closer to the start of today's games.")
+    else:
+        results_df.sort_values(by="Confidence Level", ascending= False, inplace=True)
 
     return results_df
 
