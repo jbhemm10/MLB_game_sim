@@ -127,10 +127,18 @@ def simulation_analysis():
         print(f"Yesterday's accuracy: {yesterday_accuracy:.2%}")
 
     # Calculate the overall confidence for each correctly predicted game
-    overall_confidence = full_df[full_df["Correctly Predicted"] == 1]["Confidence"].mean() if not full_df[full_df["Correctly Predicted"] == 1].empty else 0
-    print(f"Overall average confidence for correctly predicted games: {overall_confidence:.3%}")
+    overall_confidence = full_df[full_df["Correctly Predicted"] == 1]["Confidence"].median() if not full_df[full_df["Correctly Predicted"] == 1].empty else 0
+    print(f"Overall median confidence for correctly predicted games: {overall_confidence:.3%}")
     # Calculate the min and max confidence for each correctly predicted game
     min_confidence = full_df[full_df["Correctly Predicted"] == 1]["Confidence"].min() if not full_df[full_df["Correctly Predicted"] == 1].empty else 0
     max_confidence = full_df[full_df["Correctly Predicted"] == 1]["Confidence"].max() if not full_df[full_df["Correctly Predicted"] == 1].empty else 0
     print(f"Min confidence for correctly predicted games: {min_confidence:.3%}")
     print(f"Max confidence for correctly predicted games: {max_confidence:.3%}")
+
+    # Calculate the average confidence for each incorrectly predicted game
+    incorrect_confidence = full_df[full_df["Correctly Predicted"] == 0]["Confidence"].median() if not full_df[full_df["Correctly Predicted"] == 0].empty else 0
+    print(f"Average confidence for incorrectly predicted games: {incorrect_confidence:.3%}")
+    min_incorrect_confidence = full_df[full_df["Correctly Predicted"] == 0]["Confidence"].min() if not full_df[full_df["Correctly Predicted"] == 0].empty else 0
+    max_incorrect_confidence = full_df[full_df["Correctly Predicted"] == 0]["Confidence"].max() if not full_df[full_df["Correctly Predicted"] == 0].empty else 0
+    print(f"Min confidence for incorrectly predicted games: {min_incorrect_confidence:.3%}")
+    print(f"Max confidence for incorrectly predicted games: {max_incorrect_confidence:.3%}")

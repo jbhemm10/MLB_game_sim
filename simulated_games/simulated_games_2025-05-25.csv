@@ -1,16 +1,16 @@
 Game ID,Projected Winning Team,Projected Losing Team,Away Team,Home Team,Away Team Win Percentage,Home Team Win Percentage,Average Away Score,Average Home Score,Average Total Innings,Confidence Level
-777778,Washington Nationals,San Francisco Giants,San Francisco Giants,Washington Nationals,0.3307,0.6693,5.5515,7.7942,9.0975,0.6693
-777768,New York Yankees,Colorado Rockies,New York Yankees,Colorado Rockies,0.6634,0.3366,7.0402,4.9646,9.1138,0.6634
-777780,Detroit Tigers,Cleveland Guardians,Cleveland Guardians,Detroit Tigers,0.409,0.591,5.345,6.4731,9.122,0.591
-777765,Athletics,Philadelphia Phillies,Philadelphia Phillies,Athletics,0.4138,0.5862,6.0535,7.1397,9.1118,0.5862
-777779,Cincinnati Reds,Chicago Cubs,Chicago Cubs,Cincinnati Reds,0.4239,0.5761,7.169,8.2459,9.0985,0.5761
-777774,Seattle Mariners,Houston Astros,Seattle Mariners,Houston Astros,0.5761,0.4239,6.5952,5.7102,9.112,0.5761
-777785,Baltimore Orioles,Boston Red Sox,Baltimore Orioles,Boston Red Sox,0.5691,0.4309,7.324,6.4518,9.1073,0.5691
-777773,Los Angeles Dodgers,New York Mets,Los Angeles Dodgers,New York Mets,0.557,0.443,7.1921,6.434,9.1051,0.557
-777772,Kansas City Royals,Minnesota Twins,Kansas City Royals,Minnesota Twins,0.5435,0.4565,6.2809,5.7071,9.1295,0.5435
-777783,Atlanta Braves,San Diego Padres,San Diego Padres,Atlanta Braves,0.4607,0.5393,7.4224,7.9163,9.1002,0.5393
-777776,Pittsburgh Pirates,Milwaukee Brewers,Milwaukee Brewers,Pittsburgh Pirates,0.4661,0.5339,5.2368,5.6307,9.1468,0.5339
-777767,Miami Marlins,Los Angeles Angels,Miami Marlins,Los Angeles Angels,0.533,0.467,5.5105,5.0794,9.1398,0.533
-777775,Toronto Blue Jays,Tampa Bay Rays,Toronto Blue Jays,Tampa Bay Rays,0.5277,0.4723,6.5008,6.0459,9.1228,0.5277
-777766,Arizona Diamondbacks,St. Louis Cardinals,Arizona Diamondbacks,St. Louis Cardinals,0.5254,0.4746,6.8491,6.4571,9.1157,0.5254
-777777,Chicago White Sox,Texas Rangers,Texas Rangers,Chicago White Sox,0.4944,0.5056,5.3429,5.3764,9.1414,0.5056
+777778,Washington Nationals,San Francisco Giants,San Francisco Giants,Washington Nationals,0.3357,0.6643,5.5515,7.736,9.1081,0.6643
+777768,New York Yankees,Colorado Rockies,New York Yankees,Colorado Rockies,0.6586,0.3414,7.037,4.984,9.1141,0.6586
+777780,Detroit Tigers,Cleveland Guardians,Cleveland Guardians,Detroit Tigers,0.4086,0.5914,5.3767,6.4503,9.1227,0.5914
+777765,Athletics,Philadelphia Phillies,Philadelphia Phillies,Athletics,0.4238,0.5762,6.1255,7.1024,9.1098,0.5762
+777774,Seattle Mariners,Houston Astros,Seattle Mariners,Houston Astros,0.5757,0.4243,6.5835,5.6665,9.1207,0.5757
+777785,Baltimore Orioles,Boston Red Sox,Baltimore Orioles,Boston Red Sox,0.571,0.429,7.3406,6.4495,9.1043,0.571
+777779,Cincinnati Reds,Chicago Cubs,Chicago Cubs,Cincinnati Reds,0.437,0.563,7.1856,8.1442,9.0919,0.563
+777773,Los Angeles Dodgers,New York Mets,Los Angeles Dodgers,New York Mets,0.5611,0.4389,7.2071,6.4263,9.1167,0.5611
+777772,Kansas City Royals,Minnesota Twins,Kansas City Royals,Minnesota Twins,0.5449,0.4551,6.2981,5.7105,9.1274,0.5449
+777783,Atlanta Braves,San Diego Padres,San Diego Padres,Atlanta Braves,0.4567,0.5433,7.2913,7.9347,9.0985,0.5433
+777776,Pittsburgh Pirates,Milwaukee Brewers,Milwaukee Brewers,Pittsburgh Pirates,0.4568,0.5432,5.2289,5.7064,9.1334,0.5432
+777775,Toronto Blue Jays,Tampa Bay Rays,Toronto Blue Jays,Tampa Bay Rays,0.532,0.468,6.5058,6.0776,9.1149,0.532
+777766,Arizona Diamondbacks,St. Louis Cardinals,Arizona Diamondbacks,St. Louis Cardinals,0.5232,0.4768,6.8679,6.4975,9.1103,0.5232
+777767,Miami Marlins,Los Angeles Angels,Miami Marlins,Los Angeles Angels,0.5226,0.4774,5.4245,5.2008,9.1415,0.5226
+777777,Texas Rangers,Chicago White Sox,Texas Rangers,Chicago White Sox,0.5007,0.4993,5.3804,5.3385,9.1455,0.5007
