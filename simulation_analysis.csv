@@ -79,3 +79,21 @@ Game ID,Date,Matchup,Simulated Winner,Actual Winner,Correctly Predicted,Confiden
 777739,2025-05-28,Los Angeles Dodgers vs Cleveland Guardians,Los Angeles Dodgers,Cleveland Guardians,0,0.6301
 777738,2025-05-28,San Francisco Giants vs Detroit Tigers,Detroit Tigers,Detroit Tigers,1,0.6
 777734,2025-05-28,Athletics vs Houston Astros,Athletics,Houston Astros,0,0.5763
+777723,2025-05-29,Atlanta Braves vs Philadelphia Phillies,Atlanta Braves,Atlanta Braves,1,0.6287
+777725,2025-05-29,Tampa Bay Rays vs Houston Astros,Tampa Bay Rays,Tampa Bay Rays,1,0.5336
+777735,2025-05-29,Atlanta Braves vs Philadelphia Phillies,Philadelphia Phillies,Philadelphia Phillies,1,0.5232
+777727,2025-05-29,Athletics vs Toronto Blue Jays,Athletics,Toronto Blue Jays,0,0.5109
+777707,2025-05-30,Pittsburgh Pirates vs San Diego Padres,San Diego Padres,San Diego Padres,1,0.6439
+777709,2025-05-30,St. Louis Cardinals vs Texas Rangers,St. Louis Cardinals,Texas Rangers,0,0.643
+777715,2025-05-30,Milwaukee Brewers vs Philadelphia Phillies,Philadelphia Phillies,Milwaukee Brewers,0,0.5825
+777720,2025-05-30,Chicago White Sox vs Baltimore Orioles,Chicago White Sox,Baltimore Orioles,0,0.566
+777716,2025-05-30,Athletics vs Toronto Blue Jays,Athletics,Toronto Blue Jays,0,0.5584
+777712,2025-05-30,Cincinnati Reds vs Chicago Cubs,Chicago Cubs,Cincinnati Reds,0,0.5561
+777713,2025-05-30,Minnesota Twins vs Seattle Mariners,Seattle Mariners,Minnesota Twins,0,0.5528
+777711,2025-05-30,Detroit Tigers vs Kansas City Royals,Detroit Tigers,Detroit Tigers,1,0.5505
+777719,2025-05-30,Boston Red Sox vs Atlanta Braves,Atlanta Braves,Boston Red Sox,0,0.543
+777710,2025-05-30,Washington Nationals vs Arizona Diamondbacks,Arizona Diamondbacks,Washington Nationals,0,0.5408
+777714,2025-05-30,Tampa Bay Rays vs Houston Astros,Tampa Bay Rays,Houston Astros,0,0.5406
+777718,2025-05-30,Colorado Rockies vs New York Mets,New York Mets,New York Mets,1,0.5315
+777721,2025-05-30,Los Angeles Angels vs Cleveland Guardians,Cleveland Guardians,Los Angeles Angels,0,0.5198
+777717,2025-05-30,San Francisco Giants vs Miami Marlins,Miami Marlins,San Francisco Giants,0,0.5175
