@@ -97,3 +97,9 @@ Game ID,Date,Matchup,Simulated Winner,Actual Winner,Correctly Predicted,Confiden
 777718,2025-05-30,Colorado Rockies vs New York Mets,New York Mets,New York Mets,1,0.5315
 777721,2025-05-30,Los Angeles Angels vs Cleveland Guardians,Cleveland Guardians,Los Angeles Angels,0,0.5198
 777717,2025-05-30,San Francisco Giants vs Miami Marlins,Miami Marlins,San Francisco Giants,0,0.5175
+777700,2025-05-31,Colorado Rockies vs New York Mets,New York Mets,New York Mets,1,0.554
+777705,2025-05-31,San Francisco Giants vs Miami Marlins,Miami Marlins,Miami Marlins,1,0.5305
+777704,2025-05-31,Cincinnati Reds vs Chicago Cubs,Chicago Cubs,Chicago Cubs,1,0.5302
+777697,2025-05-31,St. Louis Cardinals vs Texas Rangers,Texas Rangers,St. Louis Cardinals,0,0.5182
+777701,2025-05-31,Athletics vs Toronto Blue Jays,Toronto Blue Jays,Toronto Blue Jays,1,0.5097
+777694,2025-05-31,Detroit Tigers vs Kansas City Royals,Detroit Tigers,Kansas City Royals,0,0.5073
