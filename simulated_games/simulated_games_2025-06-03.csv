@@ -1,0 +1,16 @@
+Game ID,Projected Winning Team,Projected Losing Team,Away Team,Home Team,Away Team Win Percentage,Home Team Win Percentage,Average Away Score,Average Home Score,Average Total Innings,Confidence Level
+777667,Boston Red Sox,Los Angeles Angels,Los Angeles Angels,Boston Red Sox,0.3202,0.6798,5.2807,7.6899,9.1152,0.6798
+777657,Los Angeles Dodgers,New York Mets,New York Mets,Los Angeles Dodgers,0.3554,0.6446,6.1133,8.1256,9.0999,0.6446
+777672,Atlanta Braves,Arizona Diamondbacks,Arizona Diamondbacks,Atlanta Braves,0.3994,0.6006,6.6777,8.1127,9.1084,0.6006
+777658,Athletics,Minnesota Twins,Minnesota Twins,Athletics,0.4036,0.5964,5.1273,6.274,9.1193,0.5964
+777668,Cincinnati Reds,Milwaukee Brewers,Milwaukee Brewers,Cincinnati Reds,0.4192,0.5808,5.3837,6.359,9.1246,0.5808
+777664,New York Yankees,Cleveland Guardians,Cleveland Guardians,New York Yankees,0.4349,0.5651,6.1505,6.9939,9.116,0.5651
+777656,San Diego Padres,San Francisco Giants,San Diego Padres,San Francisco Giants,0.5568,0.4432,6.7551,5.9894,9.1158,0.5568
+777663,Houston Astros,Pittsburgh Pirates,Houston Astros,Pittsburgh Pirates,0.5562,0.4438,6.0841,5.4335,9.12,0.5562
+777665,Toronto Blue Jays,Philadelphia Phillies,Philadelphia Phillies,Toronto Blue Jays,0.4503,0.5497,5.9846,6.6475,9.1129,0.5497
+777661,Detroit Tigers,Chicago White Sox,Detroit Tigers,Chicago White Sox,0.5472,0.4528,6.8923,6.3176,9.1154,0.5472
+777666,Miami Marlins,Colorado Rockies,Colorado Rockies,Miami Marlins,0.465,0.535,5.9042,6.3776,9.1184,0.535
+777655,Seattle Mariners,Baltimore Orioles,Baltimore Orioles,Seattle Mariners,0.4682,0.5318,5.4165,5.8562,9.1325,0.5318
+777660,Kansas City Royals,St. Louis Cardinals,Kansas City Royals,St. Louis Cardinals,0.522,0.478,6.4396,6.1844,9.1235,0.522
+777659,Chicago Cubs,Washington Nationals,Chicago Cubs,Washington Nationals,0.521,0.479,7.0814,6.7765,9.1042,0.521
+777662,Texas Rangers,Tampa Bay Rays,Texas Rangers,Tampa Bay Rays,0.5197,0.4803,6.1891,5.9828,9.1212,0.5197

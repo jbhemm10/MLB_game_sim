@@ -103,3 +103,40 @@ Game ID,Date,Matchup,Simulated Winner,Actual Winner,Correctly Predicted,Confiden
 777697,2025-05-31,St. Louis Cardinals vs Texas Rangers,Texas Rangers,St. Louis Cardinals,0,0.5182
 777701,2025-05-31,Athletics vs Toronto Blue Jays,Toronto Blue Jays,Toronto Blue Jays,1,0.5097
 777694,2025-05-31,Detroit Tigers vs Kansas City Royals,Detroit Tigers,Kansas City Royals,0,0.5073
+777687,2025-06-01,Cincinnati Reds vs Chicago Cubs,Chicago Cubs,Chicago Cubs,1,0.6102
+777689,2025-06-01,San Francisco Giants vs Miami Marlins,Miami Marlins,San Francisco Giants,0,0.5901
+777684,2025-06-01,Chicago White Sox vs Baltimore Orioles,Chicago White Sox,Baltimore Orioles,0,0.5886
+777685,2025-06-01,Athletics vs Toronto Blue Jays,Toronto Blue Jays,Toronto Blue Jays,1,0.5611
+777681,2025-06-01,Pittsburgh Pirates vs San Diego Padres,San Diego Padres,San Diego Padres,1,0.5557
+777682,2025-06-01,New York Yankees vs Los Angeles Dodgers,Los Angeles Dodgers,New York Yankees,0,0.5506
+777680,2025-06-01,Minnesota Twins vs Seattle Mariners,Seattle Mariners,Seattle Mariners,1,0.5446
+777690,2025-06-01,Tampa Bay Rays vs Houston Astros,Tampa Bay Rays,Houston Astros,0,0.5436
+777679,2025-06-01,Washington Nationals vs Arizona Diamondbacks,Washington Nationals,Arizona Diamondbacks,0,0.5427
+777686,2025-06-01,Colorado Rockies vs New York Mets,Colorado Rockies,New York Mets,0,0.5362
+777692,2025-06-01,Boston Red Sox vs Atlanta Braves,Atlanta Braves,Boston Red Sox,0,0.5327
+777678,2025-06-01,St. Louis Cardinals vs Texas Rangers,Texas Rangers,Texas Rangers,1,0.5271
+777688,2025-06-01,Milwaukee Brewers vs Philadelphia Phillies,Philadelphia Phillies,Milwaukee Brewers,0,0.5236
+777683,2025-06-01,Los Angeles Angels vs Cleveland Guardians,Los Angeles Angels,Cleveland Guardians,0,0.5097
+777677,2025-06-01,Detroit Tigers vs Kansas City Royals,Detroit Tigers,Detroit Tigers,1,0.5016
+777676,2025-06-02,San Diego Padres vs San Francisco Giants,San Diego Padres,San Diego Padres,1,0.6863
+777670,2025-06-02,Los Angeles Angels vs Boston Red Sox,Boston Red Sox,Los Angeles Angels,0,0.6339
+777669,2025-06-02,Minnesota Twins vs Athletics,Athletics,Minnesota Twins,0,0.6212
+777675,2025-06-02,New York Mets vs Los Angeles Dodgers,Los Angeles Dodgers,New York Mets,0,0.6133
+777673,2025-06-02,Colorado Rockies vs Miami Marlins,Miami Marlins,Colorado Rockies,0,0.5851
+777671,2025-06-02,Milwaukee Brewers vs Cincinnati Reds,Cincinnati Reds,Milwaukee Brewers,0,0.536
+777674,2025-06-02,Detroit Tigers vs Chicago White Sox,Chicago White Sox,Detroit Tigers,0,0.5258
+777667,2025-06-03,Los Angeles Angels vs Boston Red Sox,Boston Red Sox,Los Angeles Angels,0,0.6798
+777657,2025-06-03,New York Mets vs Los Angeles Dodgers,Los Angeles Dodgers,Los Angeles Dodgers,1,0.6446
+777672,2025-06-03,Arizona Diamondbacks vs Atlanta Braves,Atlanta Braves,Arizona Diamondbacks,0,0.6006
+777658,2025-06-03,Minnesota Twins vs Athletics,Athletics,Minnesota Twins,0,0.5964
+777668,2025-06-03,Milwaukee Brewers vs Cincinnati Reds,Cincinnati Reds,Cincinnati Reds,1,0.5808
+777664,2025-06-03,Cleveland Guardians vs New York Yankees,New York Yankees,New York Yankees,1,0.5651
+777656,2025-06-03,San Diego Padres vs San Francisco Giants,San Diego Padres,San Diego Padres,1,0.5568
+777663,2025-06-03,Houston Astros vs Pittsburgh Pirates,Houston Astros,Houston Astros,1,0.5562
+777665,2025-06-03,Philadelphia Phillies vs Toronto Blue Jays,Toronto Blue Jays,Philadelphia Phillies,0,0.5497
+777661,2025-06-03,Detroit Tigers vs Chicago White Sox,Detroit Tigers,Chicago White Sox,0,0.5472
+777666,2025-06-03,Colorado Rockies vs Miami Marlins,Miami Marlins,Colorado Rockies,0,0.535
+777655,2025-06-03,Baltimore Orioles vs Seattle Mariners,Seattle Mariners,Baltimore Orioles,0,0.5318
+777660,2025-06-03,Kansas City Royals vs St. Louis Cardinals,Kansas City Royals,Kansas City Royals,1,0.522
+777659,2025-06-03,Chicago Cubs vs Washington Nationals,Chicago Cubs,Chicago Cubs,1,0.521
+777662,2025-06-03,Texas Rangers vs Tampa Bay Rays,Texas Rangers,Tampa Bay Rays,0,0.5197
