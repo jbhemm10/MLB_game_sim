@@ -140,3 +140,8 @@ Game ID,Date,Matchup,Simulated Winner,Actual Winner,Correctly Predicted,Confiden
 777660,2025-06-03,Kansas City Royals vs St. Louis Cardinals,Kansas City Royals,Kansas City Royals,1,0.522
 777659,2025-06-03,Chicago Cubs vs Washington Nationals,Chicago Cubs,Chicago Cubs,1,0.521
 777662,2025-06-03,Texas Rangers vs Tampa Bay Rays,Texas Rangers,Tampa Bay Rays,0,0.5197
+777652,2025-06-04,Colorado Rockies vs Miami Marlins,Colorado Rockies,Colorado Rockies,1,0.5677
+777654,2025-06-04,Arizona Diamondbacks vs Atlanta Braves,Atlanta Braves,Arizona Diamondbacks,0,0.567
+777647,2025-06-04,Milwaukee Brewers vs Cincinnati Reds,Cincinnati Reds,Milwaukee Brewers,0,0.5575
+777649,2025-06-04,Los Angeles Angels vs Boston Red Sox,Boston Red Sox,Boston Red Sox,1,0.5221
+777648,2025-06-04,Houston Astros vs Pittsburgh Pirates,Houston Astros,Pittsburgh Pirates,0,0.5093

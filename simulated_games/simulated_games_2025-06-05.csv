@@ -1,0 +1,13 @@
+Game ID,Projected Winning Team,Projected Losing Team,Away Team,Home Team,Away Team Win Percentage,Home Team Win Percentage,Average Away Score,Average Home Score,Average Total Innings,Confidence Level
+777634,Detroit Tigers,Chicago White Sox,Detroit Tigers,Chicago White Sox,0.6609,0.3391,8.3768,6.0596,9.1004,0.6609
+777640,Atlanta Braves,Arizona Diamondbacks,Arizona Diamondbacks,Atlanta Braves,0.3836,0.6164,6.3666,7.8841,9.0955,0.6164
+777637,Toronto Blue Jays,Philadelphia Phillies,Philadelphia Phillies,Toronto Blue Jays,0.3849,0.6151,5.9782,7.5801,9.1095,0.6151
+777632,Chicago Cubs,Washington Nationals,Chicago Cubs,Washington Nationals,0.5979,0.4021,7.7098,6.3783,9.1107,0.5979
+777642,St. Louis Cardinals,Kansas City Royals,Kansas City Royals,St. Louis Cardinals,0.4293,0.5707,5.6676,6.5085,9.1146,0.5707
+777633,San Diego Padres,San Francisco Giants,San Diego Padres,San Francisco Giants,0.5417,0.4583,7.2282,6.6473,9.1153,0.5417
+777629,Texas Rangers,Tampa Bay Rays,Texas Rangers,Tampa Bay Rays,0.5244,0.4756,5.9012,5.6581,9.1336,0.5244
+777631,Los Angeles Dodgers,New York Mets,New York Mets,Los Angeles Dodgers,0.4844,0.5156,6.1329,6.3314,9.1232,0.5156
+777636,Minnesota Twins,Athletics,Minnesota Twins,Athletics,0.515,0.485,6.0989,5.9213,9.1238,0.515
+777644,New York Yankees,Cleveland Guardians,Cleveland Guardians,New York Yankees,0.4871,0.5129,6.1327,6.3165,9.1173,0.5129
+777630,Houston Astros,Pittsburgh Pirates,Houston Astros,Pittsburgh Pirates,0.5079,0.4921,5.7862,5.6748,9.1241,0.5079
+777628,Baltimore Orioles,Seattle Mariners,Baltimore Orioles,Seattle Mariners,0.5019,0.4981,5.835,5.7535,9.1245,0.5019

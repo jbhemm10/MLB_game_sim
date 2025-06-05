@@ -1,4 +1,7 @@
 Game ID,Projected Winning Team,Projected Losing Team,Away Team,Home Team,Away Team Win Percentage,Home Team Win Percentage,Average Away Score,Average Home Score,Average Total Innings,Confidence Level
-777652,Colorado Rockies,Miami Marlins,Colorado Rockies,Miami Marlins,0.5649,0.4351,6.2624,5.5072,9.1258,0.5649
-777647,Cincinnati Reds,Milwaukee Brewers,Milwaukee Brewers,Cincinnati Reds,0.4491,0.5509,6.2949,6.9659,9.1151,0.5509
-777649,Boston Red Sox,Los Angeles Angels,Los Angeles Angels,Boston Red Sox,0.4804,0.5196,5.9097,6.2564,9.1251,0.5196
+777652,Colorado Rockies,Miami Marlins,Colorado Rockies,Miami Marlins,0.5677,0.4323,6.2995,5.4926,9.1236,0.5677
+777654,Atlanta Braves,Arizona Diamondbacks,Arizona Diamondbacks,Atlanta Braves,0.433,0.567,6.7629,7.7379,9.0985,0.567
+777647,Cincinnati Reds,Milwaukee Brewers,Milwaukee Brewers,Cincinnati Reds,0.4425,0.5575,6.2339,6.9683,9.11,0.5575
+777642,St. Louis Cardinals,Kansas City Royals,Kansas City Royals,St. Louis Cardinals,0.4459,0.5541,5.6193,6.3338,9.1205,0.5541
+777649,Boston Red Sox,Los Angeles Angels,Los Angeles Angels,Boston Red Sox,0.4779,0.5221,5.9477,6.2384,9.1207,0.5221
+777648,Houston Astros,Pittsburgh Pirates,Houston Astros,Pittsburgh Pirates,0.5093,0.4907,5.9974,5.9278,9.1303,0.5093
