@@ -78,7 +78,7 @@ os.makedirs("merged_data", exist_ok=True)
 merged_data.to_csv(f"merged_data/{date}_merged_data.csv", index=False)
 
 # Run the simulation
-simulated_games = simulate_matchups(num_simulations=10000)
+simulated_games = simulate_matchups(num_simulations=1)
 os.makedirs("simulated_games", exist_ok=True)
 simulated_games.to_csv(f"simulated_games/simulated_games_{date}.csv", index=False)
 
