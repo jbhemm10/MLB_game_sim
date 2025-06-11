@@ -145,3 +145,12 @@ Game ID,Date,Matchup,Simulated Winner,Actual Winner,Correctly Predicted,Confiden
 777647,2025-06-04,Milwaukee Brewers vs Cincinnati Reds,Cincinnati Reds,Milwaukee Brewers,0,0.5575
 777649,2025-06-04,Los Angeles Angels vs Boston Red Sox,Boston Red Sox,Boston Red Sox,1,0.5221
 777648,2025-06-04,Houston Astros vs Pittsburgh Pirates,Houston Astros,Pittsburgh Pirates,0,0.5093
+777574,2025-06-09,Miami Marlins vs Pittsburgh Pirates,Miami Marlins,Pittsburgh Pirates,0,1.0
+777575,2025-06-09,Atlanta Braves vs Milwaukee Brewers,Atlanta Braves,Atlanta Braves,1,1.0
+777576,2025-06-09,Athletics vs Los Angeles Angels,Athletics,Los Angeles Angels,0,1.0
+777577,2025-06-09,Seattle Mariners vs Arizona Diamondbacks,Arizona Diamondbacks,Arizona Diamondbacks,1,1.0
+777578,2025-06-09,Chicago Cubs vs Philadelphia Phillies,Philadelphia Phillies,Philadelphia Phillies,1,1.0
+777579,2025-06-09,Los Angeles Dodgers vs San Diego Padres,Los Angeles Dodgers,Los Angeles Dodgers,1,1.0
+777580,2025-06-09,Cincinnati Reds vs Cleveland Guardians,Cincinnati Reds,Cincinnati Reds,1,1.0
+777581,2025-06-09,Toronto Blue Jays vs St. Louis Cardinals,St. Louis Cardinals,Toronto Blue Jays,0,1.0
+777584,2025-06-09,Tampa Bay Rays vs Boston Red Sox,Tampa Bay Rays,Tampa Bay Rays,1,1.0
