@@ -154,3 +154,31 @@ Game ID,Date,Matchup,Simulated Winner,Actual Winner,Correctly Predicted,Confiden
 777580,2025-06-09,Cincinnati Reds vs Cleveland Guardians,Cincinnati Reds,Cincinnati Reds,1,1.0
 777581,2025-06-09,Toronto Blue Jays vs St. Louis Cardinals,St. Louis Cardinals,Toronto Blue Jays,0,1.0
 777584,2025-06-09,Tampa Bay Rays vs Boston Red Sox,Tampa Bay Rays,Tampa Bay Rays,1,1.0
+777557,2025-06-10,Texas Rangers vs Minnesota Twins,Minnesota Twins,Texas Rangers,0,1.0
+777558,2025-06-10,Toronto Blue Jays vs St. Louis Cardinals,Toronto Blue Jays,Toronto Blue Jays,1,1.0
+777559,2025-06-10,Seattle Mariners vs Arizona Diamondbacks,Arizona Diamondbacks,Arizona Diamondbacks,1,1.0
+777560,2025-06-10,Los Angeles Dodgers vs San Diego Padres,Los Angeles Dodgers,San Diego Padres,0,1.0
+777563,2025-06-10,San Francisco Giants vs Colorado Rockies,San Francisco Giants,San Francisco Giants,1,1.0
+777564,2025-06-10,Athletics vs Los Angeles Angels,Athletics,Los Angeles Angels,0,1.0
+777565,2025-06-10,Tampa Bay Rays vs Boston Red Sox,Tampa Bay Rays,Boston Red Sox,0,1.0
+777566,2025-06-10,Miami Marlins vs Pittsburgh Pirates,Miami Marlins,Miami Marlins,1,1.0
+777567,2025-06-10,Chicago White Sox vs Houston Astros,Houston Astros,Chicago White Sox,0,1.0
+777568,2025-06-10,Atlanta Braves vs Milwaukee Brewers,Atlanta Braves,Milwaukee Brewers,0,1.0
+777569,2025-06-10,Cincinnati Reds vs Cleveland Guardians,Cincinnati Reds,Cincinnati Reds,1,1.0
+777570,2025-06-10,Washington Nationals vs New York Mets,New York Mets,New York Mets,1,1.0
+777571,2025-06-10,Chicago Cubs vs Philadelphia Phillies,Philadelphia Phillies,Chicago Cubs,0,1.0
+777572,2025-06-10,New York Yankees vs Kansas City Royals,Kansas City Royals,New York Yankees,0,1.0
+777573,2025-06-10,Detroit Tigers vs Baltimore Orioles,Baltimore Orioles,Detroit Tigers,0,1.0
+777542,2025-06-11,Athletics vs Los Angeles Angels,Athletics,Los Angeles Angels,0,1.0
+777543,2025-06-11,Los Angeles Dodgers vs San Diego Padres,San Diego Padres,Los Angeles Dodgers,0,1.0
+777545,2025-06-11,Toronto Blue Jays vs St. Louis Cardinals,Toronto Blue Jays,Toronto Blue Jays,1,1.0
+777548,2025-06-11,Seattle Mariners vs Arizona Diamondbacks,Seattle Mariners,Arizona Diamondbacks,0,1.0
+777549,2025-06-11,Cincinnati Reds vs Cleveland Guardians,Cincinnati Reds,Cleveland Guardians,0,1.0
+777552,2025-06-11,Miami Marlins vs Pittsburgh Pirates,Pittsburgh Pirates,Pittsburgh Pirates,1,1.0
+777553,2025-06-11,Chicago Cubs vs Philadelphia Phillies,Philadelphia Phillies,Philadelphia Phillies,1,1.0
+777554,2025-06-11,Atlanta Braves vs Milwaukee Brewers,Atlanta Braves,Atlanta Braves,1,1.0
+777533,2025-06-12,Texas Rangers vs Minnesota Twins,Texas Rangers,Texas Rangers,1,1.0
+777534,2025-06-12,San Francisco Giants vs Colorado Rockies,Colorado Rockies,Colorado Rockies,1,1.0
+777540,2025-06-12,Detroit Tigers vs Baltimore Orioles,Baltimore Orioles,Detroit Tigers,0,1.0
+777544,2025-06-12,Washington Nationals vs New York Mets,Washington Nationals,New York Mets,0,1.0
+777546,2025-06-12,Chicago White Sox vs Houston Astros,Chicago White Sox,Houston Astros,0,1.0
