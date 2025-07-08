@@ -1,0 +1,12 @@
+game_id,date,away_team,away_score,home_team,home_score,winner
+777283,2025-07-01,New York Yankees,5,Toronto Blue Jays,12,Toronto Blue Jays
+777288,2025-07-01,St. Louis Cardinals,0,Pittsburgh Pirates,1,Pittsburgh Pirates
+777293,2025-07-01,Minnesota Twins,0,Miami Marlins,2,Miami Marlins
+777286,2025-07-01,Athletics,4,Tampa Bay Rays,3,Athletics
+777298,2025-07-01,Los Angeles Angels,4,Atlanta Braves,0,Los Angeles Angels
+777287,2025-07-01,Cleveland Guardians,2,Chicago Cubs,5,Chicago Cubs
+777282,2025-07-01,Baltimore Orioles,2,Texas Rangers,10,Texas Rangers
+777285,2025-07-01,Houston Astros,6,Colorado Rockies,5,Houston Astros
+777281,2025-07-01,Kansas City Royals,6,Seattle Mariners,3,Kansas City Royals
+777278,2025-07-01,San Francisco Giants,2,Arizona Diamondbacks,8,Arizona Diamondbacks
+777280,2025-07-01,Chicago White Sox,1,Los Angeles Dodgers,6,Los Angeles Dodgers

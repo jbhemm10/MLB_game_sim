@@ -253,3 +253,52 @@ Game ID,Date,Matchup,Simulated Winner,Actual Winner,Correctly Predicted,Confiden
 777353,2025-06-26,Tampa Bay Rays vs Kansas City Royals,Tampa Bay Rays,Tampa Bay Rays,1,1.0
 777354,2025-06-26,Toronto Blue Jays vs Cleveland Guardians,Cleveland Guardians,Toronto Blue Jays,0,1.0
 777356,2025-06-26,Seattle Mariners vs Minnesota Twins,Minnesota Twins,Minnesota Twins,1,1.0
+777331,2025-06-27,Washington Nationals vs Los Angeles Angels,Los Angeles Angels,Washington Nationals,0,1.0
+777332,2025-06-27,Miami Marlins vs Arizona Diamondbacks,Arizona Diamondbacks,Miami Marlins,0,1.0
+777334,2025-06-27,Minnesota Twins vs Detroit Tigers,Minnesota Twins,Minnesota Twins,1,1.0
+777335,2025-06-27,Los Angeles Dodgers vs Kansas City Royals,Kansas City Royals,Los Angeles Dodgers,0,1.0
+777336,2025-06-27,Chicago Cubs vs Houston Astros,Houston Astros,Houston Astros,1,1.0
+777337,2025-06-27,Athletics vs New York Yankees,New York Yankees,New York Yankees,1,1.0
+777338,2025-06-27,San Francisco Giants vs Chicago White Sox,Chicago White Sox,San Francisco Giants,0,1.0
+777339,2025-06-27,Colorado Rockies vs Milwaukee Brewers,Colorado Rockies,Milwaukee Brewers,0,1.0
+777340,2025-06-27,Seattle Mariners vs Texas Rangers,Seattle Mariners,Seattle Mariners,1,1.0
+777341,2025-06-27,New York Mets vs Pittsburgh Pirates,New York Mets,Pittsburgh Pirates,0,1.0
+777342,2025-06-27,Philadelphia Phillies vs Atlanta Braves,Philadelphia Phillies,Philadelphia Phillies,1,1.0
+777343,2025-06-27,Tampa Bay Rays vs Baltimore Orioles,Baltimore Orioles,Baltimore Orioles,1,1.0
+777345,2025-06-27,Toronto Blue Jays vs Boston Red Sox,Toronto Blue Jays,Toronto Blue Jays,1,1.0
+777346,2025-06-27,San Diego Padres vs Cincinnati Reds,San Diego Padres,Cincinnati Reds,0,1.0
+777349,2025-06-27,St. Louis Cardinals vs Cleveland Guardians,Cleveland Guardians,St. Louis Cardinals,0,1.0
+777271,2025-07-02,Athletics vs Tampa Bay Rays,Athletics,Tampa Bay Rays,0,1.0
+777272,2025-07-02,St. Louis Cardinals vs Pittsburgh Pirates,St. Louis Cardinals,Pittsburgh Pirates,0,1.0
+777273,2025-07-02,San Diego Padres vs Philadelphia Phillies,San Diego Padres,San Diego Padres,1,1.0
+777275,2025-07-02,Minnesota Twins vs Miami Marlins,Miami Marlins,Minnesota Twins,0,1.0
+777284,2025-07-02,Detroit Tigers vs Washington Nationals,Detroit Tigers,Detroit Tigers,1,1.0
+777289,2025-07-02,Milwaukee Brewers vs New York Mets,Milwaukee Brewers,Milwaukee Brewers,1,1.0
+777294,2025-07-02,Cincinnati Reds vs Boston Red Sox,Cincinnati Reds,Boston Red Sox,0,1.0
+777263,2025-07-03,Minnesota Twins vs Miami Marlins,Miami Marlins,Miami Marlins,1,1.0
+777264,2025-07-03,Houston Astros vs Colorado Rockies,Houston Astros,Colorado Rockies,0,1.0
+777235,2025-07-04,Houston Astros vs Los Angeles Dodgers,Los Angeles Dodgers,Houston Astros,0,1.0
+777236,2025-07-04,Pittsburgh Pirates vs Seattle Mariners,Pittsburgh Pirates,Seattle Mariners,0,1.0
+777239,2025-07-04,Texas Rangers vs San Diego Padres,Texas Rangers,San Diego Padres,0,1.0
+777242,2025-07-04,Los Angeles Angels vs Toronto Blue Jays,Toronto Blue Jays,Toronto Blue Jays,1,1.0
+777243,2025-07-04,Chicago White Sox vs Colorado Rockies,Colorado Rockies,Chicago White Sox,0,1.0
+777244,2025-07-04,San Francisco Giants vs Athletics,San Francisco Giants,Athletics,0,1.0
+777245,2025-07-04,Boston Red Sox vs Washington Nationals,Washington Nationals,Boston Red Sox,0,1.0
+777246,2025-07-04,St. Louis Cardinals vs Chicago Cubs,Chicago Cubs,Chicago Cubs,1,1.0
+777247,2025-07-04,Tampa Bay Rays vs Minnesota Twins,Minnesota Twins,Minnesota Twins,1,1.0
+777248,2025-07-04,Kansas City Royals vs Arizona Diamondbacks,Arizona Diamondbacks,Kansas City Royals,0,1.0
+777249,2025-07-04,Detroit Tigers vs Cleveland Guardians,Cleveland Guardians,Detroit Tigers,0,1.0
+777250,2025-07-04,New York Yankees vs New York Mets,New York Yankees,New York Mets,0,1.0
+777252,2025-07-04,Baltimore Orioles vs Atlanta Braves,Baltimore Orioles,Baltimore Orioles,1,1.0
+777254,2025-07-04,Milwaukee Brewers vs Miami Marlins,Miami Marlins,Milwaukee Brewers,0,1.0
+777255,2025-07-04,Cincinnati Reds vs Philadelphia Phillies,Cincinnati Reds,Cincinnati Reds,1,1.0
+777202,2025-07-07,Cleveland Guardians vs Houston Astros,Houston Astros,Cleveland Guardians,0,0.73
+777211,2025-07-07,Tampa Bay Rays vs Detroit Tigers,Tampa Bay Rays,Detroit Tigers,0,0.63
+777201,2025-07-07,Los Angeles Dodgers vs Milwaukee Brewers,Los Angeles Dodgers,Milwaukee Brewers,0,0.6
+777199,2025-07-07,Philadelphia Phillies vs San Francisco Giants,Philadelphia Phillies,San Francisco Giants,0,0.58
+777212,2025-07-07,Toronto Blue Jays vs Chicago White Sox,Chicago White Sox,Toronto Blue Jays,0,0.58
+777203,2025-07-07,Arizona Diamondbacks vs San Diego Padres,Arizona Diamondbacks,Arizona Diamondbacks,1,0.58
+777200,2025-07-07,Texas Rangers vs Los Angeles Angels,Los Angeles Angels,Los Angeles Angels,1,0.57
+777209,2025-07-07,Colorado Rockies vs Boston Red Sox,Colorado Rockies,Boston Red Sox,0,0.54
+777204,2025-07-07,Pittsburgh Pirates vs Kansas City Royals,Kansas City Royals,Kansas City Royals,1,0.52
+777208,2025-07-07,Miami Marlins vs Cincinnati Reds,Cincinnati Reds,Miami Marlins,0,0.52
