@@ -1,15 +1,15 @@
 Game ID,Projected Winning Team,Projected Losing Team,Away Team,Home Team,Away Team Win Percentage,Home Team Win Percentage,Average Away Score,Average Home Score,Average Total Innings,Confidence Level
-777185,San Diego Padres,Arizona Diamondbacks,Arizona Diamondbacks,San Diego Padres,0.0,1.0,5.0,7.0,9.0,1.0
-777186,Philadelphia Phillies,San Francisco Giants,Philadelphia Phillies,San Francisco Giants,1.0,0.0,13.0,2.0,9.0,1.0
-777187,Seattle Mariners,New York Yankees,Seattle Mariners,New York Yankees,1.0,0.0,5.0,2.0,9.0,1.0
-777188,Toronto Blue Jays,Chicago White Sox,Toronto Blue Jays,Chicago White Sox,1.0,0.0,14.0,5.0,9.0,1.0
-777189,Athletics,Atlanta Braves,Atlanta Braves,Athletics,0.0,1.0,2.0,14.0,9.0,1.0
-777190,Chicago Cubs,Minnesota Twins,Chicago Cubs,Minnesota Twins,1.0,0.0,3.0,2.0,9.0,1.0
-777191,Washington Nationals,St. Louis Cardinals,Washington Nationals,St. Louis Cardinals,1.0,0.0,5.0,4.0,9.0,1.0
-777192,Cleveland Guardians,Houston Astros,Cleveland Guardians,Houston Astros,1.0,0.0,7.0,3.0,9.0,1.0
-777193,Milwaukee Brewers,Los Angeles Dodgers,Los Angeles Dodgers,Milwaukee Brewers,0.0,1.0,5.0,6.0,10.0,1.0
-777194,Kansas City Royals,Pittsburgh Pirates,Pittsburgh Pirates,Kansas City Royals,0.0,1.0,3.0,10.0,9.0,1.0
-777195,Tampa Bay Rays,Detroit Tigers,Tampa Bay Rays,Detroit Tigers,1.0,0.0,3.0,2.0,9.0,1.0
-777196,Boston Red Sox,Colorado Rockies,Colorado Rockies,Boston Red Sox,0.0,1.0,3.0,10.0,9.0,1.0
-777197,Miami Marlins,Cincinnati Reds,Miami Marlins,Cincinnati Reds,1.0,0.0,4.0,2.0,9.0,1.0
-777198,New York Mets,Baltimore Orioles,New York Mets,Baltimore Orioles,1.0,0.0,19.0,4.0,9.0,1.0
+777185,Arizona Diamondbacks,San Diego Padres,Arizona Diamondbacks,San Diego Padres,1.0,0.0,7.0,3.0,9.0,1.0
+777186,Philadelphia Phillies,San Francisco Giants,Philadelphia Phillies,San Francisco Giants,1.0,0.0,5.0,3.0,9.0,1.0
+777187,Seattle Mariners,New York Yankees,Seattle Mariners,New York Yankees,1.0,0.0,8.0,5.0,9.0,1.0
+777188,Toronto Blue Jays,Chicago White Sox,Toronto Blue Jays,Chicago White Sox,1.0,0.0,18.0,7.0,9.0,1.0
+777189,Atlanta Braves,Athletics,Atlanta Braves,Athletics,1.0,0.0,9.0,3.0,9.0,1.0
+777190,Chicago Cubs,Minnesota Twins,Chicago Cubs,Minnesota Twins,1.0,0.0,5.0,3.0,9.0,1.0
+777191,Washington Nationals,St. Louis Cardinals,Washington Nationals,St. Louis Cardinals,1.0,0.0,7.0,5.0,9.0,1.0
+777192,Houston Astros,Cleveland Guardians,Cleveland Guardians,Houston Astros,0.0,1.0,4.0,10.0,9.0,1.0
+777193,Los Angeles Dodgers,Milwaukee Brewers,Los Angeles Dodgers,Milwaukee Brewers,1.0,0.0,6.0,5.0,10.0,1.0
+777194,Pittsburgh Pirates,Kansas City Royals,Pittsburgh Pirates,Kansas City Royals,1.0,0.0,11.0,6.0,9.0,1.0
+777195,Tampa Bay Rays,Detroit Tigers,Tampa Bay Rays,Detroit Tigers,1.0,0.0,5.0,2.0,9.0,1.0
+777196,Boston Red Sox,Colorado Rockies,Colorado Rockies,Boston Red Sox,0.0,1.0,7.0,9.0,9.0,1.0
+777197,Miami Marlins,Cincinnati Reds,Miami Marlins,Cincinnati Reds,1.0,0.0,13.0,9.0,10.0,1.0
+777198,Baltimore Orioles,New York Mets,New York Mets,Baltimore Orioles,0.0,1.0,3.0,12.0,9.0,1.0

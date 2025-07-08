@@ -25,6 +25,7 @@ from simulation import simulate_matchups
 from analysis import get_yesterdays_scores
 from analysis import simulation_analysis
 
+
 # Set the current year
 current_year = datetime.datetime.now().year
 
@@ -81,6 +82,7 @@ merged_data.to_csv(f"merged_data/{date}_merged_data.csv", index=False)
 simulated_games = simulate_matchups(num_simulations=1)
 os.makedirs("simulated_games", exist_ok=True)
 simulated_games.to_csv(f"simulated_games/simulated_games_{date}.csv", index=False)
+
 
 # Get yesterday's scores
 yesterday_scores = get_yesterdays_scores()
