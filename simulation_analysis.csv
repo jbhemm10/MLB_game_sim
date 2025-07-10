@@ -315,3 +315,6 @@ Game ID,Date,Matchup,Simulated Winner,Actual Winner,Correctly Predicted,Confiden
 777196,2025-07-08,Colorado Rockies vs Boston Red Sox,Boston Red Sox,Boston Red Sox,1,1.0
 777197,2025-07-08,Miami Marlins vs Cincinnati Reds,Miami Marlins,Miami Marlins,1,1.0
 777198,2025-07-08,New York Mets vs Baltimore Orioles,Baltimore Orioles,New York Mets,0,1.0
+777163,2025-07-09,Philadelphia Phillies vs San Francisco Giants,Philadelphia Phillies,Philadelphia Phillies,1,1.0
+777172,2025-07-09,Toronto Blue Jays vs Chicago White Sox,Chicago White Sox,Chicago White Sox,1,1.0
+777175,2025-07-09,Los Angeles Dodgers vs Milwaukee Brewers,Los Angeles Dodgers,Milwaukee Brewers,0,1.0
