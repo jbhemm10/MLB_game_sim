@@ -32,6 +32,11 @@ def get_player_at_bats(player_id):
 
     # Sort by game and appearance order
     df = df.sort_values(by=['game_date', 'n_priorpa_thisgame_player_at_bat'], ascending=[False, False])
+    
+    columns_to_keep = ['player_id', 'player_name', 'game_date', 'n_priorpa_thisgame_player_at_bat', 'events', 'batter', 'pitcher', 
+                       'p_throws', 'on_3b', 'on_2b', 'on_1b', 'stand']
+    
+    df =df[[col for col in columns_to_keep if col in df.columns]]
     return df
 
 # Get all valid player data
@@ -55,6 +60,7 @@ if all_player_data:
     print(f"Saved {len(all_player_data)} players' data to 2025_advanced_hitter_data.csv")
 else:
     print("No data collected for any player.")
+
 
 """
 # Get at bat data for for a specific player (Aaron Judge)
