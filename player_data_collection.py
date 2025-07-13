@@ -59,7 +59,7 @@ def download_pitchers_data(save_path=None):
     url = (f'https://baseballsavant.mlb.com/leaderboard/custom?year={current_year}&type=pitcher&filter=&min=10&'
            'selections=player_age,p_game,p_formatted_ip,pa,ab,hit,single,double,triple,home_run,'
            'strikeout,walk,k_percent,bb_percent,batting_avg,slg_percent,on_base_percent,'
-           'on_base_plus_slg,p_era,p_opp_batting_avg,xba,xslg,woba,xwoba,whiff_percent,swing_percent'
+           'on_base_plus_slg,p_era,p_opp_batting_avg,xba,xslg,woba,xwoba,whiff_percent,swing_percent,pitch_hand'
            '&sort=xwoba&sortDir=asc&csv=true')
 
     response = requests.get(url)
