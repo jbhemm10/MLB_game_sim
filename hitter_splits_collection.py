@@ -148,34 +148,34 @@ def get_player_splits(player_ids: List[int], start_date: str, end_date: str):
         'is_walks': 'sum',
         'is_strikeouts': 'sum'
     }).rename(columns={
-        'is_ab': 'at_bats',
-        'is_hit': 'hits',
-        'is_single': 'singles',
-        'is_double': 'doubles',
-        'is_triple': 'triples',
-        'is_home_run': 'home_runs',
-        'is_plate_appearance': 'plate_appearances',
-        'is_walks': 'walks',
-        'is_strikeouts': 'strikeouts'
+        'is_ab': 'ab',
+        'is_hit': 'hit',
+        'is_single': 'single',
+        'is_double': 'double',
+        'is_triple': 'triple',
+        'is_home_run': 'home_run',
+        'is_plate_appearance': 'pa',
+        'is_walks': 'walk',
+        'is_strikeouts': 'strikeout'
     }).reset_index()
 
     # Replace NaN values with 0
     split_stats.fillna(0, inplace=True)
 
     # Step 5: Calculate stats
-    split_stats['batting_average'] = split_stats['hits'] / split_stats['at_bats'].replace(0, pd.NA)
-    split_stats['slugging_percentage'] = (
-        split_stats['singles'] + 2 * split_stats['doubles'] +
-        3 * split_stats['triples'] + 4 * split_stats['home_runs']
-    ) / split_stats['at_bats'].replace(0, pd.NA)
+    split_stats['batting_avg'] = split_stats['hit'] / split_stats['ab'].replace(0, pd.NA)
+    split_stats['slg_percent'] = (
+        split_stats['single'] + 2 * split_stats['double'] +
+        3 * split_stats['triple'] + 4 * split_stats['home_run']
+    ) / split_stats['ab'].replace(0, pd.NA)
 
     # Merge names into the split stats
     split_stats = split_stats.merge(player_names, on='player_id', how='left')
 
     # Optional: Rearrange columns so the name comes first
     split_stats = split_stats[[
-        'player_id', 'player_name', 'Pitcher Handedness', 'plate_appearances',
-        'at_bats', 'hits', 'singles', 'doubles', 'triples', 'home_runs', 'walks', 'strikeouts',
+        'player_id', 'player_name', 'Pitcher Handedness', 'pa',
+        'ab', 'hit', 'single', 'double', 'triple', 'home_run', 'walk', 'strikeout',
         'batting_average', 'slugging_percentage'
     ]]
 
