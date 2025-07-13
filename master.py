@@ -24,13 +24,16 @@ import merge_hitters
 from simulation import simulate_matchups
 from analysis import get_yesterdays_scores
 from analysis import simulation_analysis
-
+from hitter_splits_collection import get_player_splits
 
 # Set the current year
 current_year = datetime.datetime.now().year
 
 # Set the current date
 current_date = datetime.datetime.now().date()
+
+# Set start of MLB season
+mlb_start_date = '2025-03-27'
 
 # Run data collection for hitters and pitchers
 player_data_collection.download_hitters_data()
@@ -90,5 +93,17 @@ yesterday_scores = get_yesterdays_scores()
 # Run the simulation analysis
 simulation_analysis()
 
+# Collect unique player IDs from today's lineups
+player_ids = set()
+for lineup in lineups:
+    for player in lineup['home_lineup']:
+        player_ids.add(player['player_id'])
+    for player in lineup['away_lineup']:
+        player_ids.add(player['player_id'])
+
+# Convert player IDs to a list
+player_ids = list(player_ids)
+
+get_player_splits(player_ids, mlb_start_date, current_date)
 
 
