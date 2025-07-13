@@ -68,6 +68,19 @@ for lineup in lineups:
         for player in lineup['away_lineup']:
             print(f"  {player['player_name']} (ID: {player['player_id']})")
 
+# Collect unique player IDs from today's lineups
+player_ids = set()
+for lineup in lineups:
+    for player in lineup['home_lineup']:
+        player_ids.add(player['player_id'])
+    for player in lineup['away_lineup']:
+        player_ids.add(player['player_id'])
+
+# Convert player IDs to a list
+player_ids = list(player_ids)
+
+get_player_splits(player_ids, mlb_start_date, current_date)
+
 # Merge the hitters data with the lineups data 
 merged_data = merge_hitters.merge_offensive_data(date)
 
@@ -93,17 +106,6 @@ yesterday_scores = get_yesterdays_scores()
 # Run the simulation analysis
 simulation_analysis()
 
-# Collect unique player IDs from today's lineups
-player_ids = set()
-for lineup in lineups:
-    for player in lineup['home_lineup']:
-        player_ids.add(player['player_id'])
-    for player in lineup['away_lineup']:
-        player_ids.add(player['player_id'])
 
-# Convert player IDs to a list
-player_ids = list(player_ids)
-
-get_player_splits(player_ids, mlb_start_date, current_date)
 
 

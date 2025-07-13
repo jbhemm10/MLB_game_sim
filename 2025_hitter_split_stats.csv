@@ -1,4 +1,4 @@
-player_id,player_name,Pitcher Handedness,plate_appearances,at_bats,hits,singles,doubles,triples,home_runs,walks,strikeouts,batting_average,slugging_percentage
+player_id,player_name,Pitcher Handedness,pa,ab,hit,single,double,triple,home_run,walk,strikeout,batting_avg,slg_percent
 457705,"McCutchen, Andrew",L,97,86,26,19,6,0,1,10,24,0.3023255813953488,0.4069767441860465
 457705,"McCutchen, Andrew",R,242,207,50,35,8,0,7,26,48,0.24154589371980675,0.38164251207729466
 467793,"Santana, Carlos",L,109,95,23,17,2,0,4,12,17,0.24210526315789474,0.3894736842105263
@@ -29,6 +29,8 @@ player_id,player_name,Pitcher Handedness,plate_appearances,at_bats,hits,singles,
 543877,"Vázquez, Christian",R,117,103,21,14,5,0,2,9,19,0.20388349514563106,0.3106796116504854
 545361,"Trout, Mike",L,51,48,10,7,2,0,1,2,20,0.20833333333333334,0.3125
 545361,"Trout, Mike",R,238,194,47,28,2,1,16,39,59,0.2422680412371134,0.5103092783505154
+547180,"Harper, Bryce",L,110,98,26,18,3,0,5,10,25,0.2653061224489796,0.4489795918367347
+547180,"Harper, Bryce",R,186,148,39,20,14,0,5,34,34,0.2635135135135135,0.4594594594594595
 553869,"Díaz, Elias",L,58,53,10,9,0,0,1,4,12,0.18867924528301888,0.24528301886792453
 553869,"Díaz, Elias",R,143,129,26,17,6,0,3,14,41,0.20155038759689922,0.3178294573643411
 553993,"Suárez, Eugenio",L,98,81,16,3,3,0,10,11,25,0.19753086419753085,0.6049382716049383

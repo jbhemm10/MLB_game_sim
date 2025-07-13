@@ -176,7 +176,7 @@ def get_player_splits(player_ids: List[int], start_date: str, end_date: str):
     split_stats = split_stats[[
         'player_id', 'player_name', 'Pitcher Handedness', 'pa',
         'ab', 'hit', 'single', 'double', 'triple', 'home_run', 'walk', 'strikeout',
-        'batting_average', 'slugging_percentage'
+        'batting_avg', 'slg_percent'
     ]]
 
     # Data file name

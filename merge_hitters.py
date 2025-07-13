@@ -25,6 +25,10 @@ def merge_offensive_data(date):
 
     # Load your hitters data
     hitters_data = pd.read_csv('2025_hitter_split_stats.csv')
+    sprint_speed_data = pd.read_csv(f'player_data/{year}_hitters_data.csv')
+
+    # Merge the sprint speed data with hitters data
+    hitters_data = pd.merge(hitters_data, sprint_speed_data[['player_id', 'sprint_speed']], on='player_id', how='left')
 
     # Step 1: Flatten the lineups
     players_list = []
