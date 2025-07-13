@@ -7,6 +7,8 @@ OUTPUTS:
 - A DataFrame containing the merged data with player information, team, side (home/away), and hitting statistics.
 """
 
+from hitter_splits_collection import get_player_splits
+
 import json
 import pandas as pd
 import datetime
@@ -22,7 +24,7 @@ def merge_offensive_data(date):
     lineups_df = pd.read_json(f"lineups_data/lineups_on_{date}.json")
 
     # Load your hitters data
-    hitters_data = pd.read_csv(f"player_data/{year}_hitters_data.csv")
+    hitters_data = pd.read_csv('2025_hitter_split_stats.csv')
 
     # Step 1: Flatten the lineups
     players_list = []
