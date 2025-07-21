@@ -1,0 +1,16 @@
+Game ID,Projected Winning Team,Projected Losing Team,Away Team,Home Team,Away Team Win Percentage,Home Team Win Percentage,Average Away Score,Average Home Score,Average Total Innings,Confidence Level
+777098,Detroit Tigers,Texas Rangers,Detroit Tigers,Texas Rangers,1.0,0.0,8.0,2.0,9.0,1.0
+777099,Houston Astros,Seattle Mariners,Houston Astros,Seattle Mariners,1.0,0.0,6.0,1.0,9.0,1.0
+777100,St. Louis Cardinals,Arizona Diamondbacks,St. Louis Cardinals,Arizona Diamondbacks,1.0,0.0,12.0,8.0,9.0,1.0
+777101,Boston Red Sox,Chicago Cubs,Boston Red Sox,Chicago Cubs,1.0,0.0,6.0,5.0,9.0,1.0
+777102,Colorado Rockies,Minnesota Twins,Minnesota Twins,Colorado Rockies,0.0,1.0,5.0,6.0,9.0,1.0
+777103,Los Angeles Dodgers,Milwaukee Brewers,Milwaukee Brewers,Los Angeles Dodgers,0.0,1.0,4.0,10.0,9.0,1.0
+777105,Athletics,Cleveland Guardians,Athletics,Cleveland Guardians,1.0,0.0,9.0,3.0,9.0,1.0
+777106,Philadelphia Phillies,Los Angeles Angels,Los Angeles Angels,Philadelphia Phillies,0.0,1.0,8.0,13.0,12.0,1.0
+777107,Chicago White Sox,Pittsburgh Pirates,Chicago White Sox,Pittsburgh Pirates,1.0,0.0,7.0,3.0,9.0,1.0
+777108,San Francisco Giants,Toronto Blue Jays,San Francisco Giants,Toronto Blue Jays,1.0,0.0,11.0,1.0,9.0,1.0
+777109,Miami Marlins,Kansas City Royals,Kansas City Royals,Miami Marlins,0.0,1.0,8.0,9.0,9.0,1.0
+777110,Baltimore Orioles,Tampa Bay Rays,Baltimore Orioles,Tampa Bay Rays,1.0,0.0,25.0,2.0,9.0,1.0
+777111,Cincinnati Reds,New York Mets,Cincinnati Reds,New York Mets,1.0,0.0,9.0,2.0,9.0,1.0
+777112,San Diego Padres,Washington Nationals,San Diego Padres,Washington Nationals,1.0,0.0,7.0,6.0,9.0,1.0
+777114,Atlanta Braves,New York Yankees,New York Yankees,Atlanta Braves,0.0,1.0,3.0,9.0,9.0,1.0

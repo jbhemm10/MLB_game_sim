@@ -358,3 +358,33 @@ Game ID,Date,Matchup,Simulated Winner,Actual Winner,Correctly Predicted,Confiden
 777142,2025-07-12,Chicago Cubs vs New York Yankees,Chicago Cubs,Chicago Cubs,1,1.0
 777144,2025-07-12,Tampa Bay Rays vs Boston Red Sox,Boston Red Sox,Boston Red Sox,1,1.0
 777145,2025-07-12,Seattle Mariners vs Detroit Tigers,Detroit Tigers,Seattle Mariners,0,1.0
+777098,2025-07-18,Detroit Tigers vs Texas Rangers,Detroit Tigers,Texas Rangers,0,1.0
+777099,2025-07-18,Houston Astros vs Seattle Mariners,Houston Astros,Seattle Mariners,0,1.0
+777100,2025-07-18,St. Louis Cardinals vs Arizona Diamondbacks,St. Louis Cardinals,Arizona Diamondbacks,0,1.0
+777101,2025-07-18,Boston Red Sox vs Chicago Cubs,Boston Red Sox,Chicago Cubs,0,1.0
+777102,2025-07-18,Minnesota Twins vs Colorado Rockies,Colorado Rockies,Colorado Rockies,1,1.0
+777103,2025-07-18,Milwaukee Brewers vs Los Angeles Dodgers,Los Angeles Dodgers,Milwaukee Brewers,0,1.0
+777105,2025-07-18,Athletics vs Cleveland Guardians,Athletics,Cleveland Guardians,0,1.0
+777106,2025-07-18,Los Angeles Angels vs Philadelphia Phillies,Philadelphia Phillies,Los Angeles Angels,0,1.0
+777107,2025-07-18,Chicago White Sox vs Pittsburgh Pirates,Chicago White Sox,Chicago White Sox,1,1.0
+777108,2025-07-18,San Francisco Giants vs Toronto Blue Jays,San Francisco Giants,Toronto Blue Jays,0,1.0
+777109,2025-07-18,Kansas City Royals vs Miami Marlins,Miami Marlins,Miami Marlins,1,1.0
+777110,2025-07-18,Baltimore Orioles vs Tampa Bay Rays,Baltimore Orioles,Tampa Bay Rays,0,1.0
+777111,2025-07-18,Cincinnati Reds vs New York Mets,Cincinnati Reds,Cincinnati Reds,1,1.0
+777112,2025-07-18,San Diego Padres vs Washington Nationals,San Diego Padres,San Diego Padres,1,1.0
+777114,2025-07-18,New York Yankees vs Atlanta Braves,Atlanta Braves,Atlanta Braves,1,1.0
+777080,2025-07-19,Minnesota Twins vs Colorado Rockies,Colorado Rockies,Colorado Rockies,1,1.0
+777081,2025-07-19,St. Louis Cardinals vs Arizona Diamondbacks,Arizona Diamondbacks,Arizona Diamondbacks,1,1.0
+777085,2025-07-19,Milwaukee Brewers vs Los Angeles Dodgers,Los Angeles Dodgers,Milwaukee Brewers,0,1.0
+777086,2025-07-19,Houston Astros vs Seattle Mariners,Houston Astros,Seattle Mariners,0,1.0
+777088,2025-07-19,Detroit Tigers vs Texas Rangers,Detroit Tigers,Texas Rangers,0,1.0
+777089,2025-07-19,Los Angeles Angels vs Philadelphia Phillies,Philadelphia Phillies,Philadelphia Phillies,1,1.0
+777090,2025-07-19,Chicago White Sox vs Pittsburgh Pirates,Chicago White Sox,Chicago White Sox,1,1.0
+777091,2025-07-19,San Diego Padres vs Washington Nationals,Washington Nationals,Washington Nationals,1,1.0
+777092,2025-07-19,Cincinnati Reds vs New York Mets,Cincinnati Reds,Cincinnati Reds,1,1.0
+777093,2025-07-19,Kansas City Royals vs Miami Marlins,Kansas City Royals,Miami Marlins,0,1.0
+777094,2025-07-19,San Francisco Giants vs Toronto Blue Jays,Toronto Blue Jays,Toronto Blue Jays,1,1.0
+777095,2025-07-19,Baltimore Orioles vs Tampa Bay Rays,Tampa Bay Rays,Tampa Bay Rays,1,1.0
+777096,2025-07-19,Boston Red Sox vs Chicago Cubs,Chicago Cubs,Chicago Cubs,1,1.0
+777097,2025-07-19,New York Yankees vs Atlanta Braves,New York Yankees,New York Yankees,1,1.0
+777104,2025-07-19,Athletics vs Cleveland Guardians,Athletics,Athletics,1,1.0

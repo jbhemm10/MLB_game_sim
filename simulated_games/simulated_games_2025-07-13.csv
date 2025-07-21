@@ -1,16 +1,16 @@
 Game ID,Projected Winning Team,Projected Losing Team,Away Team,Home Team,Away Team Win Percentage,Home Team Win Percentage,Average Away Score,Average Home Score,Average Total Innings,Confidence Level
-777113,Minnesota Twins,Pittsburgh Pirates,Pittsburgh Pirates,Minnesota Twins,0.0,1.0,4.0,6.0,9.0,1.0
-777115,Arizona Diamondbacks,Los Angeles Angels,Arizona Diamondbacks,Los Angeles Angels,1.0,0.0,4.0,3.0,11.0,1.0
-777116,Toronto Blue Jays,Athletics,Toronto Blue Jays,Athletics,1.0,0.0,11.0,5.0,9.0,1.0
-777117,San Diego Padres,Philadelphia Phillies,Philadelphia Phillies,San Diego Padres,0.0,1.0,2.0,7.0,9.0,1.0
-777118,Atlanta Braves,St. Louis Cardinals,Atlanta Braves,St. Louis Cardinals,1.0,0.0,4.0,2.0,10.0,1.0
-777119,San Francisco Giants,Los Angeles Dodgers,Los Angeles Dodgers,San Francisco Giants,0.0,1.0,3.0,20.0,9.0,1.0
-777120,Chicago White Sox,Cleveland Guardians,Cleveland Guardians,Chicago White Sox,0.0,1.0,5.0,18.0,9.0,1.0
-777121,Detroit Tigers,Seattle Mariners,Seattle Mariners,Detroit Tigers,0.0,1.0,4.0,6.0,9.0,1.0
-777122,New York Yankees,Chicago Cubs,Chicago Cubs,New York Yankees,0.0,1.0,4.0,10.0,9.0,1.0
-777123,Milwaukee Brewers,Washington Nationals,Washington Nationals,Milwaukee Brewers,0.0,1.0,2.0,8.0,9.0,1.0
-777124,Kansas City Royals,New York Mets,New York Mets,Kansas City Royals,0.0,1.0,2.0,7.0,9.0,1.0
-777125,Texas Rangers,Houston Astros,Texas Rangers,Houston Astros,1.0,0.0,9.0,6.0,9.0,1.0
-777128,Colorado Rockies,Cincinnati Reds,Colorado Rockies,Cincinnati Reds,1.0,0.0,15.0,7.0,9.0,1.0
-777129,Baltimore Orioles,Miami Marlins,Miami Marlins,Baltimore Orioles,0.0,1.0,1.0,6.0,9.0,1.0
-777130,Boston Red Sox,Tampa Bay Rays,Tampa Bay Rays,Boston Red Sox,0.0,1.0,4.0,7.0,9.0,1.0
+777113,Pittsburgh Pirates,Minnesota Twins,Pittsburgh Pirates,Minnesota Twins,1.0,0.0,15.0,0.0,9.0,1.0
+777115,Los Angeles Angels,Arizona Diamondbacks,Arizona Diamondbacks,Los Angeles Angels,0.0,1.0,9.0,10.0,9.0,1.0
+777116,Toronto Blue Jays,Athletics,Toronto Blue Jays,Athletics,1.0,0.0,9.0,3.0,9.0,1.0
+777117,Philadelphia Phillies,San Diego Padres,Philadelphia Phillies,San Diego Padres,1.0,0.0,5.0,4.0,9.0,1.0
+777118,Atlanta Braves,St. Louis Cardinals,Atlanta Braves,St. Louis Cardinals,1.0,0.0,17.0,6.0,9.0,1.0
+777119,Los Angeles Dodgers,San Francisco Giants,Los Angeles Dodgers,San Francisco Giants,1.0,0.0,19.0,13.0,9.0,1.0
+777120,Chicago White Sox,Cleveland Guardians,Cleveland Guardians,Chicago White Sox,0.0,1.0,6.0,17.0,9.0,1.0
+777121,Seattle Mariners,Detroit Tigers,Seattle Mariners,Detroit Tigers,1.0,0.0,12.0,5.0,9.0,1.0
+777122,New York Yankees,Chicago Cubs,Chicago Cubs,New York Yankees,0.0,1.0,1.0,9.0,9.0,1.0
+777123,Washington Nationals,Milwaukee Brewers,Washington Nationals,Milwaukee Brewers,1.0,0.0,9.0,5.0,9.0,1.0
+777124,Kansas City Royals,New York Mets,New York Mets,Kansas City Royals,0.0,1.0,2.0,3.0,9.0,1.0
+777125,Houston Astros,Texas Rangers,Texas Rangers,Houston Astros,0.0,1.0,4.0,6.0,9.0,1.0
+777128,Colorado Rockies,Cincinnati Reds,Colorado Rockies,Cincinnati Reds,1.0,0.0,11.0,10.0,9.0,1.0
+777129,Baltimore Orioles,Miami Marlins,Miami Marlins,Baltimore Orioles,0.0,1.0,8.0,15.0,9.0,1.0
+777130,Tampa Bay Rays,Boston Red Sox,Tampa Bay Rays,Boston Red Sox,1.0,0.0,18.0,12.0,9.0,1.0
