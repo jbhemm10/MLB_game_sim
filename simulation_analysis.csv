@@ -388,3 +388,33 @@ Game ID,Date,Matchup,Simulated Winner,Actual Winner,Correctly Predicted,Confiden
 777096,2025-07-19,Boston Red Sox vs Chicago Cubs,Chicago Cubs,Chicago Cubs,1,1.0
 777097,2025-07-19,New York Yankees vs Atlanta Braves,New York Yankees,New York Yankees,1,1.0
 777104,2025-07-19,Athletics vs Cleveland Guardians,Athletics,Athletics,1,1.0
+777067,2025-07-20,Houston Astros vs Seattle Mariners,Seattle Mariners,Houston Astros,0,1.0
+777070,2025-07-20,Milwaukee Brewers vs Los Angeles Dodgers,Los Angeles Dodgers,Milwaukee Brewers,0,1.0
+777071,2025-07-20,St. Louis Cardinals vs Arizona Diamondbacks,St. Louis Cardinals,Arizona Diamondbacks,0,1.0
+777072,2025-07-20,Minnesota Twins vs Colorado Rockies,Colorado Rockies,Minnesota Twins,0,1.0
+777073,2025-07-20,Detroit Tigers vs Texas Rangers,Texas Rangers,Detroit Tigers,0,1.0
+777074,2025-07-20,Chicago White Sox vs Pittsburgh Pirates,Pittsburgh Pirates,Chicago White Sox,0,1.0
+777075,2025-07-20,Boston Red Sox vs Chicago Cubs,Boston Red Sox,Boston Red Sox,1,1.0
+777076,2025-07-20,Baltimore Orioles vs Tampa Bay Rays,Tampa Bay Rays,Baltimore Orioles,0,1.0
+777077,2025-07-20,San Diego Padres vs Washington Nationals,San Diego Padres,San Diego Padres,1,1.0
+777078,2025-07-20,Los Angeles Angels vs Philadelphia Phillies,Los Angeles Angels,Los Angeles Angels,1,1.0
+777079,2025-07-20,San Francisco Giants vs Toronto Blue Jays,San Francisco Giants,Toronto Blue Jays,0,1.0
+777082,2025-07-20,Kansas City Royals vs Miami Marlins,Miami Marlins,Kansas City Royals,0,1.0
+777083,2025-07-20,New York Yankees vs Atlanta Braves,Atlanta Braves,New York Yankees,0,1.0
+777084,2025-07-20,Athletics vs Cleveland Guardians,Cleveland Guardians,Cleveland Guardians,1,1.0
+777087,2025-07-20,Cincinnati Reds vs New York Mets,Cincinnati Reds,New York Mets,0,1.0
+777050,2025-07-21,Milwaukee Brewers vs Seattle Mariners,Milwaukee Brewers,Milwaukee Brewers,1,1.0
+777051,2025-07-21,Minnesota Twins vs Los Angeles Dodgers,Minnesota Twins,Los Angeles Dodgers,0,1.0
+777053,2025-07-21,St. Louis Cardinals vs Colorado Rockies,St. Louis Cardinals,St. Louis Cardinals,1,1.0
+777055,2025-07-21,Houston Astros vs Arizona Diamondbacks,Arizona Diamondbacks,Houston Astros,0,1.0
+777057,2025-07-21,Athletics vs Texas Rangers,Texas Rangers,Texas Rangers,1,1.0
+777059,2025-07-21,Chicago White Sox vs Tampa Bay Rays,Chicago White Sox,Chicago White Sox,1,1.0
+777060,2025-07-21,Detroit Tigers vs Pittsburgh Pirates,Pittsburgh Pirates,Pittsburgh Pirates,1,1.0
+777061,2025-07-21,Los Angeles Angels vs New York Mets,New York Mets,New York Mets,1,1.0
+777062,2025-07-21,San Diego Padres vs Miami Marlins,Miami Marlins,San Diego Padres,0,1.0
+777063,2025-07-21,Boston Red Sox vs Philadelphia Phillies,Philadelphia Phillies,Philadelphia Phillies,1,1.0
+777064,2025-07-21,Cincinnati Reds vs Washington Nationals,Washington Nationals,Washington Nationals,1,1.0
+777065,2025-07-21,Kansas City Royals vs Chicago Cubs,Kansas City Royals,Kansas City Royals,1,1.0
+777066,2025-07-21,New York Yankees vs Toronto Blue Jays,New York Yankees,Toronto Blue Jays,0,1.0
+777068,2025-07-21,Baltimore Orioles vs Cleveland Guardians,Cleveland Guardians,Cleveland Guardians,1,1.0
+777069,2025-07-21,San Francisco Giants vs Atlanta Braves,San Francisco Giants,Atlanta Braves,0,1.0

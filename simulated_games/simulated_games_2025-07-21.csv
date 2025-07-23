@@ -1,0 +1,16 @@
+Game ID,Projected Winning Team,Projected Losing Team,Away Team,Home Team,Away Team Win Percentage,Home Team Win Percentage,Average Away Score,Average Home Score,Average Total Innings,Confidence Level
+777050,Milwaukee Brewers,Seattle Mariners,Milwaukee Brewers,Seattle Mariners,1.0,0.0,4.0,2.0,9.0,1.0
+777051,Minnesota Twins,Los Angeles Dodgers,Minnesota Twins,Los Angeles Dodgers,1.0,0.0,7.0,4.0,9.0,1.0
+777053,St. Louis Cardinals,Colorado Rockies,St. Louis Cardinals,Colorado Rockies,1.0,0.0,6.0,3.0,9.0,1.0
+777055,Arizona Diamondbacks,Houston Astros,Houston Astros,Arizona Diamondbacks,0.0,1.0,4.0,10.0,9.0,1.0
+777057,Texas Rangers,Athletics,Athletics,Texas Rangers,0.0,1.0,1.0,6.0,9.0,1.0
+777059,Chicago White Sox,Tampa Bay Rays,Chicago White Sox,Tampa Bay Rays,1.0,0.0,11.0,3.0,9.0,1.0
+777060,Pittsburgh Pirates,Detroit Tigers,Detroit Tigers,Pittsburgh Pirates,0.0,1.0,4.0,5.0,9.0,1.0
+777061,New York Mets,Los Angeles Angels,Los Angeles Angels,New York Mets,0.0,1.0,4.0,10.0,9.0,1.0
+777062,Miami Marlins,San Diego Padres,San Diego Padres,Miami Marlins,0.0,1.0,5.0,7.0,9.0,1.0
+777063,Philadelphia Phillies,Boston Red Sox,Boston Red Sox,Philadelphia Phillies,0.0,1.0,5.0,7.0,9.0,1.0
+777064,Washington Nationals,Cincinnati Reds,Cincinnati Reds,Washington Nationals,0.0,1.0,1.0,4.0,9.0,1.0
+777065,Kansas City Royals,Chicago Cubs,Kansas City Royals,Chicago Cubs,1.0,0.0,4.0,3.0,9.0,1.0
+777066,New York Yankees,Toronto Blue Jays,New York Yankees,Toronto Blue Jays,1.0,0.0,11.0,10.0,9.0,1.0
+777068,Cleveland Guardians,Baltimore Orioles,Baltimore Orioles,Cleveland Guardians,0.0,1.0,4.0,14.0,9.0,1.0
+777069,San Francisco Giants,Atlanta Braves,San Francisco Giants,Atlanta Braves,1.0,0.0,18.0,4.0,9.0,1.0
