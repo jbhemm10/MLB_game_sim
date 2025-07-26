@@ -418,3 +418,22 @@ Game ID,Date,Matchup,Simulated Winner,Actual Winner,Correctly Predicted,Confiden
 777066,2025-07-21,New York Yankees vs Toronto Blue Jays,New York Yankees,Toronto Blue Jays,0,1.0
 777068,2025-07-21,Baltimore Orioles vs Cleveland Guardians,Cleveland Guardians,Cleveland Guardians,1,1.0
 777069,2025-07-21,San Francisco Giants vs Atlanta Braves,San Francisco Giants,Atlanta Braves,0,1.0
+777018,2025-07-24,Seattle Mariners vs Los Angeles Angels,Seattle Mariners,Seattle Mariners,1,1.0
+777019,2025-07-24,Baltimore Orioles vs Cleveland Guardians,Baltimore Orioles,Baltimore Orioles,1,1.0
+777021,2025-07-24,Toronto Blue Jays vs Detroit Tigers,Toronto Blue Jays,Toronto Blue Jays,1,1.0
+777023,2025-07-24,San Diego Padres vs St. Louis Cardinals,San Diego Padres,St. Louis Cardinals,0,1.0
+777025,2025-07-24,Athletics vs Houston Astros,Houston Astros,Athletics,0,1.0
+777004,2025-07-25,New York Mets vs San Francisco Giants,San Francisco Giants,New York Mets,0,1.0
+777005,2025-07-25,San Diego Padres vs St. Louis Cardinals,St. Louis Cardinals,St. Louis Cardinals,1,1.0
+777006,2025-07-25,Seattle Mariners vs Los Angeles Angels,Los Angeles Angels,Los Angeles Angels,1,1.0
+777007,2025-07-25,Athletics vs Houston Astros,Athletics,Athletics,1,1.0
+777008,2025-07-25,Miami Marlins vs Milwaukee Brewers,Miami Marlins,Miami Marlins,1,1.0
+777009,2025-07-25,Atlanta Braves vs Texas Rangers,Atlanta Braves,Texas Rangers,0,1.0
+777011,2025-07-25,Washington Nationals vs Minnesota Twins,Minnesota Twins,Minnesota Twins,1,1.0
+777012,2025-07-25,Los Angeles Dodgers vs Boston Red Sox,Boston Red Sox,Los Angeles Dodgers,0,1.0
+777013,2025-07-25,Tampa Bay Rays vs Cincinnati Reds,Tampa Bay Rays,Cincinnati Reds,0,1.0
+777014,2025-07-25,Arizona Diamondbacks vs Pittsburgh Pirates,Pittsburgh Pirates,Arizona Diamondbacks,0,1.0
+777015,2025-07-25,Philadelphia Phillies vs New York Yankees,New York Yankees,Philadelphia Phillies,0,1.0
+777016,2025-07-25,Toronto Blue Jays vs Detroit Tigers,Toronto Blue Jays,Toronto Blue Jays,1,1.0
+777017,2025-07-25,Chicago Cubs vs Chicago White Sox,Chicago White Sox,Chicago White Sox,1,1.0
+777020,2025-07-25,Colorado Rockies vs Baltimore Orioles,Colorado Rockies,Colorado Rockies,1,1.0
