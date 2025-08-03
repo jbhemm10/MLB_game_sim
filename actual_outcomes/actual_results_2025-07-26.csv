@@ -1,0 +1,17 @@
+game_id,date,away_team,away_score,home_team,home_score,winner
+777001,2025-07-26,Philadelphia Phillies,9,New York Yankees,4,Philadelphia Phillies
+777010,2025-07-26,Cleveland Guardians,3,Kansas City Royals,5,Kansas City Royals
+776990,2025-07-26,Cleveland Guardians,6,Kansas City Royals,4,Cleveland Guardians
+777003,2025-07-26,Toronto Blue Jays,6,Detroit Tigers,1,Toronto Blue Jays
+777002,2025-07-26,Arizona Diamondbacks,0,Pittsburgh Pirates,2,Pittsburgh Pirates
+777000,2025-07-26,Tampa Bay Rays,2,Cincinnati Reds,6,Cincinnati Reds
+776999,2025-07-26,Colorado Rockies,0,Baltimore Orioles,18,Baltimore Orioles
+776993,2025-07-26,Atlanta Braves,5,Texas Rangers,6,Texas Rangers
+776991,2025-07-26,Athletics,5,Houston Astros,1,Athletics
+776997,2025-07-26,Washington Nationals,9,Minnesota Twins,3,Washington Nationals
+776994,2025-07-26,Chicago Cubs,6,Chicago White Sox,1,Chicago Cubs
+776996,2025-07-26,Miami Marlins,7,Milwaukee Brewers,4,Miami Marlins
+776998,2025-07-26,Los Angeles Dodgers,2,Boston Red Sox,4,Boston Red Sox
+776992,2025-07-26,San Diego Padres,3,St. Louis Cardinals,1,San Diego Padres
+776985,2025-07-26,New York Mets,2,San Francisco Giants,1,New York Mets
+776995,2025-07-26,Seattle Mariners,7,Los Angeles Angels,2,Seattle Mariners

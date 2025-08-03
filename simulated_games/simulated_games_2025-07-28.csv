@@ -1,0 +1,16 @@
+Game ID,Projected Winning Team,Projected Losing Team,Away Team,Home Team,Away Team Win Percentage,Home Team Win Percentage,Average Away Score,Average Home Score,Average Total Innings,Confidence Level
+776957,Athletics,Seattle Mariners,Seattle Mariners,Athletics,0.0,1.0,9.0,10.0,9.0,1.0
+776958,Los Angeles Angels,Texas Rangers,Texas Rangers,Los Angeles Angels,0.0,1.0,3.0,4.0,10.0,1.0
+776959,New York Mets,San Diego Padres,New York Mets,San Diego Padres,1.0,0.0,13.0,2.0,9.0,1.0
+776960,St. Louis Cardinals,Miami Marlins,Miami Marlins,St. Louis Cardinals,0.0,1.0,1.0,9.0,9.0,1.0
+776961,Minnesota Twins,Boston Red Sox,Boston Red Sox,Minnesota Twins,0.0,1.0,5.0,10.0,9.0,1.0
+776964,Pittsburgh Pirates,San Francisco Giants,Pittsburgh Pirates,San Francisco Giants,1.0,0.0,4.0,2.0,9.0,1.0
+776965,Chicago Cubs,Milwaukee Brewers,Chicago Cubs,Milwaukee Brewers,1.0,0.0,6.0,2.0,9.0,1.0
+776966,Toronto Blue Jays,Baltimore Orioles,Toronto Blue Jays,Baltimore Orioles,1.0,0.0,9.0,6.0,9.0,1.0
+776967,Cincinnati Reds,Los Angeles Dodgers,Los Angeles Dodgers,Cincinnati Reds,0.0,1.0,1.0,6.0,9.0,1.0
+776968,Cleveland Guardians,Colorado Rockies,Colorado Rockies,Cleveland Guardians,0.0,1.0,4.0,5.0,9.0,1.0
+776969,Houston Astros,Washington Nationals,Washington Nationals,Houston Astros,0.0,1.0,4.0,10.0,9.0,1.0
+776970,New York Yankees,Tampa Bay Rays,Tampa Bay Rays,New York Yankees,0.0,1.0,5.0,6.0,9.0,1.0
+776971,Atlanta Braves,Kansas City Royals,Atlanta Braves,Kansas City Royals,1.0,0.0,18.0,3.0,9.0,1.0
+776972,Philadelphia Phillies,Chicago White Sox,Philadelphia Phillies,Chicago White Sox,1.0,0.0,8.0,4.0,9.0,1.0
+776973,Arizona Diamondbacks,Detroit Tigers,Arizona Diamondbacks,Detroit Tigers,1.0,0.0,12.0,6.0,9.0,1.0

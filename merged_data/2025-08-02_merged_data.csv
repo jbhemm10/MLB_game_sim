@@ -1,0 +1,363 @@
+team,side,player_name_x,player_id,game_id,player_name_y,Pitcher Handedness,pa,ab,hit,single,double,triple,home_run,walk,strikeout,batting_avg,slg_percent,sprint_speed
+Tampa Bay Rays,home,Yandy Díaz,650490,776901,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Tampa Bay Rays,home,Ha-Seong Kim,673490,776901,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Tampa Bay Rays,home,Brandon Lowe,664040,776901,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Tampa Bay Rays,home,Junior Caminero,691406,776901,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Tampa Bay Rays,home,Christopher Morel,666624,776901,"Morel, Christopher",L,96.0,86.0,16.0,8.0,5.0,0.0,3.0,8.0,34.0,0.1860465116279069,0.3488372093023256,28.1
+Tampa Bay Rays,home,Christopher Morel,666624,776901,"Morel, Christopher",R,122.0,109.0,26.0,15.0,7.0,0.0,4.0,12.0,39.0,0.2385321100917431,0.4128440366972477,28.1
+Tampa Bay Rays,home,Josh Lowe,666139,776901,"Lowe, Josh",L,60.0,58.0,12.0,6.0,5.0,0.0,1.0,2.0,18.0,0.2068965517241379,0.3448275862068966,27.9
+Tampa Bay Rays,home,Josh Lowe,666139,776901,"Lowe, Josh",R,203.0,177.0,44.0,30.0,7.0,1.0,6.0,21.0,40.0,0.2485875706214689,0.4011299435028249,27.9
+Tampa Bay Rays,home,Jonny DeLuca,676356,776901,"DeLuca, Jonny",L,12.0,12.0,4.0,3.0,0.0,1.0,0.0,0.0,2.0,0.3333333333333333,0.5,29.3
+Tampa Bay Rays,home,Jonny DeLuca,676356,776901,"DeLuca, Jonny",R,30.0,28.0,12.0,11.0,0.0,1.0,0.0,2.0,6.0,0.4285714285714285,0.5,29.3
+Tampa Bay Rays,home,Taylor Walls,670764,776901,"Walls, Taylor",L,93.0,84.0,22.0,17.0,5.0,0.0,0.0,4.0,19.0,0.2619047619047619,0.3214285714285714,28.1
+Tampa Bay Rays,home,Taylor Walls,670764,776901,"Walls, Taylor",R,207.0,178.0,38.0,25.0,8.0,1.0,4.0,21.0,44.0,0.2134831460674157,0.3370786516853932,28.1
+Tampa Bay Rays,home,Hunter Feduccia,676439,776901,"Feduccia, Hunter",R,3.0,2.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0
+Los Angeles Dodgers,away,Mookie Betts,605141,776901,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Los Angeles Dodgers,away,Shohei Ohtani,660271,776901,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Los Angeles Dodgers,away,Freddie Freeman,518692,776901,"Freeman, Freddie",L,109.0,96.0,24.0,16.0,5.0,0.0,3.0,10.0,29.0,0.25,0.3958333333333333,25.5
+Los Angeles Dodgers,away,Freddie Freeman,518692,776901,"Freeman, Freddie",R,297.0,263.0,85.0,52.0,23.0,1.0,9.0,29.0,66.0,0.3231939163498099,0.5209125475285171,25.5
+Los Angeles Dodgers,away,Teoscar Hernández,606192,776901,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Los Angeles Dodgers,away,Michael Conforto,624424,776901,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Los Angeles Dodgers,away,Andy Pages,681624,776901,"Pages, Andy",L,108.0,102.0,31.0,24.0,4.0,0.0,3.0,4.0,23.0,0.3039215686274509,0.4313725490196078,28.3
+Los Angeles Dodgers,away,Andy Pages,681624,776901,"Pages, Andy",R,315.0,288.0,79.0,50.0,12.0,1.0,16.0,19.0,65.0,0.2743055555555556,0.4895833333333333,28.3
+Los Angeles Dodgers,away,Alex Freeland,690976,776901,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Los Angeles Dodgers,away,Dalton Rushing,687221,776901,"Rushing, Dalton",L,23.0,20.0,3.0,3.0,0.0,0.0,0.0,2.0,9.0,0.15,0.15,27.6
+Los Angeles Dodgers,away,Dalton Rushing,687221,776901,"Rushing, Dalton",R,66.0,59.0,13.0,9.0,3.0,0.0,1.0,6.0,27.0,0.2203389830508474,0.3220338983050847,27.6
+Los Angeles Dodgers,away,Miguel Rojas,500743,776901,"Rojas, Miguel",L,84.0,77.0,21.0,13.0,3.0,0.0,5.0,7.0,10.0,0.2727272727272727,0.5064935064935064,25.9
+Los Angeles Dodgers,away,Miguel Rojas,500743,776901,"Rojas, Miguel",R,83.0,75.0,18.0,12.0,5.0,0.0,1.0,6.0,12.0,0.24,0.3466666666666667,25.9
+Chicago Cubs,home,Michael Busch,683737,776902,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Chicago Cubs,home,Kyle Tucker,663656,776902,"Tucker, Kyle",L,157.0,134.0,35.0,23.0,5.0,1.0,6.0,22.0,22.0,0.2611940298507462,0.4477611940298507,26.5
+Chicago Cubs,home,Kyle Tucker,663656,776902,"Tucker, Kyle",R,302.0,250.0,72.0,42.0,15.0,3.0,12.0,46.0,42.0,0.288,0.516,26.5
+Chicago Cubs,home,Seiya Suzuki,673548,776902,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Chicago Cubs,home,Pete Crow-Armstrong,691718,776902,"Crow-Armstrong, Pete",L,145.0,134.0,28.0,11.0,9.0,1.0,7.0,6.0,42.0,0.208955223880597,0.4477611940298507,29.6
+Chicago Cubs,home,Pete Crow-Armstrong,691718,776902,"Crow-Armstrong, Pete",R,298.0,273.0,86.0,41.0,22.0,3.0,20.0,18.0,59.0,0.315018315018315,0.6373626373626373,29.6
+Chicago Cubs,home,Ian Happ,664023,776902,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Chicago Cubs,home,Willi Castro,650489,776902,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Chicago Cubs,home,Nico Hoerner,663538,776902,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Chicago Cubs,home,Reese McGuire,624512,776902,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Chicago Cubs,home,Matt Shaw,807713,776902,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Baltimore Orioles,away,Jackson Holliday,702616,776902,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Baltimore Orioles,away,Jordan Westburg,676059,776902,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Baltimore Orioles,away,Gunnar Henderson,683002,776902,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Baltimore Orioles,away,Adley Rutschman,668939,776902,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Baltimore Orioles,away,Coby Mayo,691723,776902,"Mayo, Coby",L,48.0,41.0,11.0,7.0,3.0,0.0,1.0,7.0,8.0,0.2682926829268293,0.4146341463414634,28.1
+Baltimore Orioles,away,Coby Mayo,691723,776902,"Mayo, Coby",R,69.0,63.0,12.0,6.0,4.0,0.0,2.0,6.0,18.0,0.1904761904761904,0.3492063492063492,28.1
+Baltimore Orioles,away,Dylan Carlson,666185,776902,"Carlson, Dylan",L,40.0,38.0,8.0,7.0,0.0,0.0,1.0,1.0,11.0,0.2105263157894736,0.2894736842105263,27.5
+Baltimore Orioles,away,Dylan Carlson,666185,776902,"Carlson, Dylan",R,99.0,87.0,20.0,13.0,4.0,0.0,3.0,8.0,24.0,0.2298850574712643,0.3793103448275862,27.5
+Baltimore Orioles,away,Colton Cowser,681297,776902,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Baltimore Orioles,away,Jeremiah Jackson,669236,776902,"Jackson, Jeremiah",R,3.0,3.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0,0.3333333333333333,0.3333333333333333,0.0
+Baltimore Orioles,away,Luis Vázquez,676679,776902,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Toronto Blue Jays,home,Davis Schneider,676914,776900,"Schneider, Davis",L,73.0,56.0,13.0,7.0,3.0,0.0,3.0,16.0,20.0,0.2321428571428571,0.4464285714285714,27.7
+Toronto Blue Jays,home,Davis Schneider,676914,776900,"Schneider, Davis",R,48.0,40.0,8.0,6.0,0.0,0.0,2.0,7.0,12.0,0.2,0.35,27.7
+Toronto Blue Jays,home,Ernie Clement,676391,776900,"Clement, Ernie",L,130.0,118.0,42.0,24.0,13.0,1.0,4.0,7.0,11.0,0.3559322033898305,0.5847457627118644,28.6
+Toronto Blue Jays,home,Ernie Clement,676391,776900,"Clement, Ernie",R,276.0,252.0,62.0,53.0,8.0,0.0,1.0,14.0,31.0,0.246031746031746,0.2896825396825397,28.6
+Toronto Blue Jays,home,Vladimir Guerrero Jr.,665489,776900,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Toronto Blue Jays,home,Bo Bichette,666182,776900,"Bichette, Bo",L,106.0,98.0,27.0,16.0,8.0,0.0,3.0,6.0,12.0,0.2755102040816326,0.4489795918367347,26.2
+Toronto Blue Jays,home,Bo Bichette,666182,776900,"Bichette, Bo",R,382.0,354.0,107.0,71.0,25.0,1.0,10.0,20.0,63.0,0.3022598870056497,0.4632768361581921,26.2
+Toronto Blue Jays,home,Addison Barger,680718,776900,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Toronto Blue Jays,home,Ty France,664034,776900,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Toronto Blue Jays,home,Myles Straw,664702,776900,"Straw, Myles",L,104.0,95.0,28.0,20.0,8.0,0.0,0.0,6.0,16.0,0.2947368421052631,0.3789473684210526,29.3
+Toronto Blue Jays,home,Myles Straw,664702,776900,"Straw, Myles",R,112.0,95.0,21.0,16.0,3.0,0.0,2.0,7.0,15.0,0.2210526315789473,0.3157894736842105,29.3
+Toronto Blue Jays,home,Tyler Heineman,623168,776900,"Heineman, Tyler",L,39.0,34.0,15.0,10.0,4.0,0.0,1.0,3.0,5.0,0.4411764705882353,0.6470588235294118,26.5
+Toronto Blue Jays,home,Tyler Heineman,623168,776900,"Heineman, Tyler",R,83.0,70.0,20.0,14.0,3.0,1.0,2.0,9.0,17.0,0.2857142857142857,0.4428571428571428,26.5
+Toronto Blue Jays,home,Joey Loperfido,694388,776900,"Loperfido, Joey",L,14.0,12.0,5.0,5.0,0.0,0.0,0.0,2.0,3.0,0.4166666666666667,0.4166666666666667,28.3
+Toronto Blue Jays,home,Joey Loperfido,694388,776900,"Loperfido, Joey",R,48.0,44.0,17.0,12.0,2.0,0.0,3.0,3.0,11.0,0.3863636363636363,0.6363636363636364,28.3
+Kansas City Royals,away,Jonathan India,663697,776900,"India, Jonathan",L,82.0,69.0,17.0,13.0,3.0,0.0,1.0,11.0,16.0,0.2463768115942029,0.3333333333333333,28.1
+Kansas City Royals,away,Jonathan India,663697,776900,"India, Jonathan",R,355.0,315.0,76.0,50.0,22.0,0.0,4.0,35.0,56.0,0.2412698412698412,0.3492063492063492,28.1
+Kansas City Royals,away,Bobby Witt Jr.,677951,776900,"Witt Jr., Bobby",L,89.0,80.0,27.0,17.0,9.0,1.0,0.0,6.0,19.0,0.3375,0.475,30.3
+Kansas City Royals,away,Bobby Witt Jr.,677951,776900,"Witt Jr., Bobby",R,379.0,343.0,97.0,52.0,27.0,2.0,16.0,26.0,72.0,0.282798833819242,0.5131195335276968,30.3
+Kansas City Royals,away,Vinnie Pasquantino,686469,776900,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Kansas City Royals,away,Maikel Garcia,672580,776900,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Kansas City Royals,away,Salvador Perez,521692,776900,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Kansas City Royals,away,Mike Yastrzemski,573262,776900,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Kansas City Royals,away,Adam Frazier,624428,776900,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Kansas City Royals,away,John Rave,670231,776900,"Rave, John",L,15.0,12.0,3.0,3.0,0.0,0.0,0.0,2.0,5.0,0.25,0.25,29.3
+Kansas City Royals,away,John Rave,670231,776900,"Rave, John",R,97.0,82.0,14.0,7.0,4.0,0.0,3.0,13.0,22.0,0.1707317073170731,0.3292682926829268,29.3
+Kansas City Royals,away,Kyle Isbel,664728,776900,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Colorado Rockies,home,Mickey Moniak,666160,776904,"Moniak, Mickey",L,44.0,39.0,9.0,7.0,1.0,0.0,1.0,4.0,12.0,0.2307692307692307,0.3333333333333333,28.5
+Colorado Rockies,home,Mickey Moniak,666160,776904,"Moniak, Mickey",R,251.0,233.0,65.0,33.0,11.0,6.0,15.0,15.0,61.0,0.278969957081545,0.5708154506437768,28.5
+Colorado Rockies,home,Ezequiel Tovar,678662,776904,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Colorado Rockies,home,Jordan Beck,687597,776904,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Colorado Rockies,home,Warming Bernabel,682653,776904,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Colorado Rockies,home,Thairo Estrada,642731,776904,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Colorado Rockies,home,Brenton Doyle,686668,776904,"Doyle, Brenton",L,94.0,83.0,28.0,19.0,5.0,1.0,3.0,9.0,18.0,0.3373493975903614,0.5301204819277109,29.5
+Colorado Rockies,home,Brenton Doyle,686668,776904,"Doyle, Brenton",R,266.0,247.0,47.0,33.0,8.0,1.0,5.0,14.0,75.0,0.1902834008097166,0.291497975708502,29.5
+Colorado Rockies,home,Yanquiel Fernández,692585,776904,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Colorado Rockies,home,Austin Nola,543592,776904,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Colorado Rockies,home,Orlando Arcia,606115,776904,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Pittsburgh Pirates,away,Liover Peguero,678894,776904,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Pittsburgh Pirates,away,Andrew McCutchen,457705,776904,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Pittsburgh Pirates,away,Bryan Reynolds,668804,776904,"Reynolds, Bryan",L,108.0,99.0,25.0,14.0,5.0,0.0,6.0,8.0,36.0,0.2525252525252525,0.4848484848484848,27.9
+Pittsburgh Pirates,away,Bryan Reynolds,668804,776904,"Reynolds, Bryan",R,335.0,305.0,71.0,48.0,17.0,2.0,4.0,26.0,82.0,0.2327868852459016,0.340983606557377,27.9
+Pittsburgh Pirates,away,Nick Gonzales,693304,776904,"Gonzales, Nick",L,43.0,38.0,10.0,5.0,2.0,1.0,2.0,4.0,6.0,0.2631578947368421,0.5263157894736842,28.8
+Pittsburgh Pirates,away,Nick Gonzales,693304,776904,"Gonzales, Nick",R,158.0,142.0,39.0,30.0,5.0,1.0,3.0,11.0,27.0,0.2746478873239437,0.3873239436619718,28.8
+Pittsburgh Pirates,away,Oneil Cruz,665833,776904,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Pittsburgh Pirates,away,Alexander Canario,672744,776904,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Pittsburgh Pirates,away,Henry Davis,680779,776904,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Pittsburgh Pirates,away,Jared Triolo,669707,776904,"Triolo, Jared",L,63.0,53.0,12.0,8.0,3.0,0.0,1.0,7.0,11.0,0.2264150943396226,0.3396226415094339,28.5
+Pittsburgh Pirates,away,Jared Triolo,669707,776904,"Triolo, Jared",R,102.0,87.0,11.0,6.0,3.0,0.0,2.0,11.0,19.0,0.1264367816091954,0.2298850574712643,28.5
+Pittsburgh Pirates,away,Isiah Kiner-Falefa,643396,776904,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Philadelphia Phillies,home,Trea Turner,607208,776912,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Philadelphia Phillies,home,Kyle Schwarber,656941,776912,"Schwarber, Kyle",L,173.0,141.0,39.0,17.0,7.0,1.0,14.0,29.0,43.0,0.2765957446808511,0.6382978723404256,25.9
+Philadelphia Phillies,home,Kyle Schwarber,656941,776912,"Schwarber, Kyle",R,308.0,258.0,63.0,31.0,9.0,0.0,23.0,47.0,85.0,0.2441860465116279,0.5465116279069767,25.9
+Philadelphia Phillies,home,Bryce Harper,547180,776912,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Philadelphia Phillies,home,J.T. Realmuto,592663,776912,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Philadelphia Phillies,home,Nick Castellanos,592206,776912,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Philadelphia Phillies,home,Harrison Bader,664056,776912,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Philadelphia Phillies,home,Otto Kemp,805249,776912,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Philadelphia Phillies,home,Edmundo Sosa,624641,776912,"Sosa, Edmundo",L,79.0,70.0,24.0,18.0,3.0,0.0,3.0,8.0,19.0,0.3428571428571428,0.5142857142857142,29.4
+Philadelphia Phillies,home,Edmundo Sosa,624641,776912,"Sosa, Edmundo",R,89.0,83.0,18.0,10.0,6.0,1.0,1.0,2.0,18.0,0.216867469879518,0.3493975903614458,29.4
+Philadelphia Phillies,home,Weston Wilson,642215,776912,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Detroit Tigers,away,Colt Keith,690993,776912,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Detroit Tigers,away,Gleyber Torres,650402,776912,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Detroit Tigers,away,Kerry Carpenter,681481,776912,"Carpenter, Kerry",L,41.0,39.0,9.0,5.0,2.0,0.0,2.0,1.0,11.0,0.2307692307692307,0.4358974358974359,26.7
+Detroit Tigers,away,Kerry Carpenter,681481,776912,"Carpenter, Kerry",R,252.0,235.0,64.0,35.0,11.0,3.0,15.0,11.0,51.0,0.2723404255319149,0.5361702127659574,26.7
+Detroit Tigers,away,Riley Greene,682985,776912,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Detroit Tigers,away,Spencer Torkelson,679529,776912,"Torkelson, Spencer",L,130.0,110.0,30.0,13.0,8.0,0.0,9.0,17.0,26.0,0.2727272727272727,0.5909090909090909,26.7
+Detroit Tigers,away,Spencer Torkelson,679529,776912,"Torkelson, Spencer",R,305.0,269.0,60.0,31.0,15.0,0.0,14.0,33.0,81.0,0.2230483271375464,0.4349442379182156,26.7
+Detroit Tigers,away,Wenceel Pérez,672761,776912,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Detroit Tigers,away,Zach McKinstry,656716,776912,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Detroit Tigers,away,Dillon Dingler,693307,776912,"Dingler, Dillon",L,75.0,73.0,23.0,13.0,7.0,0.0,3.0,2.0,19.0,0.3150684931506849,0.5342465753424658,27.5
+Detroit Tigers,away,Dillon Dingler,693307,776912,"Dingler, Dillon",R,227.0,208.0,56.0,42.0,7.0,1.0,6.0,15.0,52.0,0.2692307692307692,0.3990384615384615,27.5
+Detroit Tigers,away,Javier Báez,595879,776912,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Washington Nationals,home,CJ Abrams,682928,776903,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Washington Nationals,home,James Wood,695578,776903,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Washington Nationals,home,Luis García Jr.,671277,776903,"García Jr., Luis",L,74.0,64.0,14.0,11.0,3.0,0.0,0.0,6.0,11.0,0.21875,0.265625,26.5
+Washington Nationals,home,Luis García Jr.,671277,776903,"García Jr., Luis",R,303.0,275.0,77.0,49.0,19.0,0.0,9.0,17.0,45.0,0.28,0.4472727272727272,26.5
+Washington Nationals,home,Josh Bell,605137,776903,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Washington Nationals,home,Nathaniel Lowe,663993,776903,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Washington Nationals,home,Brady House,691781,776903,"House, Brady",L,39.0,37.0,7.0,5.0,2.0,0.0,0.0,1.0,13.0,0.1891891891891892,0.2432432432432432,27.7
+Washington Nationals,home,Brady House,691781,776903,"House, Brady",R,98.0,93.0,27.0,21.0,4.0,0.0,2.0,3.0,20.0,0.2903225806451613,0.3978494623655914,27.7
+Washington Nationals,home,Daylen Lile,695734,776903,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Washington Nationals,home,Riley Adams,656180,776903,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Washington Nationals,home,Robert Hassell III,690987,776903,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Milwaukee Brewers,away,Sal Frelick,686217,776903,"Frelick, Sal",L,128.0,111.0,36.0,31.0,5.0,0.0,0.0,10.0,17.0,0.3243243243243243,0.3693693693693693,29.0
+Milwaukee Brewers,away,Sal Frelick,686217,776903,"Frelick, Sal",R,275.0,244.0,69.0,52.0,6.0,3.0,8.0,24.0,35.0,0.2827868852459016,0.430327868852459,29.0
+Milwaukee Brewers,away,William Contreras,661388,776903,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Milwaukee Brewers,away,Andrew Vaughn,683734,776903,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Milwaukee Brewers,away,Christian Yelich,592885,776903,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Milwaukee Brewers,away,Isaac Collins,686555,776903,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Milwaukee Brewers,away,Blake Perkins,663368,776903,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Milwaukee Brewers,away,Brice Turang,668930,776903,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Milwaukee Brewers,away,Anthony Seigler,678011,776903,"Seigler, Anthony",L,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,26.6
+Milwaukee Brewers,away,Anthony Seigler,678011,776903,"Seigler, Anthony",R,29.0,26.0,5.0,5.0,0.0,0.0,0.0,2.0,3.0,0.1923076923076923,0.1923076923076923,26.6
+Milwaukee Brewers,away,Joey Ortiz,687401,776903,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Boston Red Sox,home,Romy Gonzalez,663853,776909,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Boston Red Sox,home,Alex Bregman,608324,776909,"Bregman, Alex",L,73.0,60.0,22.0,17.0,3.0,0.0,2.0,13.0,10.0,0.3666666666666666,0.5166666666666667,26.1
+Boston Red Sox,home,Alex Bregman,608324,776909,"Bregman, Alex",R,205.0,186.0,53.0,24.0,17.0,0.0,12.0,15.0,37.0,0.2849462365591398,0.5698924731182796,26.1
+Boston Red Sox,home,Roman Anthony,701350,776909,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Boston Red Sox,home,Rob Refsnyder,608701,776909,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Boston Red Sox,home,Trevor Story,596115,776909,"Story, Trevor",L,113.0,105.0,27.0,18.0,5.0,0.0,4.0,5.0,31.0,0.2571428571428571,0.419047619047619,28.5
+Boston Red Sox,home,Trevor Story,596115,776909,"Story, Trevor",R,326.0,303.0,76.0,50.0,13.0,0.0,13.0,20.0,94.0,0.2508250825082508,0.4224422442244224,28.5
+Boston Red Sox,home,Carlos Narváez,665966,776909,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Boston Red Sox,home,Jarren Duran,680776,776909,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Boston Red Sox,home,Ceddanne Rafaela,678882,776909,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Boston Red Sox,home,Abraham Toro,647351,776909,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Houston Astros,away,Jose Altuve,514888,776909,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Houston Astros,away,Jesús Sánchez,660821,776909,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Houston Astros,away,Carlos Correa,621043,776909,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Houston Astros,away,Christian Walker,572233,776909,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Houston Astros,away,Yainer Diaz,673237,776909,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Houston Astros,away,Victor Caratini,605170,776909,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Houston Astros,away,Cam Smith,701358,776909,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Houston Astros,away,Taylor Trammell,666211,776909,"Trammell, Taylor",L,11.0,10.0,3.0,2.0,1.0,0.0,0.0,1.0,4.0,0.3,0.4,27.7
+Houston Astros,away,Taylor Trammell,666211,776909,"Trammell, Taylor",R,67.0,57.0,13.0,7.0,4.0,0.0,2.0,9.0,20.0,0.2280701754385964,0.4035087719298245,27.7
+Houston Astros,away,Ramón Urías,602104,776909,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+New York Mets,home,Brandon Nimmo,607043,776911,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+New York Mets,home,Francisco Lindor,596019,776911,"Lindor, Francisco",L,143.0,130.0,28.0,20.0,4.0,0.0,4.0,10.0,23.0,0.2153846153846154,0.3384615384615385,27.3
+New York Mets,home,Francisco Lindor,596019,776911,"Lindor, Francisco",R,345.0,305.0,80.0,48.0,16.0,0.0,16.0,33.0,70.0,0.2622950819672131,0.4721311475409836,27.3
+New York Mets,home,Juan Soto,665742,776911,"Soto, Juan",L,155.0,124.0,29.0,20.0,4.0,0.0,5.0,24.0,38.0,0.2338709677419354,0.3870967741935484,26.0
+New York Mets,home,Juan Soto,665742,776911,"Soto, Juan",R,310.0,247.0,66.0,34.0,12.0,0.0,20.0,52.0,52.0,0.2672064777327935,0.5587044534412956,26.0
+New York Mets,home,Pete Alonso,624413,776911,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+New York Mets,home,Jeff McNeil,643446,776911,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+New York Mets,home,Ronny Mauricio,677595,776911,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+New York Mets,home,Cedric Mullins,656775,776911,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+New York Mets,home,Francisco Alvarez,682626,776911,"Alvarez, Francisco",L,33.0,29.0,5.0,3.0,1.0,1.0,0.0,4.0,7.0,0.1724137931034483,0.2758620689655172,26.1
+New York Mets,home,Francisco Alvarez,682626,776911,"Alvarez, Francisco",R,131.0,113.0,30.0,22.0,4.0,0.0,4.0,16.0,37.0,0.2654867256637168,0.4070796460176991,26.1
+New York Mets,home,Brett Baty,683146,776911,"Baty, Brett",L,50.0,46.0,9.0,8.0,0.0,0.0,1.0,4.0,10.0,0.1956521739130435,0.2608695652173913,27.1
+New York Mets,home,Brett Baty,683146,776911,"Baty, Brett",R,237.0,210.0,50.0,29.0,9.0,2.0,10.0,18.0,61.0,0.238095238095238,0.4428571428571428,27.1
+San Francisco Giants,away,Heliot Ramos,671218,776911,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+San Francisco Giants,away,Rafael Devers,646240,776911,"Devers, Rafael",L,170.0,150.0,39.0,24.0,9.0,0.0,6.0,16.0,46.0,0.26,0.44,25.3
+San Francisco Giants,away,Rafael Devers,646240,776911,"Devers, Rafael",R,325.0,261.0,66.0,36.0,17.0,0.0,13.0,58.0,83.0,0.2528735632183908,0.4674329501915709,25.3
+San Francisco Giants,away,Willy Adames,642715,776911,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+San Francisco Giants,away,Matt Chapman,656305,776911,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+San Francisco Giants,away,Dominic Smith,642086,776911,"Smith, Dominic",L,16.0,15.0,3.0,2.0,1.0,0.0,0.0,1.0,1.0,0.2,0.2666666666666666,25.7
+San Francisco Giants,away,Dominic Smith,642086,776911,"Smith, Dominic",R,98.0,83.0,24.0,17.0,5.0,0.0,2.0,12.0,19.0,0.2891566265060241,0.4216867469879518,25.7
+San Francisco Giants,away,Casey Schmitt,669477,776911,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+San Francisco Giants,away,Jung Hoo Lee,808982,776911,"Lee, Jung Hoo",L,113.0,105.0,29.0,20.0,3.0,3.0,3.0,7.0,20.0,0.2761904761904762,0.4476190476190476,28.2
+San Francisco Giants,away,Jung Hoo Lee,808982,776911,"Lee, Jung Hoo",R,323.0,281.0,68.0,40.0,20.0,5.0,3.0,33.0,26.0,0.2419928825622775,0.3807829181494662,28.2
+San Francisco Giants,away,Andrew Knizner,668800,776911,"Knizner, Andrew",L,14.0,14.0,3.0,2.0,0.0,0.0,1.0,0.0,2.0,0.2142857142857142,0.4285714285714285,25.4
+San Francisco Giants,away,Andrew Knizner,668800,776911,"Knizner, Andrew",R,34.0,29.0,5.0,5.0,0.0,0.0,0.0,2.0,5.0,0.1724137931034483,0.1724137931034483,25.4
+San Francisco Giants,away,Grant McCray,687529,776911,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Seattle Mariners,home,Randy Arozarena,668227,776897,"Arozarena, Randy",L,125.0,113.0,32.0,18.0,7.0,1.0,6.0,9.0,29.0,0.2831858407079646,0.5221238938053098,27.6
+Seattle Mariners,home,Randy Arozarena,668227,776897,"Arozarena, Randy",R,348.0,286.0,68.0,37.0,16.0,0.0,15.0,54.0,98.0,0.2377622377622377,0.451048951048951,27.6
+Seattle Mariners,home,Cal Raleigh,663728,776897,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Seattle Mariners,home,Julio Rodríguez,677594,776897,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Seattle Mariners,home,Josh Naylor,647304,776897,"Naylor, Josh",L,139.0,129.0,36.0,27.0,5.0,1.0,3.0,7.0,24.0,0.2790697674418604,0.4031007751937984,24.5
+Seattle Mariners,home,Josh Naylor,647304,776897,"Naylor, Josh",R,284.0,247.0,73.0,49.0,15.0,0.0,9.0,31.0,35.0,0.2955465587044534,0.4655870445344129,24.5
+Seattle Mariners,home,Eugenio Suárez,553993,776897,"Suárez, Eugenio",L,115.0,95.0,17.0,3.0,3.0,0.0,11.0,14.0,30.0,0.1789473684210526,0.5578947368421052,26.5
+Seattle Mariners,home,Eugenio Suárez,553993,776897,"Suárez, Eugenio",R,330.0,292.0,81.0,39.0,17.0,0.0,25.0,29.0,89.0,0.2773972602739726,0.5924657534246576,26.5
+Seattle Mariners,home,Dominic Canzone,686527,776897,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Seattle Mariners,home,Mitch Garver,641598,776897,"Garver, Mitch",L,101.0,89.0,22.0,15.0,4.0,0.0,3.0,11.0,29.0,0.247191011235955,0.3932584269662921,25.9
+Seattle Mariners,home,Mitch Garver,641598,776897,"Garver, Mitch",R,97.0,87.0,17.0,13.0,1.0,0.0,3.0,10.0,31.0,0.1954022988505747,0.3103448275862069,25.9
+Seattle Mariners,home,J.P. Crawford,641487,776897,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Seattle Mariners,home,Cole Young,702284,776897,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Texas Rangers,away,Josh Smith,669701,776897,"Smith, Josh",L,91.0,80.0,19.0,17.0,2.0,0.0,0.0,7.0,24.0,0.2375,0.2625,27.4
+Texas Rangers,away,Josh Smith,669701,776897,"Smith, Josh",R,300.0,260.0,75.0,49.0,15.0,2.0,9.0,33.0,41.0,0.2884615384615384,0.4653846153846154,27.4
+Texas Rangers,away,Corey Seager,608369,776897,"Seager, Corey",L,108.0,99.0,24.0,12.0,5.0,0.0,7.0,9.0,28.0,0.2424242424242424,0.5050505050505051,25.3
+Texas Rangers,away,Corey Seager,608369,776897,"Seager, Corey",R,226.0,188.0,53.0,35.0,10.0,0.0,8.0,33.0,41.0,0.2819148936170212,0.4627659574468085,25.3
+Texas Rangers,away,Marcus Semien,543760,776897,"Semien, Marcus",L,119.0,101.0,24.0,19.0,2.0,0.0,3.0,15.0,26.0,0.2376237623762376,0.3465346534653465,28.5
+Texas Rangers,away,Marcus Semien,543760,776897,"Semien, Marcus",R,344.0,301.0,70.0,47.0,12.0,1.0,10.0,34.0,58.0,0.2325581395348837,0.3787375415282392,28.5
+Texas Rangers,away,Adolis García,666969,776897,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Texas Rangers,away,Joc Pederson,592626,776897,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Texas Rangers,away,Wyatt Langford,694671,776897,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Texas Rangers,away,Rowdy Tellez,642133,776897,"Tellez, Rowdy",L,16.0,14.0,1.0,1.0,0.0,0.0,0.0,2.0,7.0,0.0714285714285714,0.0714285714285714,23.2
+Texas Rangers,away,Rowdy Tellez,642133,776897,"Tellez, Rowdy",R,191.0,177.0,40.0,21.0,7.0,0.0,12.0,10.0,48.0,0.2259887005649717,0.4689265536723164,23.2
+Texas Rangers,away,Kyle Higashioka,543309,776897,"Higashioka, Kyle",L,68.0,63.0,16.0,11.0,3.0,0.0,2.0,2.0,15.0,0.2539682539682539,0.3968253968253968,25.2
+Texas Rangers,away,Kyle Higashioka,543309,776897,"Higashioka, Kyle",R,139.0,127.0,35.0,24.0,6.0,1.0,4.0,10.0,23.0,0.2755905511811024,0.4330708661417323,25.2
+Texas Rangers,away,Alejandro Osuna,696030,776897,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Cleveland Guardians,home,Steven Kwan,680757,776905,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Cleveland Guardians,home,Daniel Schneemann,682177,776905,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Cleveland Guardians,home,José Ramírez,608070,776905,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Cleveland Guardians,home,Kyle Manzardo,700932,776905,"Manzardo, Kyle",L,56.0,49.0,10.0,3.0,2.0,1.0,4.0,5.0,14.0,0.2040816326530612,0.5306122448979592,25.4
+Cleveland Guardians,home,Kyle Manzardo,700932,776905,"Manzardo, Kyle",R,287.0,253.0,63.0,37.0,11.0,1.0,14.0,29.0,72.0,0.2490118577075099,0.466403162055336,25.4
+Cleveland Guardians,home,Carlos Santana,467793,776905,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Cleveland Guardians,home,Bo Naylor,666310,776905,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Cleveland Guardians,home,Gabriel Arias,672356,776905,"Arias, Gabriel",L,89.0,83.0,19.0,9.0,7.0,0.0,3.0,5.0,32.0,0.2289156626506024,0.4216867469879518,27.1
+Cleveland Guardians,home,Gabriel Arias,672356,776905,"Arias, Gabriel",R,215.0,192.0,45.0,29.0,12.0,0.0,4.0,19.0,62.0,0.234375,0.359375,27.1
+Cleveland Guardians,home,C.J. Kayfus,692216,776905,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Cleveland Guardians,home,Brayan Rocchio,677587,776905,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Minnesota Twins,away,Alan Roden,702176,776905,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Minnesota Twins,away,Trevor Larnach,663616,776905,"Larnach, Trevor",L,75.0,68.0,12.0,8.0,3.0,0.0,1.0,4.0,19.0,0.1764705882352941,0.2647058823529412,26.1
+Minnesota Twins,away,Trevor Larnach,663616,776905,"Larnach, Trevor",R,324.0,281.0,73.0,48.0,12.0,1.0,12.0,35.0,69.0,0.2597864768683274,0.4377224199288256,26.1
+Minnesota Twins,away,Ryan Jeffers,680777,776905,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Minnesota Twins,away,Kody Clemens,665019,776905,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Minnesota Twins,away,Matt Wallner,670242,776905,"Wallner, Matt",L,47.0,40.0,8.0,2.0,3.0,0.0,3.0,5.0,12.0,0.2,0.5,26.9
+Minnesota Twins,away,Matt Wallner,670242,776905,"Wallner, Matt",R,201.0,169.0,36.0,17.0,7.0,2.0,10.0,27.0,61.0,0.2130177514792899,0.4556213017751479,26.9
+Minnesota Twins,away,Royce Lewis,668904,776905,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Minnesota Twins,away,Brooks Lee,686797,776905,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Minnesota Twins,away,Edouard Julien,666397,776905,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Minnesota Twins,away,DaShawn Keirsey Jr.,680577,776905,"Keirsey Jr., DaShawn",L,17.0,16.0,1.0,1.0,0.0,0.0,0.0,1.0,11.0,0.0625,0.0625,28.4
+Minnesota Twins,away,DaShawn Keirsey Jr.,680577,776905,"Keirsey Jr., DaShawn",R,64.0,60.0,8.0,6.0,0.0,0.0,2.0,2.0,19.0,0.1333333333333333,0.2333333333333333,28.4
+Miami Marlins,home,Xavier Edwards,669364,776910,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Miami Marlins,home,Kyle Stowers,669065,776910,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Miami Marlins,home,Agustín Ramírez,682663,776910,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Miami Marlins,home,Liam Hicks,689414,776910,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Miami Marlins,home,Otto Lopez,672640,776910,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Miami Marlins,home,Jakob Marsee,805300,776910,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Miami Marlins,home,Eric Wagaman,676572,776910,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Miami Marlins,home,Graham Pauley,688363,776910,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Miami Marlins,home,Dane Myers,667472,776910,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+New York Yankees,away,Trent Grisham,663757,776910,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+New York Yankees,away,Jasson Domínguez,691176,776910,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+New York Yankees,away,Cody Bellinger,641355,776910,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+New York Yankees,away,Giancarlo Stanton,519317,776910,"Stanton, Giancarlo",L,26.0,25.0,5.0,3.0,1.0,0.0,1.0,1.0,9.0,0.2,0.36,23.7
+New York Yankees,away,Giancarlo Stanton,519317,776910,"Stanton, Giancarlo",R,101.0,89.0,26.0,16.0,2.0,0.0,8.0,10.0,33.0,0.2921348314606741,0.5842696629213483,23.7
+New York Yankees,away,Jazz Chisholm Jr.,665862,776910,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+New York Yankees,away,Ben Rice,700250,776910,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+New York Yankees,away,Paul Goldschmidt,502671,776910,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+New York Yankees,away,Ryan McMahon,641857,776910,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+New York Yankees,away,Anthony Volpe,683011,776910,"Volpe, Anthony",L,124.0,110.0,31.0,19.0,8.0,0.0,4.0,11.0,26.0,0.2818181818181818,0.4636363636363636,28.3
+New York Yankees,away,Anthony Volpe,683011,776910,"Volpe, Anthony",R,315.0,276.0,56.0,25.0,15.0,3.0,13.0,29.0,77.0,0.2028985507246377,0.4202898550724637,28.3
+Cincinnati Reds,home,TJ Friedl,670770,776907,"Friedl, TJ",L,128.0,107.0,26.0,21.0,1.0,1.0,3.0,15.0,21.0,0.2429906542056074,0.3551401869158878,26.8
+Cincinnati Reds,home,TJ Friedl,670770,776907,"Friedl, TJ",R,333.0,275.0,78.0,55.0,15.0,1.0,7.0,50.0,48.0,0.2836363636363636,0.4218181818181818,26.8
+Cincinnati Reds,home,Matt McLain,680574,776907,"McLain, Matt",L,100.0,84.0,18.0,12.0,4.0,0.0,2.0,15.0,29.0,0.2142857142857142,0.3333333333333333,29.2
+Cincinnati Reds,home,Matt McLain,680574,776907,"McLain, Matt",R,316.0,279.0,64.0,47.0,8.0,0.0,9.0,30.0,81.0,0.2293906810035842,0.3548387096774194,29.2
+Cincinnati Reds,home,Elly De La Cruz,682829,776907,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Cincinnati Reds,home,Austin Hays,669720,776907,"Hays, Austin",L,62.0,54.0,20.0,9.0,6.0,3.0,2.0,7.0,11.0,0.3703703703703703,0.7037037037037037,27.5
+Cincinnati Reds,home,Austin Hays,669720,776907,"Hays, Austin",R,188.0,167.0,42.0,30.0,3.0,1.0,8.0,14.0,49.0,0.2514970059880239,0.4251497005988024,27.5
+Cincinnati Reds,home,Miguel Andujar,609280,776907,"Andujar, Miguel",L,47.0,44.0,19.0,16.0,1.0,0.0,2.0,2.0,10.0,0.4318181818181818,0.5909090909090909,27.2
+Cincinnati Reds,home,Miguel Andujar,609280,776907,"Andujar, Miguel",R,183.0,170.0,46.0,32.0,9.0,1.0,4.0,8.0,20.0,0.2705882352941176,0.4058823529411764,27.2
+Cincinnati Reds,home,Noelvi Marte,682622,776907,"Marte, Noelvi",L,43.0,36.0,7.0,7.0,0.0,0.0,0.0,6.0,12.0,0.1944444444444444,0.1944444444444444,29.0
+Cincinnati Reds,home,Noelvi Marte,682622,776907,"Marte, Noelvi",R,116.0,107.0,34.0,19.0,7.0,1.0,7.0,5.0,16.0,0.3177570093457944,0.5981308411214953,29.0
+Cincinnati Reds,home,Spencer Steer,668715,776907,"Steer, Spencer",L,94.0,87.0,19.0,12.0,4.0,0.0,3.0,6.0,28.0,0.2183908045977011,0.367816091954023,28.2
+Cincinnati Reds,home,Spencer Steer,668715,776907,"Steer, Spencer",R,308.0,277.0,69.0,47.0,11.0,2.0,9.0,29.0,65.0,0.2490974729241877,0.4007220216606498,28.2
+Cincinnati Reds,home,Tyler Stephenson,663886,776907,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Cincinnati Reds,home,Ke'Bryan Hayes,663647,776907,"Hayes, Ke'Bryan",L,90.0,86.0,18.0,15.0,3.0,0.0,0.0,2.0,19.0,0.2093023255813953,0.2441860465116279,27.2
+Cincinnati Reds,home,Ke'Bryan Hayes,663647,776907,"Hayes, Ke'Bryan",R,309.0,282.0,70.0,58.0,7.0,2.0,3.0,19.0,61.0,0.2482269503546099,0.3191489361702128,27.2
+Atlanta Braves,away,Jurickson Profar,595777,776907,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Atlanta Braves,away,Matt Olson,621566,776907,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Atlanta Braves,away,Austin Riley,663586,776907,"Riley, Austin",L,101.0,96.0,25.0,18.0,3.0,0.0,4.0,5.0,22.0,0.2604166666666667,0.4166666666666667,28.2
+Atlanta Braves,away,Austin Riley,663586,776907,"Riley, Austin",R,344.0,317.0,83.0,53.0,17.0,1.0,12.0,24.0,105.0,0.2618296529968454,0.4353312302839117,28.2
+Atlanta Braves,away,Drake Baldwin,686948,776907,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Atlanta Braves,away,Sean Murphy,669221,776907,"Murphy, Sean",L,83.0,68.0,15.0,4.0,4.0,0.0,7.0,14.0,28.0,0.2205882352941176,0.5882352941176471,24.8
+Atlanta Braves,away,Sean Murphy,669221,776907,"Murphy, Sean",R,188.0,164.0,39.0,22.0,8.0,0.0,9.0,21.0,55.0,0.2378048780487804,0.4512195121951219,24.8
+Atlanta Braves,away,Michael Harris II,671739,776907,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Atlanta Braves,away,Ozzie Albies,645277,776907,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Atlanta Braves,away,Eli White,642201,776907,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Atlanta Braves,away,Nick Allen,669397,776907,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Athletics,home,Lawrence Butler,671732,776899,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Athletics,home,Nick Kurtz,701762,776899,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Athletics,home,Brent Rooker,667670,776899,"Rooker, Brent",L,94.0,82.0,25.0,12.0,8.0,0.0,5.0,12.0,15.0,0.3048780487804878,0.5853658536585366,27.5
+Athletics,home,Brent Rooker,667670,776899,"Rooker, Brent",R,389.0,347.0,94.0,57.0,16.0,3.0,18.0,34.0,92.0,0.270893371757925,0.4899135446685879,27.5
+Athletics,home,Shea Langeliers,669127,776899,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Athletics,home,Tyler Soderstrom,691016,776899,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Athletics,home,Gio Urshela,570482,776899,"Urshela, Gio",L,35.0,30.0,5.0,2.0,3.0,0.0,0.0,4.0,10.0,0.1666666666666666,0.2666666666666666,24.4
+Athletics,home,Gio Urshela,570482,776899,"Urshela, Gio",R,126.0,115.0,28.0,18.0,9.0,1.0,0.0,8.0,21.0,0.2434782608695652,0.3391304347826087,24.4
+Athletics,home,Carlos Cortes,666126,776899,"Cortes, Carlos",L,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,26.6
+Athletics,home,Carlos Cortes,666126,776899,"Cortes, Carlos",R,28.0,25.0,7.0,6.0,0.0,1.0,0.0,2.0,8.0,0.28,0.36,26.6
+Athletics,home,Max Schuemann,680474,776899,"Schuemann, Max",L,39.0,31.0,6.0,6.0,0.0,0.0,0.0,7.0,4.0,0.1935483870967742,0.1935483870967742,28.3
+Athletics,home,Max Schuemann,680474,776899,"Schuemann, Max",R,106.0,89.0,21.0,16.0,1.0,2.0,2.0,13.0,19.0,0.2359550561797752,0.3595505617977528,28.3
+Athletics,home,Darell Hernaiz,687231,776899,"Hernaiz, Darell",L,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Athletics,home,Darell Hernaiz,687231,776899,"Hernaiz, Darell",R,10.0,10.0,4.0,3.0,0.0,0.0,1.0,0.0,0.0,0.4,0.7,0.0
+Arizona Diamondbacks,away,Corbin Carroll,682998,776899,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Arizona Diamondbacks,away,Ketel Marte,606466,776899,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Arizona Diamondbacks,away,Geraldo Perdomo,672695,776899,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Arizona Diamondbacks,away,Lourdes Gurriel Jr.,666971,776899,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Arizona Diamondbacks,away,Adrian Del Castillo,680728,776899,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Arizona Diamondbacks,away,Tyler Locklear,682988,776899,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Arizona Diamondbacks,away,James McCann,543510,776899,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Arizona Diamondbacks,away,Alek Thomas,677950,776899,"Thomas, Alek",L,51.0,45.0,11.0,9.0,1.0,0.0,1.0,2.0,8.0,0.2444444444444444,0.3333333333333333,28.2
+Arizona Diamondbacks,away,Alek Thomas,677950,776899,"Thomas, Alek",R,256.0,228.0,58.0,39.0,12.0,2.0,5.0,18.0,71.0,0.2543859649122807,0.3903508771929824,28.2
+Arizona Diamondbacks,away,Blaze Alexander,677942,776899,"Alexander, Blaze",L,35.0,29.0,5.0,3.0,2.0,0.0,0.0,4.0,10.0,0.1724137931034483,0.2413793103448276,28.6
+Arizona Diamondbacks,away,Blaze Alexander,677942,776899,"Alexander, Blaze",R,26.0,24.0,6.0,4.0,2.0,0.0,0.0,1.0,9.0,0.25,0.3333333333333333,28.6
+Los Angeles Angels,home,Zach Neto,687263,776898,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Los Angeles Angels,home,Nolan Schanuel,694384,776898,"Schanuel, Nolan",L,102.0,85.0,23.0,19.0,2.0,0.0,2.0,12.0,12.0,0.2705882352941176,0.3647058823529411,26.0
+Los Angeles Angels,home,Nolan Schanuel,694384,776898,"Schanuel, Nolan",R,352.0,304.0,87.0,61.0,18.0,1.0,7.0,40.0,44.0,0.2861842105263157,0.4210526315789473,26.0
+Los Angeles Angels,home,Taylor Ward,621493,776898,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Los Angeles Angels,home,Jo Adell,666176,776898,"Adell, Jo",L,75.0,66.0,17.0,7.0,4.0,1.0,5.0,8.0,18.0,0.2575757575757575,0.5757575757575758,27.8
+Los Angeles Angels,home,Jo Adell,666176,776898,"Adell, Jo",R,308.0,273.0,63.0,37.0,10.0,0.0,16.0,27.0,78.0,0.2307692307692307,0.4432234432234432,27.8
+Los Angeles Angels,home,Yoán Moncada,660162,776898,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Los Angeles Angels,home,Logan O'Hoppe,681351,776898,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Los Angeles Angels,home,Luis Rengifo,650859,776898,"Rengifo, Luis",L,79.0,76.0,17.0,13.0,1.0,1.0,2.0,2.0,16.0,0.2236842105263158,0.3421052631578947,27.0
+Los Angeles Angels,home,Luis Rengifo,650859,776898,"Rengifo, Luis",R,313.0,280.0,71.0,56.0,12.0,0.0,3.0,22.0,54.0,0.2535714285714285,0.3285714285714285,27.0
+Los Angeles Angels,home,Gustavo Campero,672569,776898,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Los Angeles Angels,home,Bryce Teodosio,669326,776898,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Chicago White Sox,away,Mike Tauchman,643565,776898,"Tauchman, Mike",L,43.0,35.0,10.0,5.0,2.0,0.0,3.0,6.0,13.0,0.2857142857142857,0.6,25.0
+Chicago White Sox,away,Mike Tauchman,643565,776898,"Tauchman, Mike",R,188.0,164.0,49.0,33.0,11.0,1.0,4.0,21.0,42.0,0.298780487804878,0.4512195121951219,25.0
+Chicago White Sox,away,Lenyn Sosa,672820,776898,"Sosa, Lenyn",L,100.0,93.0,25.0,19.0,4.0,0.0,2.0,4.0,25.0,0.2688172043010752,0.3763440860215054,26.7
+Chicago White Sox,away,Lenyn Sosa,672820,776898,"Sosa, Lenyn",R,245.0,232.0,68.0,46.0,12.0,1.0,9.0,9.0,51.0,0.293103448275862,0.4698275862068966,26.7
+Chicago White Sox,away,Andrew Benintendi,643217,776898,"Benintendi, Andrew",L,65.0,61.0,16.0,6.0,4.0,1.0,5.0,1.0,16.0,0.2622950819672131,0.6065573770491803,26.8
+Chicago White Sox,away,Andrew Benintendi,643217,776898,"Benintendi, Andrew",R,255.0,220.0,52.0,33.0,9.0,1.0,9.0,27.0,36.0,0.2363636363636363,0.4090909090909091,26.8
+Chicago White Sox,away,Miguel Vargas,678246,776898,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Chicago White Sox,away,Colson Montgomery,695657,776898,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Chicago White Sox,away,Luis Robert Jr.,673357,776898,"Robert Jr., Luis",L,92.0,74.0,22.0,14.0,2.0,0.0,6.0,13.0,21.0,0.2972972972972973,0.5675675675675675,29.0
+Chicago White Sox,away,Luis Robert Jr.,673357,776898,"Robert Jr., Luis",R,253.0,221.0,43.0,31.0,7.0,0.0,5.0,22.0,77.0,0.1945701357466063,0.2941176470588235,29.0
+Chicago White Sox,away,Kyle Teel,691019,776898,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Chicago White Sox,away,Brooks Baldwin,681460,776898,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Chicago White Sox,away,Josh Rojas,668942,776898,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+San Diego Padres,home,Fernando Tatis Jr.,665487,776896,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+San Diego Padres,home,Luis Arraez,650333,776896,"Arraez, Luis",L,152.0,137.0,38.0,32.0,3.0,0.0,3.0,5.0,6.0,0.2773722627737226,0.364963503649635,26.4
+San Diego Padres,home,Luis Arraez,650333,776896,"Arraez, Luis",R,305.0,281.0,87.0,63.0,17.0,4.0,3.0,19.0,6.0,0.3096085409252669,0.4306049822064057,26.4
+San Diego Padres,home,Manny Machado,592518,776896,"Machado, Manny",L,141.0,121.0,32.0,18.0,4.0,0.0,10.0,16.0,25.0,0.2644628099173554,0.5454545454545454,25.8
+San Diego Padres,home,Manny Machado,592518,776896,"Machado, Manny",R,329.0,296.0,96.0,63.0,23.0,0.0,10.0,24.0,54.0,0.3243243243243243,0.5033783783783784,25.8
+San Diego Padres,home,Jackson Merrill,701538,776896,"Merrill, Jackson",L,119.0,107.0,28.0,18.0,7.0,1.0,2.0,7.0,21.0,0.2616822429906542,0.4018691588785046,28.4
+San Diego Padres,home,Jackson Merrill,701538,776896,"Merrill, Jackson",R,210.0,187.0,50.0,36.0,7.0,2.0,5.0,19.0,50.0,0.267379679144385,0.4064171122994652,28.4
+San Diego Padres,home,Xander Bogaerts,593428,776896,"Bogaerts, Xander",L,135.0,120.0,37.0,28.0,7.0,0.0,2.0,10.0,20.0,0.3083333333333333,0.4166666666666667,27.6
+San Diego Padres,home,Xander Bogaerts,593428,776896,"Bogaerts, Xander",R,307.0,262.0,67.0,45.0,17.0,0.0,5.0,32.0,48.0,0.2557251908396946,0.3778625954198473,27.6
+San Diego Padres,home,Ryan O'Hearn,656811,776896,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+San Diego Padres,home,Ramón Laureano,657656,776896,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+San Diego Padres,home,Jake Cronenworth,630105,776896,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+San Diego Padres,home,Freddy Fermin,666023,776896,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+St. Louis Cardinals,away,Brendan Donovan,680977,776896,"Donovan, Brendan",L,144.0,127.0,28.0,19.0,7.0,0.0,2.0,14.0,25.0,0.2204724409448819,0.3228346456692913,26.5
+St. Louis Cardinals,away,Brendan Donovan,680977,776896,"Donovan, Brendan",R,298.0,264.0,83.0,59.0,17.0,0.0,7.0,29.0,33.0,0.3143939393939394,0.4583333333333333,26.5
+St. Louis Cardinals,away,Iván Herrera,671056,776896,"Herrera, Iván",L,66.0,51.0,18.0,9.0,3.0,0.0,6.0,13.0,9.0,0.3529411764705882,0.7647058823529411,26.5
+St. Louis Cardinals,away,Iván Herrera,671056,776896,"Herrera, Iván",R,169.0,151.0,42.0,34.0,5.0,0.0,3.0,15.0,37.0,0.2781456953642384,0.3708609271523179,26.5
+St. Louis Cardinals,away,Alec Burleson,676475,776896,"Burleson, Alec",L,74.0,69.0,16.0,12.0,2.0,0.0,2.0,3.0,11.0,0.2318840579710145,0.3478260869565217,25.5
+St. Louis Cardinals,away,Alec Burleson,676475,776896,"Burleson, Alec",R,298.0,266.0,80.0,51.0,17.0,0.0,12.0,25.0,38.0,0.3007518796992481,0.5,25.5
+St. Louis Cardinals,away,Willson Contreras,575929,776896,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+St. Louis Cardinals,away,Lars Nootbaar,663457,776896,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+St. Louis Cardinals,away,Masyn Winn,691026,776896,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+St. Louis Cardinals,away,Nolan Gorman,669357,776896,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+St. Louis Cardinals,away,Pedro Pagés,686780,776896,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+St. Louis Cardinals,away,Victor Scott II,687363,776896,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0

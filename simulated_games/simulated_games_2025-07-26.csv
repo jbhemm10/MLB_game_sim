@@ -1,4 +1,17 @@
 Game ID,Projected Winning Team,Projected Losing Team,Away Team,Home Team,Away Team Win Percentage,Home Team Win Percentage,Average Away Score,Average Home Score,Average Total Innings,Confidence Level
-777001,New York Yankees,Philadelphia Phillies,Philadelphia Phillies,New York Yankees,0.0,1.0,3.0,4.0,9.0,1.0
-777002,Arizona Diamondbacks,Pittsburgh Pirates,Arizona Diamondbacks,Pittsburgh Pirates,1.0,0.0,11.0,9.0,9.0,1.0
+776985,New York Mets,San Francisco Giants,New York Mets,San Francisco Giants,1.0,0.0,12.0,7.0,9.0,1.0
+776990,Kansas City Royals,Cleveland Guardians,Cleveland Guardians,Kansas City Royals,0.0,1.0,5.0,15.0,9.0,1.0
+776991,Houston Astros,Athletics,Athletics,Houston Astros,0.0,1.0,3.0,4.0,9.0,1.0
+776992,St. Louis Cardinals,San Diego Padres,San Diego Padres,St. Louis Cardinals,0.0,1.0,4.0,7.0,9.0,1.0
+776993,Atlanta Braves,Texas Rangers,Atlanta Braves,Texas Rangers,1.0,0.0,3.0,1.0,9.0,1.0
+776994,Chicago Cubs,Chicago White Sox,Chicago Cubs,Chicago White Sox,1.0,0.0,7.0,1.0,9.0,1.0
+776995,Seattle Mariners,Los Angeles Angels,Seattle Mariners,Los Angeles Angels,1.0,0.0,10.0,2.0,9.0,1.0
+776996,Milwaukee Brewers,Miami Marlins,Miami Marlins,Milwaukee Brewers,0.0,1.0,3.0,4.0,9.0,1.0
+776997,Minnesota Twins,Washington Nationals,Washington Nationals,Minnesota Twins,0.0,1.0,7.0,8.0,11.0,1.0
+776998,Boston Red Sox,Los Angeles Dodgers,Los Angeles Dodgers,Boston Red Sox,0.0,1.0,4.0,12.0,9.0,1.0
+776999,Baltimore Orioles,Colorado Rockies,Colorado Rockies,Baltimore Orioles,0.0,1.0,2.0,4.0,9.0,1.0
+777000,Cincinnati Reds,Tampa Bay Rays,Tampa Bay Rays,Cincinnati Reds,0.0,1.0,4.0,10.0,9.0,1.0
+777001,Philadelphia Phillies,New York Yankees,Philadelphia Phillies,New York Yankees,1.0,0.0,10.0,6.0,9.0,1.0
+777002,Arizona Diamondbacks,Pittsburgh Pirates,Arizona Diamondbacks,Pittsburgh Pirates,1.0,0.0,6.0,4.0,9.0,1.0
+777003,Detroit Tigers,Toronto Blue Jays,Toronto Blue Jays,Detroit Tigers,0.0,1.0,10.0,11.0,9.0,1.0
 777010,Kansas City Royals,Cleveland Guardians,Cleveland Guardians,Kansas City Royals,0.0,1.0,3.0,7.0,9.0,1.0
