@@ -1,0 +1,107 @@
+[
+    {
+        "game_id": 776866,
+        "home_team": "Pittsburgh Pirates",
+        "away_team": "San Francisco Giants",
+        "home_lineup": [],
+        "away_lineup": []
+    },
+    {
+        "game_id": 776861,
+        "home_team": "Detroit Tigers",
+        "away_team": "Minnesota Twins",
+        "home_lineup": [],
+        "away_lineup": []
+    },
+    {
+        "game_id": 776862,
+        "home_team": "Miami Marlins",
+        "away_team": "Houston Astros",
+        "home_lineup": [],
+        "away_lineup": []
+    },
+    {
+        "game_id": 776865,
+        "home_team": "Washington Nationals",
+        "away_team": "Athletics",
+        "home_lineup": [],
+        "away_lineup": []
+    },
+    {
+        "game_id": 776868,
+        "home_team": "Philadelphia Phillies",
+        "away_team": "Baltimore Orioles",
+        "home_lineup": [],
+        "away_lineup": []
+    },
+    {
+        "game_id": 776864,
+        "home_team": "Boston Red Sox",
+        "away_team": "Kansas City Royals",
+        "home_lineup": [],
+        "away_lineup": []
+    },
+    {
+        "game_id": 776863,
+        "home_team": "New York Mets",
+        "away_team": "Cleveland Guardians",
+        "home_lineup": [],
+        "away_lineup": []
+    },
+    {
+        "game_id": 776869,
+        "home_team": "Atlanta Braves",
+        "away_team": "Milwaukee Brewers",
+        "home_lineup": [],
+        "away_lineup": []
+    },
+    {
+        "game_id": 776860,
+        "home_team": "Chicago Cubs",
+        "away_team": "Cincinnati Reds",
+        "home_lineup": [],
+        "away_lineup": []
+    },
+    {
+        "game_id": 776855,
+        "home_team": "Texas Rangers",
+        "away_team": "New York Yankees",
+        "home_lineup": [],
+        "away_lineup": []
+    },
+    {
+        "game_id": 776854,
+        "home_team": "Colorado Rockies",
+        "away_team": "Toronto Blue Jays",
+        "home_lineup": [],
+        "away_lineup": []
+    },
+    {
+        "game_id": 776848,
+        "home_team": "Los Angeles Angels",
+        "away_team": "Tampa Bay Rays",
+        "home_lineup": [],
+        "away_lineup": []
+    },
+    {
+        "game_id": 776852,
+        "home_team": "Arizona Diamondbacks",
+        "away_team": "San Diego Padres",
+        "home_lineup": [],
+        "away_lineup": []
+    },
+    {
+        "game_id": 776857,
+        "home_team": "Seattle Mariners",
+        "away_team": "Chicago White Sox",
+        "home_lineup": [],
+        "away_lineup": []
+    },
+    {
+        "game_id": 776858,
+        "home_team": "Los Angeles Dodgers",
+        "away_team": "St. Louis Cardinals",
+        "home_lineup": [],
+        "away_lineup": []
+    }
+]
