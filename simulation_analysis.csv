@@ -629,3 +629,153 @@ Game ID,Date,Matchup,Simulated Winner,Actual Winner,Correctly Predicted,Confiden
 776776,2025-08-12,Seattle Mariners vs Baltimore Orioles,Baltimore Orioles,Seattle Mariners,0,1.0
 776777,2025-08-12,Philadelphia Phillies vs Cincinnati Reds,Cincinnati Reds,Cincinnati Reds,1,1.0
 776778,2025-08-12,Miami Marlins vs Cleveland Guardians,Cleveland Guardians,Cleveland Guardians,1,1.0
+776746,2025-08-13,Arizona Diamondbacks vs Texas Rangers,Arizona Diamondbacks,Arizona Diamondbacks,1,1.0
+776749,2025-08-13,San Diego Padres vs San Francisco Giants,San Diego Padres,San Diego Padres,1,1.0
+776751,2025-08-13,Tampa Bay Rays vs Athletics,Tampa Bay Rays,Tampa Bay Rays,1,1.0
+776752,2025-08-13,Los Angeles Dodgers vs Los Angeles Angels,Los Angeles Dodgers,Los Angeles Angels,0,1.0
+776753,2025-08-13,Boston Red Sox vs Houston Astros,Boston Red Sox,Houston Astros,0,1.0
+776754,2025-08-13,Detroit Tigers vs Chicago White Sox,Detroit Tigers,Detroit Tigers,1,1.0
+776755,2025-08-13,Pittsburgh Pirates vs Milwaukee Brewers,Milwaukee Brewers,Milwaukee Brewers,1,1.0
+776756,2025-08-13,Atlanta Braves vs New York Mets,New York Mets,Atlanta Braves,0,1.0
+776757,2025-08-13,Chicago Cubs vs Toronto Blue Jays,Chicago Cubs,Chicago Cubs,1,1.0
+776758,2025-08-13,Colorado Rockies vs St. Louis Cardinals,St. Louis Cardinals,Colorado Rockies,0,1.0
+776759,2025-08-13,Washington Nationals vs Kansas City Royals,Kansas City Royals,Washington Nationals,0,1.0
+776760,2025-08-13,Minnesota Twins vs New York Yankees,New York Yankees,Minnesota Twins,0,1.0
+776761,2025-08-13,Seattle Mariners vs Baltimore Orioles,Seattle Mariners,Baltimore Orioles,0,1.0
+776765,2025-08-13,Philadelphia Phillies vs Cincinnati Reds,Cincinnati Reds,Cincinnati Reds,1,1.0
+776766,2025-08-13,Miami Marlins vs Cleveland Guardians,Cleveland Guardians,Miami Marlins,0,1.0
+776742,2025-08-14,Arizona Diamondbacks vs Colorado Rockies,Colorado Rockies,Arizona Diamondbacks,0,1.0
+776743,2025-08-14,Philadelphia Phillies vs Washington Nationals,Washington Nationals,Washington Nationals,1,1.0
+776744,2025-08-14,Detroit Tigers vs Minnesota Twins,Minnesota Twins,Detroit Tigers,0,1.0
+776745,2025-08-14,Miami Marlins vs Cleveland Guardians,Miami Marlins,Cleveland Guardians,0,1.0
+776747,2025-08-14,Chicago Cubs vs Toronto Blue Jays,Chicago Cubs,Toronto Blue Jays,0,1.0
+776748,2025-08-14,Atlanta Braves vs New York Mets,Atlanta Braves,Atlanta Braves,1,1.0
+776750,2025-08-14,Seattle Mariners vs Baltimore Orioles,Baltimore Orioles,Baltimore Orioles,1,1.0
+776697,2025-08-17,San Diego Padres vs Los Angeles Dodgers,Los Angeles Dodgers,Los Angeles Dodgers,1,1.0
+776698,2025-08-17,New York Yankees vs St. Louis Cardinals,St. Louis Cardinals,New York Yankees,0,1.0
+776699,2025-08-17,Los Angeles Angels vs Athletics,Athletics,Los Angeles Angels,0,1.0
+776700,2025-08-17,Detroit Tigers vs Minnesota Twins,Minnesota Twins,Minnesota Twins,1,1.0
+776701,2025-08-17,Arizona Diamondbacks vs Colorado Rockies,Colorado Rockies,Colorado Rockies,1,1.0
+776702,2025-08-17,Chicago White Sox vs Kansas City Royals,Chicago White Sox,Kansas City Royals,0,1.0
+776703,2025-08-17,Tampa Bay Rays vs San Francisco Giants,Tampa Bay Rays,San Francisco Giants,0,1.0
+776704,2025-08-17,Pittsburgh Pirates vs Chicago Cubs,Chicago Cubs,Chicago Cubs,1,1.0
+776705,2025-08-17,Baltimore Orioles vs Houston Astros,Houston Astros,Baltimore Orioles,0,1.0
+776706,2025-08-17,Atlanta Braves vs Cleveland Guardians,Atlanta Braves,Atlanta Braves,1,1.0
+776707,2025-08-17,Seattle Mariners vs New York Mets,New York Mets,New York Mets,1,1.0
+776708,2025-08-17,Philadelphia Phillies vs Washington Nationals,Washington Nationals,Philadelphia Phillies,0,1.0
+776709,2025-08-17,Milwaukee Brewers vs Cincinnati Reds,Milwaukee Brewers,Cincinnati Reds,0,1.0
+776710,2025-08-17,Texas Rangers vs Toronto Blue Jays,Toronto Blue Jays,Texas Rangers,0,1.0
+776714,2025-08-17,Miami Marlins vs Boston Red Sox,Boston Red Sox,Miami Marlins,0,1.0
+776681,2025-08-18,Cincinnati Reds vs Los Angeles Angels,Cincinnati Reds,Cincinnati Reds,1,1.0
+776682,2025-08-18,Cleveland Guardians vs Arizona Diamondbacks,Arizona Diamondbacks,Cleveland Guardians,0,1.0
+776683,2025-08-18,San Francisco Giants vs San Diego Padres,San Francisco Giants,San Francisco Giants,1,1.0
+776688,2025-08-18,St. Louis Cardinals vs Miami Marlins,St. Louis Cardinals,St. Louis Cardinals,1,1.0
+776689,2025-08-18,Seattle Mariners vs Philadelphia Phillies,Seattle Mariners,Philadelphia Phillies,0,1.0
+776690,2025-08-18,Texas Rangers vs Kansas City Royals,Kansas City Royals,Kansas City Royals,1,1.0
+776692,2025-08-18,Houston Astros vs Detroit Tigers,Houston Astros,Detroit Tigers,0,1.0
+776693,2025-08-18,Los Angeles Dodgers vs Colorado Rockies,Los Angeles Dodgers,Colorado Rockies,0,1.0
+776694,2025-08-18,Toronto Blue Jays vs Pittsburgh Pirates,Pittsburgh Pirates,Pittsburgh Pirates,1,1.0
+776695,2025-08-18,Baltimore Orioles vs Boston Red Sox,Baltimore Orioles,Baltimore Orioles,1,1.0
+776696,2025-08-18,Chicago White Sox vs Atlanta Braves,Atlanta Braves,Chicago White Sox,0,1.0
+777459,2025-08-18,Milwaukee Brewers vs Chicago Cubs,Milwaukee Brewers,Milwaukee Brewers,1,1.0
+776671,2025-08-19,Los Angeles Dodgers vs Colorado Rockies,Los Angeles Dodgers,Los Angeles Dodgers,1,1.0
+776674,2025-08-19,Athletics vs Minnesota Twins,Minnesota Twins,Athletics,0,1.0
+776675,2025-08-19,Texas Rangers vs Kansas City Royals,Kansas City Royals,Kansas City Royals,1,1.0
+776677,2025-08-19,New York Yankees vs Tampa Bay Rays,New York Yankees,New York Yankees,1,1.0
+776678,2025-08-19,New York Mets vs Washington Nationals,Washington Nationals,New York Mets,0,1.0
+776679,2025-08-19,Toronto Blue Jays vs Pittsburgh Pirates,Pittsburgh Pirates,Toronto Blue Jays,0,1.0
+776680,2025-08-19,Seattle Mariners vs Philadelphia Phillies,Philadelphia Phillies,Philadelphia Phillies,1,1.0
+776684,2025-08-19,Baltimore Orioles vs Boston Red Sox,Boston Red Sox,Baltimore Orioles,0,1.0
+776685,2025-08-19,Houston Astros vs Detroit Tigers,Detroit Tigers,Detroit Tigers,1,1.0
+776686,2025-08-19,St. Louis Cardinals vs Miami Marlins,Miami Marlins,St. Louis Cardinals,0,1.0
+776687,2025-08-19,Chicago White Sox vs Atlanta Braves,Atlanta Braves,Atlanta Braves,1,1.0
+776691,2025-08-19,Milwaukee Brewers vs Chicago Cubs,Milwaukee Brewers,Chicago Cubs,0,1.0
+776652,2025-08-20,Cincinnati Reds vs Los Angeles Angels,Los Angeles Angels,Los Angeles Angels,1,1.0
+776656,2025-08-20,San Francisco Giants vs San Diego Padres,San Diego Padres,San Diego Padres,1,1.0
+776658,2025-08-20,Cleveland Guardians vs Arizona Diamondbacks,Cleveland Guardians,Arizona Diamondbacks,0,1.0
+776659,2025-08-20,New York Mets vs Washington Nationals,Washington Nationals,Washington Nationals,1,1.0
+776660,2025-08-20,Los Angeles Dodgers vs Colorado Rockies,Colorado Rockies,Colorado Rockies,1,1.0
+776661,2025-08-20,Toronto Blue Jays vs Pittsburgh Pirates,Pittsburgh Pirates,Pittsburgh Pirates,1,1.0
+776662,2025-08-20,Seattle Mariners vs Philadelphia Phillies,Seattle Mariners,Philadelphia Phillies,0,1.0
+776663,2025-08-20,Milwaukee Brewers vs Chicago Cubs,Milwaukee Brewers,Chicago Cubs,0,1.0
+776664,2025-08-20,New York Yankees vs Tampa Bay Rays,Tampa Bay Rays,New York Yankees,0,1.0
+776665,2025-08-20,Athletics vs Minnesota Twins,Minnesota Twins,Athletics,0,1.0
+776666,2025-08-20,Texas Rangers vs Kansas City Royals,Kansas City Royals,Texas Rangers,0,1.0
+776669,2025-08-20,Chicago White Sox vs Atlanta Braves,Atlanta Braves,Atlanta Braves,1,1.0
+776670,2025-08-20,St. Louis Cardinals vs Miami Marlins,Miami Marlins,Miami Marlins,1,1.0
+776673,2025-08-20,Houston Astros vs Detroit Tigers,Houston Astros,Detroit Tigers,0,1.0
+776642,2025-08-21,San Francisco Giants vs San Diego Padres,San Diego Padres,San Diego Padres,1,1.0
+776644,2025-08-21,Los Angeles Dodgers vs Colorado Rockies,Los Angeles Dodgers,Los Angeles Dodgers,1,1.0
+776650,2025-08-21,New York Mets vs Washington Nationals,Washington Nationals,Washington Nationals,1,1.0
+776651,2025-08-21,Milwaukee Brewers vs Chicago Cubs,Milwaukee Brewers,Milwaukee Brewers,1,1.0
+776653,2025-08-21,Athletics vs Minnesota Twins,Athletics,Athletics,1,1.0
+776654,2025-08-21,Boston Red Sox vs New York Yankees,New York Yankees,Boston Red Sox,0,1.0
+776655,2025-08-21,Houston Astros vs Baltimore Orioles,Baltimore Orioles,Houston Astros,0,1.0
+776657,2025-08-21,Texas Rangers vs Kansas City Royals,Texas Rangers,Kansas City Royals,0,1.0
+776633,2025-08-22,St. Louis Cardinals vs Tampa Bay Rays,Tampa Bay Rays,Tampa Bay Rays,1,1.0
+776634,2025-08-22,San Francisco Giants vs Milwaukee Brewers,Milwaukee Brewers,Milwaukee Brewers,1,1.0
+776635,2025-08-22,Cincinnati Reds vs Arizona Diamondbacks,Arizona Diamondbacks,Arizona Diamondbacks,1,1.0
+776636,2025-08-22,Los Angeles Dodgers vs San Diego Padres,San Diego Padres,San Diego Padres,1,1.0
+776637,2025-08-22,Colorado Rockies vs Pittsburgh Pirates,Colorado Rockies,Pittsburgh Pirates,0,1.0
+776638,2025-08-22,Athletics vs Seattle Mariners,Seattle Mariners,Seattle Mariners,1,1.0
+776639,2025-08-22,Minnesota Twins vs Chicago White Sox,Chicago White Sox,Minnesota Twins,0,1.0
+776640,2025-08-22,Chicago Cubs vs Los Angeles Angels,Chicago Cubs,Chicago Cubs,1,1.0
+776641,2025-08-22,Cleveland Guardians vs Texas Rangers,Cleveland Guardians,Texas Rangers,0,1.0
+776643,2025-08-22,Houston Astros vs Baltimore Orioles,Houston Astros,Houston Astros,1,1.0
+776645,2025-08-22,New York Mets vs Atlanta Braves,New York Mets,New York Mets,1,1.0
+776646,2025-08-22,Toronto Blue Jays vs Miami Marlins,Toronto Blue Jays,Toronto Blue Jays,1,1.0
+776647,2025-08-22,Boston Red Sox vs New York Yankees,New York Yankees,Boston Red Sox,0,1.0
+776648,2025-08-22,Washington Nationals vs Philadelphia Phillies,Washington Nationals,Washington Nationals,1,1.0
+776649,2025-08-22,Kansas City Royals vs Detroit Tigers,Kansas City Royals,Detroit Tigers,0,1.0
+776619,2025-08-23,Minnesota Twins vs Chicago White Sox,Minnesota Twins,Chicago White Sox,0,1.0
+776622,2025-08-23,Cincinnati Reds vs Arizona Diamondbacks,Arizona Diamondbacks,Arizona Diamondbacks,1,1.0
+776625,2025-08-23,Kansas City Royals vs Detroit Tigers,Kansas City Royals,Detroit Tigers,0,1.0
+776626,2025-08-23,New York Mets vs Atlanta Braves,New York Mets,New York Mets,1,1.0
+776627,2025-08-23,Boston Red Sox vs New York Yankees,Boston Red Sox,Boston Red Sox,1,1.0
+776628,2025-08-23,Washington Nationals vs Philadelphia Phillies,Philadelphia Phillies,Philadelphia Phillies,1,1.0
+776629,2025-08-23,Houston Astros vs Baltimore Orioles,Baltimore Orioles,Houston Astros,0,1.0
+776630,2025-08-23,Toronto Blue Jays vs Miami Marlins,Toronto Blue Jays,Toronto Blue Jays,1,1.0
+776632,2025-08-23,Colorado Rockies vs Pittsburgh Pirates,Colorado Rockies,Pittsburgh Pirates,0,1.0
+776602,2025-08-24,Athletics vs Seattle Mariners,Seattle Mariners,Seattle Mariners,1,1.0
+776603,2025-08-24,Los Angeles Dodgers vs San Diego Padres,Los Angeles Dodgers,Los Angeles Dodgers,1,1.0
+776605,2025-08-24,Chicago Cubs vs Los Angeles Angels,Los Angeles Angels,Chicago Cubs,0,1.0
+776606,2025-08-24,St. Louis Cardinals vs Tampa Bay Rays,St. Louis Cardinals,Tampa Bay Rays,0,1.0
+776607,2025-08-24,Minnesota Twins vs Chicago White Sox,Minnesota Twins,Chicago White Sox,0,1.0
+776608,2025-08-24,San Francisco Giants vs Milwaukee Brewers,Milwaukee Brewers,San Francisco Giants,0,1.0
+776609,2025-08-24,Cincinnati Reds vs Arizona Diamondbacks,Cincinnati Reds,Cincinnati Reds,1,1.0
+776610,2025-08-24,Colorado Rockies vs Pittsburgh Pirates,Pittsburgh Pirates,Pittsburgh Pirates,1,1.0
+776611,2025-08-24,Cleveland Guardians vs Texas Rangers,Cleveland Guardians,Texas Rangers,0,1.0
+776612,2025-08-24,Houston Astros vs Baltimore Orioles,Baltimore Orioles,Baltimore Orioles,1,1.0
+776613,2025-08-24,Washington Nationals vs Philadelphia Phillies,Washington Nationals,Philadelphia Phillies,0,1.0
+776614,2025-08-24,Toronto Blue Jays vs Miami Marlins,Miami Marlins,Miami Marlins,1,1.0
+776615,2025-08-24,Kansas City Royals vs Detroit Tigers,Detroit Tigers,Kansas City Royals,0,1.0
+776616,2025-08-24,Boston Red Sox vs New York Yankees,Boston Red Sox,New York Yankees,0,1.0
+776624,2025-08-24,New York Mets vs Atlanta Braves,Atlanta Braves,Atlanta Braves,1,1.0
+776589,2025-08-25,Pittsburgh Pirates vs St. Louis Cardinals,Pittsburgh Pirates,St. Louis Cardinals,0,1.0
+776590,2025-08-25,Detroit Tigers vs Athletics,Athletics,Athletics,1,1.0
+776592,2025-08-25,Los Angeles Angels vs Texas Rangers,Los Angeles Angels,Los Angeles Angels,1,1.0
+776593,2025-08-25,Arizona Diamondbacks vs Milwaukee Brewers,Milwaukee Brewers,Milwaukee Brewers,1,1.0
+776594,2025-08-25,Cincinnati Reds vs Los Angeles Dodgers,Los Angeles Dodgers,Los Angeles Dodgers,1,1.0
+776595,2025-08-25,San Diego Padres vs Seattle Mariners,Seattle Mariners,Seattle Mariners,1,1.0
+776596,2025-08-25,Minnesota Twins vs Toronto Blue Jays,Minnesota Twins,Toronto Blue Jays,0,1.0
+776597,2025-08-25,Washington Nationals vs New York Yankees,New York Yankees,New York Yankees,1,1.0
+776598,2025-08-25,Philadelphia Phillies vs New York Mets,New York Mets,New York Mets,1,1.0
+776599,2025-08-25,Kansas City Royals vs Chicago White Sox,Chicago White Sox,Chicago White Sox,1,1.0
+776600,2025-08-25,Atlanta Braves vs Miami Marlins,Atlanta Braves,Miami Marlins,0,1.0
+776601,2025-08-25,Tampa Bay Rays vs Cleveland Guardians,Tampa Bay Rays,Tampa Bay Rays,1,1.0
+776604,2025-08-25,Boston Red Sox vs Baltimore Orioles,Baltimore Orioles,Boston Red Sox,0,1.0
+776573,2025-08-26,Detroit Tigers vs Athletics,Detroit Tigers,Athletics,0,1.0
+776574,2025-08-26,Cincinnati Reds vs Los Angeles Dodgers,Los Angeles Dodgers,Los Angeles Dodgers,1,1.0
+776575,2025-08-26,Los Angeles Angels vs Texas Rangers,Texas Rangers,Texas Rangers,1,1.0
+776576,2025-08-26,Chicago Cubs vs San Francisco Giants,Chicago Cubs,San Francisco Giants,0,1.0
+776577,2025-08-26,San Diego Padres vs Seattle Mariners,Seattle Mariners,San Diego Padres,0,1.0
+776578,2025-08-26,Pittsburgh Pirates vs St. Louis Cardinals,St. Louis Cardinals,Pittsburgh Pirates,0,1.0
+776581,2025-08-26,Atlanta Braves vs Miami Marlins,Miami Marlins,Atlanta Braves,0,1.0
+776582,2025-08-26,Minnesota Twins vs Toronto Blue Jays,Toronto Blue Jays,Minnesota Twins,0,1.0
+776583,2025-08-26,Kansas City Royals vs Chicago White Sox,Chicago White Sox,Kansas City Royals,0,1.0
+776584,2025-08-26,Tampa Bay Rays vs Cleveland Guardians,Tampa Bay Rays,Cleveland Guardians,0,1.0
+776585,2025-08-26,Philadelphia Phillies vs New York Mets,New York Mets,New York Mets,1,1.0
+776586,2025-08-26,Arizona Diamondbacks vs Milwaukee Brewers,Milwaukee Brewers,Milwaukee Brewers,1,1.0
+776587,2025-08-26,Colorado Rockies vs Houston Astros,Houston Astros,Colorado Rockies,0,1.0
+776588,2025-08-26,Washington Nationals vs New York Yankees,New York Yankees,New York Yankees,1,1.0
+776591,2025-08-26,Boston Red Sox vs Baltimore Orioles,Baltimore Orioles,Boston Red Sox,0,1.0

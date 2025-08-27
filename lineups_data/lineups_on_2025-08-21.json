@@ -1,0 +1,847 @@
+[
+    {
+        "game_id": 776653,
+        "home_team": "Minnesota Twins",
+        "away_team": "Athletics",
+        "home_lineup": [
+            {
+                "player_name": "Byron Buxton",
+                "player_id": 621439,
+                "batting_order": "100"
+            },
+            {
+                "player_name": "Trevor Larnach",
+                "player_id": 663616,
+                "batting_order": "200"
+            },
+            {
+                "player_name": "Brooks Lee",
+                "player_id": 686797,
+                "batting_order": "300"
+            },
+            {
+                "player_name": "Luke Keaschall",
+                "player_id": 807712,
+                "batting_order": "400"
+            },
+            {
+                "player_name": "Kody Clemens",
+                "player_id": 665019,
+                "batting_order": "500"
+            },
+            {
+                "player_name": "Royce Lewis",
+                "player_id": 668904,
+                "batting_order": "600"
+            },
+            {
+                "player_name": "James Outman",
+                "player_id": 681546,
+                "batting_order": "700"
+            },
+            {
+                "player_name": "Austin Martin",
+                "player_id": 668885,
+                "batting_order": "800"
+            },
+            {
+                "player_name": "Mickey Gasper",
+                "player_id": 681508,
+                "batting_order": "900"
+            }
+        ],
+        "away_lineup": [
+            {
+                "player_name": "Nick Kurtz",
+                "player_id": 701762,
+                "batting_order": "100"
+            },
+            {
+                "player_name": "Lawrence Butler",
+                "player_id": 671732,
+                "batting_order": "200"
+            },
+            {
+                "player_name": "Brent Rooker",
+                "player_id": 667670,
+                "batting_order": "300"
+            },
+            {
+                "player_name": "Tyler Soderstrom",
+                "player_id": 691016,
+                "batting_order": "400"
+            },
+            {
+                "player_name": "Darell Hernaiz",
+                "player_id": 687231,
+                "batting_order": "500"
+            },
+            {
+                "player_name": "Carlos Cortes",
+                "player_id": 666126,
+                "batting_order": "600"
+            },
+            {
+                "player_name": "Willie MacIver",
+                "player_id": 680862,
+                "batting_order": "700"
+            },
+            {
+                "player_name": "Brett Harris",
+                "player_id": 695391,
+                "batting_order": "800"
+            },
+            {
+                "player_name": "Max Schuemann",
+                "player_id": 680474,
+                "batting_order": "900"
+            }
+        ]
+    },
+    {
+        "game_id": 776657,
+        "home_team": "Kansas City Royals",
+        "away_team": "Texas Rangers",
+        "home_lineup": [
+            {
+                "player_name": "Maikel Garcia",
+                "player_id": 672580,
+                "batting_order": "100"
+            },
+            {
+                "player_name": "Bobby Witt Jr.",
+                "player_id": 677951,
+                "batting_order": "200"
+            },
+            {
+                "player_name": "Vinnie Pasquantino",
+                "player_id": 686469,
+                "batting_order": "300"
+            },
+            {
+                "player_name": "Salvador Perez",
+                "player_id": 521692,
+                "batting_order": "400"
+            },
+            {
+                "player_name": "Randal Grichuk",
+                "player_id": 545341,
+                "batting_order": "500"
+            },
+            {
+                "player_name": "Jonathan India",
+                "player_id": 663697,
+                "batting_order": "600"
+            },
+            {
+                "player_name": "Nick Loftin",
+                "player_id": 679845,
+                "batting_order": "700"
+            },
+            {
+                "player_name": "Luke Maile",
+                "player_id": 571912,
+                "batting_order": "800"
+            },
+            {
+                "player_name": "Tyler Tolbert",
+                "player_id": 686475,
+                "batting_order": "900"
+            }
+        ],
+        "away_lineup": [
+            {
+                "player_name": "Wyatt Langford",
+                "player_id": 694671,
+                "batting_order": "100"
+            },
+            {
+                "player_name": "Corey Seager",
+                "player_id": 608369,
+                "batting_order": "200"
+            },
+            {
+                "player_name": "Marcus Semien",
+                "player_id": 543760,
+                "batting_order": "300"
+            },
+            {
+                "player_name": "Joc Pederson",
+                "player_id": 592626,
+                "batting_order": "400"
+            },
+            {
+                "player_name": "Evan Carter",
+                "player_id": 694497,
+                "batting_order": "500"
+            },
+            {
+                "player_name": "Rowdy Tellez",
+                "player_id": 642133,
+                "batting_order": "600"
+            },
+            {
+                "player_name": "Josh Smith",
+                "player_id": 669701,
+                "batting_order": "700"
+            },
+            {
+                "player_name": "Cody Freeman",
+                "player_id": 683227,
+                "batting_order": "800"
+            },
+            {
+                "player_name": "Jonah Heim",
+                "player_id": 641680,
+                "batting_order": "900"
+            }
+        ]
+    },
+    {
+        "game_id": 776651,
+        "home_team": "Chicago Cubs",
+        "away_team": "Milwaukee Brewers",
+        "home_lineup": [
+            {
+                "player_name": "Michael Busch",
+                "player_id": 683737,
+                "batting_order": "100"
+            },
+            {
+                "player_name": "Kyle Tucker",
+                "player_id": 663656,
+                "batting_order": "200"
+            },
+            {
+                "player_name": "Seiya Suzuki",
+                "player_id": 673548,
+                "batting_order": "300"
+            },
+            {
+                "player_name": "Pete Crow-Armstrong",
+                "player_id": 691718,
+                "batting_order": "400"
+            },
+            {
+                "player_name": "Ian Happ",
+                "player_id": 664023,
+                "batting_order": "500"
+            },
+            {
+                "player_name": "Nico Hoerner",
+                "player_id": 663538,
+                "batting_order": "600"
+            },
+            {
+                "player_name": "Willi Castro",
+                "player_id": 650489,
+                "batting_order": "700"
+            },
+            {
+                "player_name": "Dansby Swanson",
+                "player_id": 621020,
+                "batting_order": "800"
+            },
+            {
+                "player_name": "Reese McGuire",
+                "player_id": 624512,
+                "batting_order": "900"
+            }
+        ],
+        "away_lineup": [
+            {
+                "player_name": "Sal Frelick",
+                "player_id": 686217,
+                "batting_order": "100"
+            },
+            {
+                "player_name": "Isaac Collins",
+                "player_id": 686555,
+                "batting_order": "200"
+            },
+            {
+                "player_name": "William Contreras",
+                "player_id": 661388,
+                "batting_order": "300"
+            },
+            {
+                "player_name": "Christian Yelich",
+                "player_id": 592885,
+                "batting_order": "400"
+            },
+            {
+                "player_name": "Andrew Vaughn",
+                "player_id": 683734,
+                "batting_order": "500"
+            },
+            {
+                "player_name": "Caleb Durbin",
+                "player_id": 702332,
+                "batting_order": "600"
+            },
+            {
+                "player_name": "Brice Turang",
+                "player_id": 668930,
+                "batting_order": "700"
+            },
+            {
+                "player_name": "Brandon Lockridge",
+                "player_id": 663604,
+                "batting_order": "800"
+            },
+            {
+                "player_name": "Joey Ortiz",
+                "player_id": 687401,
+                "batting_order": "900"
+            }
+        ]
+    },
+    {
+        "game_id": 776644,
+        "home_team": "Colorado Rockies",
+        "away_team": "Los Angeles Dodgers",
+        "home_lineup": [
+            {
+                "player_name": "Tyler Freeman",
+                "player_id": 671289,
+                "batting_order": "100"
+            },
+            {
+                "player_name": "Ezequiel Tovar",
+                "player_id": 678662,
+                "batting_order": "200"
+            },
+            {
+                "player_name": "Hunter Goodman",
+                "player_id": 696100,
+                "batting_order": "300"
+            },
+            {
+                "player_name": "Jordan Beck",
+                "player_id": 687597,
+                "batting_order": "400"
+            },
+            {
+                "player_name": "Brenton Doyle",
+                "player_id": 686668,
+                "batting_order": "500"
+            },
+            {
+                "player_name": "Braxton Fulford",
+                "player_id": 690924,
+                "batting_order": "600"
+            },
+            {
+                "player_name": "Kyle Farmer",
+                "player_id": 571657,
+                "batting_order": "700"
+            },
+            {
+                "player_name": "Orlando Arcia",
+                "player_id": 606115,
+                "batting_order": "800"
+            },
+            {
+                "player_name": "Ryan Ritter",
+                "player_id": 690022,
+                "batting_order": "900"
+            }
+        ],
+        "away_lineup": [
+            {
+                "player_name": "Mookie Betts",
+                "player_id": 605141,
+                "batting_order": "100"
+            },
+            {
+                "player_name": "Freddie Freeman",
+                "player_id": 518692,
+                "batting_order": "200"
+            },
+            {
+                "player_name": "Will Smith",
+                "player_id": 669257,
+                "batting_order": "300"
+            },
+            {
+                "player_name": "Michael Conforto",
+                "player_id": 624424,
+                "batting_order": "400"
+            },
+            {
+                "player_name": "Alex Freeland",
+                "player_id": 690976,
+                "batting_order": "500"
+            },
+            {
+                "player_name": "Dalton Rushing",
+                "player_id": 687221,
+                "batting_order": "600"
+            },
+            {
+                "player_name": "Andy Pages",
+                "player_id": 681624,
+                "batting_order": "700"
+            },
+            {
+                "player_name": "Alex Call",
+                "player_id": 669743,
+                "batting_order": "800"
+            },
+            {
+                "player_name": "Miguel Rojas",
+                "player_id": 500743,
+                "batting_order": "900"
+            }
+        ]
+    },
+    {
+        "game_id": 776650,
+        "home_team": "Washington Nationals",
+        "away_team": "New York Mets",
+        "home_lineup": [
+            {
+                "player_name": "James Wood",
+                "player_id": 695578,
+                "batting_order": "100"
+            },
+            {
+                "player_name": "CJ Abrams",
+                "player_id": 682928,
+                "batting_order": "200"
+            },
+            {
+                "player_name": "Paul DeJong",
+                "player_id": 657557,
+                "batting_order": "300"
+            },
+            {
+                "player_name": "Andr\u00e9s Chaparro",
+                "player_id": 665953,
+                "batting_order": "400"
+            },
+            {
+                "player_name": "Riley Adams",
+                "player_id": 656180,
+                "batting_order": "500"
+            },
+            {
+                "player_name": "Dylan Crews",
+                "player_id": 686611,
+                "batting_order": "600"
+            },
+            {
+                "player_name": "Daylen Lile",
+                "player_id": 695734,
+                "batting_order": "700"
+            },
+            {
+                "player_name": "Brady House",
+                "player_id": 691781,
+                "batting_order": "800"
+            },
+            {
+                "player_name": "Jacob Young",
+                "player_id": 696285,
+                "batting_order": "900"
+            }
+        ],
+        "away_lineup": [
+            {
+                "player_name": "Francisco Lindor",
+                "player_id": 596019,
+                "batting_order": "100"
+            },
+            {
+                "player_name": "Juan Soto",
+                "player_id": 665742,
+                "batting_order": "200"
+            },
+            {
+                "player_name": "Starling Marte",
+                "player_id": 516782,
+                "batting_order": "300"
+            },
+            {
+                "player_name": "Pete Alonso",
+                "player_id": 624413,
+                "batting_order": "400"
+            },
+            {
+                "player_name": "Mark Vientos",
+                "player_id": 668901,
+                "batting_order": "500"
+            },
+            {
+                "player_name": "Brett Baty",
+                "player_id": 683146,
+                "batting_order": "600"
+            },
+            {
+                "player_name": "Tyrone Taylor",
+                "player_id": 621438,
+                "batting_order": "700"
+            },
+            {
+                "player_name": "Cedric Mullins",
+                "player_id": 656775,
+                "batting_order": "800"
+            },
+            {
+                "player_name": "Hayden Senger",
+                "player_id": 663584,
+                "batting_order": "900"
+            }
+        ]
+    },
+    {
+        "game_id": 776642,
+        "home_team": "San Diego Padres",
+        "away_team": "San Francisco Giants",
+        "home_lineup": [
+            {
+                "player_name": "Fernando Tatis Jr.",
+                "player_id": 665487,
+                "batting_order": "100"
+            },
+            {
+                "player_name": "Luis Arraez",
+                "player_id": 650333,
+                "batting_order": "200"
+            },
+            {
+                "player_name": "Manny Machado",
+                "player_id": 592518,
+                "batting_order": "300"
+            },
+            {
+                "player_name": "Ryan O'Hearn",
+                "player_id": 656811,
+                "batting_order": "400"
+            },
+            {
+                "player_name": "Xander Bogaerts",
+                "player_id": 593428,
+                "batting_order": "500"
+            },
+            {
+                "player_name": "Gavin Sheets",
+                "player_id": 657757,
+                "batting_order": "600"
+            },
+            {
+                "player_name": "Ram\u00f3n Laureano",
+                "player_id": 657656,
+                "batting_order": "700"
+            },
+            {
+                "player_name": "Jake Cronenworth",
+                "player_id": 630105,
+                "batting_order": "800"
+            },
+            {
+                "player_name": "Freddy Fermin",
+                "player_id": 666023,
+                "batting_order": "900"
+            }
+        ],
+        "away_lineup": [
+            {
+                "player_name": "Jung Hoo Lee",
+                "player_id": 808982,
+                "batting_order": "100"
+            },
+            {
+                "player_name": "Heliot Ramos",
+                "player_id": 671218,
+                "batting_order": "200"
+            },
+            {
+                "player_name": "Rafael Devers",
+                "player_id": 646240,
+                "batting_order": "300"
+            },
+            {
+                "player_name": "Willy Adames",
+                "player_id": 642715,
+                "batting_order": "400"
+            },
+            {
+                "player_name": "Dominic Smith",
+                "player_id": 642086,
+                "batting_order": "500"
+            },
+            {
+                "player_name": "Casey Schmitt",
+                "player_id": 669477,
+                "batting_order": "600"
+            },
+            {
+                "player_name": "Christian Koss",
+                "player_id": 683766,
+                "batting_order": "700"
+            },
+            {
+                "player_name": "Luis Matos",
+                "player_id": 682641,
+                "batting_order": "800"
+            },
+            {
+                "player_name": "Andrew Knizner",
+                "player_id": 668800,
+                "batting_order": "900"
+            }
+        ]
+    },
+    {
+        "game_id": 776655,
+        "home_team": "Baltimore Orioles",
+        "away_team": "Houston Astros",
+        "home_lineup": [
+            {
+                "player_name": "Jackson Holliday",
+                "player_id": 702616,
+                "batting_order": "100"
+            },
+            {
+                "player_name": "Jeremiah Jackson",
+                "player_id": 669236,
+                "batting_order": "200"
+            },
+            {
+                "player_name": "Gunnar Henderson",
+                "player_id": 683002,
+                "batting_order": "300"
+            },
+            {
+                "player_name": "Ryan Mountcastle",
+                "player_id": 663624,
+                "batting_order": "400"
+            },
+            {
+                "player_name": "Colton Cowser",
+                "player_id": 681297,
+                "batting_order": "500"
+            },
+            {
+                "player_name": "Samuel Basallo",
+                "player_id": 694212,
+                "batting_order": "600"
+            },
+            {
+                "player_name": "Coby Mayo",
+                "player_id": 691723,
+                "batting_order": "700"
+            },
+            {
+                "player_name": "Dylan Beavers",
+                "player_id": 687637,
+                "batting_order": "800"
+            },
+            {
+                "player_name": "Dylan Carlson",
+                "player_id": 666185,
+                "batting_order": "900"
+            }
+        ],
+        "away_lineup": [
+            {
+                "player_name": "Jeremy Pe\u00f1a",
+                "player_id": 665161,
+                "batting_order": "100"
+            },
+            {
+                "player_name": "Carlos Correa",
+                "player_id": 621043,
+                "batting_order": "200"
+            },
+            {
+                "player_name": "Jose Altuve",
+                "player_id": 514888,
+                "batting_order": "300"
+            },
+            {
+                "player_name": "Christian Walker",
+                "player_id": 572233,
+                "batting_order": "400"
+            },
+            {
+                "player_name": "Jes\u00fas S\u00e1nchez",
+                "player_id": 660821,
+                "batting_order": "500"
+            },
+            {
+                "player_name": "Yainer Diaz",
+                "player_id": 673237,
+                "batting_order": "600"
+            },
+            {
+                "player_name": "Victor Caratini",
+                "player_id": 605170,
+                "batting_order": "700"
+            },
+            {
+                "player_name": "Mauricio Dub\u00f3n",
+                "player_id": 643289,
+                "batting_order": "800"
+            },
+            {
+                "player_name": "Jacob Melton",
+                "player_id": 689200,
+                "batting_order": "900"
+            }
+        ]
+    },
+    {
+        "game_id": 776654,
+        "home_team": "New York Yankees",
+        "away_team": "Boston Red Sox",
+        "home_lineup": [
+            {
+                "player_name": "Trent Grisham",
+                "player_id": 663757,
+                "batting_order": "100"
+            },
+            {
+                "player_name": "Aaron Judge",
+                "player_id": 592450,
+                "batting_order": "200"
+            },
+            {
+                "player_name": "Cody Bellinger",
+                "player_id": 641355,
+                "batting_order": "300"
+            },
+            {
+                "player_name": "Giancarlo Stanton",
+                "player_id": 519317,
+                "batting_order": "400"
+            },
+            {
+                "player_name": "Ben Rice",
+                "player_id": 700250,
+                "batting_order": "500"
+            },
+            {
+                "player_name": "Jazz Chisholm Jr.",
+                "player_id": 665862,
+                "batting_order": "600"
+            },
+            {
+                "player_name": "Paul Goldschmidt",
+                "player_id": 502671,
+                "batting_order": "700"
+            },
+            {
+                "player_name": "Ryan McMahon",
+                "player_id": 641857,
+                "batting_order": "800"
+            },
+            {
+                "player_name": "Anthony Volpe",
+                "player_id": 683011,
+                "batting_order": "900"
+            }
+        ],
+        "away_lineup": [
+            {
+                "player_name": "Roman Anthony",
+                "player_id": 701350,
+                "batting_order": "100"
+            },
+            {
+                "player_name": "Alex Bregman",
+                "player_id": 608324,
+                "batting_order": "200"
+            },
+            {
+                "player_name": "Jarren Duran",
+                "player_id": 680776,
+                "batting_order": "300"
+            },
+            {
+                "player_name": "Trevor Story",
+                "player_id": 596115,
+                "batting_order": "400"
+            },
+            {
+                "player_name": "Nathaniel Lowe",
+                "player_id": 663993,
+                "batting_order": "500"
+            },
+            {
+                "player_name": "Masataka Yoshida",
+                "player_id": 807799,
+                "batting_order": "600"
+            },
+            {
+                "player_name": "Ceddanne Rafaela",
+                "player_id": 678882,
+                "batting_order": "700"
+            },
+            {
+                "player_name": "David Hamilton",
+                "player_id": 666152,
+                "batting_order": "800"
+            },
+            {
+                "player_name": "Carlos Narv\u00e1ez",
+                "player_id": 665966,
+                "batting_order": "900"
+            }
+        ]
+    },
+    {
+        "game_id": 776631,
+        "home_team": "Tampa Bay Rays",
+        "away_team": "St. Louis Cardinals",
+        "home_lineup": [],
+        "away_lineup": [
+            {
+                "player_name": "Lars Nootbaar",
+                "player_id": 663457,
+                "batting_order": "100"
+            },
+            {
+                "player_name": "Iv\u00e1n Herrera",
+                "player_id": 671056,
+                "batting_order": "200"
+            },
+            {
+                "player_name": "Alec Burleson",
+                "player_id": 676475,
+                "batting_order": "300"
+            },
+            {
+                "player_name": "Willson Contreras",
+                "player_id": 575929,
+                "batting_order": "400"
+            },
+            {
+                "player_name": "Masyn Winn",
+                "player_id": 691026,
+                "batting_order": "500"
+            },
+            {
+                "player_name": "Nolan Gorman",
+                "player_id": 669357,
+                "batting_order": "600"
+            },
+            {
+                "player_name": "Thomas Saggese",
+                "player_id": 695336,
+                "batting_order": "700"
+            },
+            {
+                "player_name": "Pedro Pag\u00e9s",
+                "player_id": 686780,
+                "batting_order": "800"
+            },
+            {
+                "player_name": "Nathan Church",
+                "player_id": 701675,
+                "batting_order": "900"
+            }
+        ]
+    }
+]
