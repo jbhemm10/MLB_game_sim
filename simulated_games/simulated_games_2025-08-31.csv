@@ -1,0 +1,16 @@
+Game ID,Projected Winning Team,Projected Losing Team,Away Team,Home Team,Away Team Win Percentage,Home Team Win Percentage,Average Away Score,Average Home Score,Average Total Innings,Confidence Level
+776507,Baltimore Orioles,San Francisco Giants,Baltimore Orioles,San Francisco Giants,1.0,0.0,6.0,1.0,9.0,1.0
+776508,Texas Rangers,Athletics,Texas Rangers,Athletics,1.0,0.0,14.0,10.0,9.0,1.0
+776509,Los Angeles Dodgers,Arizona Diamondbacks,Arizona Diamondbacks,Los Angeles Dodgers,0.0,1.0,4.0,5.0,9.0,1.0
+776510,Los Angeles Angels,Houston Astros,Los Angeles Angels,Houston Astros,1.0,0.0,3.0,0.0,9.0,1.0
+776511,Colorado Rockies,Chicago Cubs,Chicago Cubs,Colorado Rockies,0.0,1.0,5.0,6.0,9.0,1.0
+776512,Kansas City Royals,Detroit Tigers,Detroit Tigers,Kansas City Royals,0.0,1.0,6.0,7.0,9.0,1.0
+776513,Minnesota Twins,San Diego Padres,San Diego Padres,Minnesota Twins,0.0,1.0,6.0,9.0,9.0,1.0
+776514,Chicago White Sox,New York Yankees,New York Yankees,Chicago White Sox,0.0,1.0,8.0,9.0,9.0,1.0
+776515,Toronto Blue Jays,Milwaukee Brewers,Milwaukee Brewers,Toronto Blue Jays,0.0,1.0,2.0,10.0,9.0,1.0
+776517,Pittsburgh Pirates,Boston Red Sox,Pittsburgh Pirates,Boston Red Sox,1.0,0.0,8.0,2.0,9.0,1.0
+776518,St. Louis Cardinals,Cincinnati Reds,St. Louis Cardinals,Cincinnati Reds,1.0,0.0,17.0,9.0,9.0,1.0
+776519,Miami Marlins,New York Mets,Miami Marlins,New York Mets,1.0,0.0,9.0,6.0,9.0,1.0
+776520,Tampa Bay Rays,Washington Nationals,Tampa Bay Rays,Washington Nationals,1.0,0.0,14.0,12.0,10.0,1.0
+776521,Seattle Mariners,Cleveland Guardians,Seattle Mariners,Cleveland Guardians,1.0,0.0,7.0,0.0,9.0,1.0
+776522,Philadelphia Phillies,Atlanta Braves,Atlanta Braves,Philadelphia Phillies,0.0,1.0,5.0,12.0,9.0,1.0
